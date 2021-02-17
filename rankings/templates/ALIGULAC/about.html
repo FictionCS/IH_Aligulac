@@ -9,9 +9,24 @@
 					  border-color: #e7e7e7;
 					  font-variant: small-cap
 					  font-family: 'Roboto', sans-serif;
-					  text-align: left;">About</h2>
+					  text-align: left">About</h2>
 		<p>
-			
+			How this works:
 		</p>
+		<ul>
+			<li>
+				Players in the current list are required to have played in the last 8 weeks, as well as having less than 200 RD (about 6-10 games)
+			</li>
+			<li>
+				Every player who has ever played in a tournament has their scores saved in the full document above (Ratings start at 1000), but will be excluded from the current list unless they meet the requirements.
+
+			</li>
+			<li>
+				The RD stands for the Rating Deviation, the higher the RD the more rating gained/lost for each win. 
+			</li>
+			<li>
+				Uses a version of the method found here http://aligulac.com/about/faq/, as well as the python code for Glicko2 found here https://github.com/ryankirkman/pyglicko2 
+			</li>
+		</ul>
 	</div>
 {% endblock content %}
