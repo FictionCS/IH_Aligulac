@@ -32,7 +32,7 @@
 		    letter-spacing: 0.1em;
 		    text-align: center">Iron Harvest Progaming Statistics and Predictions</p>
 	</div>
-	<nav style="position: relative;
+	<nav style="padding-top: 30px;
   			min-height: 50px;
   			margin-bottom: 20px;
   			border: 1px solid transparent">
@@ -40,8 +40,10 @@
 	    				font-size: 0.9em;
 	    				letter-spacing: 0.1em;
 	    				text-align: center">
-			<button >Rankings</button>
-			<button>About</button>
+			<ul>
+			  <li><a href="{% url 'rankings.home' %}">Rankings</a></li>
+			  <li><a href="{% url 'rankings.about' %}">About</a></li>
+			</ul>
 		</div>	
 	</nav>
 	<div class="container">
