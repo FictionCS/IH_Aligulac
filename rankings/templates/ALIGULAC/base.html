@@ -51,32 +51,7 @@
 			</ul>
 		</div>	
 	</nav>
-	<div class="container">
-		<h2>Current Rankings</h2>
-		<table class="table table-striped table-hover">
-		  	<tr style="font-size: ">
-			    <th>Rank</th>
-			    <th>Player</th>
-			    <th>Rating</th>
-			    <th>Winrate</th>
-			    <th>Wins</th>
-			    <th>Losses</th>
-			    <th>RD</th>
-			</tr>
-			{% for player in players %}
- 				<tr>
-					<th style="font-size: 20px">{{ player.rank }}</th>
-					<th style="font-weight: normal">{{ player.player }}</th>
-					<th style="font-weight: normal">{{ player.rating }}</th>
-					<th style="font-weight: normal">{{ player.winrate }}</th>
-					<th style="font-weight: normal">{{ player.wins }}</th>
-					<th style="font-weight: normal">{{ player.losses }}</th>
-					<th style="font-weight: normal">{{ player.rd }}</th>
-				</tr>
-			{% endfor %}
-			<tr>
-		</table>
-	</div>
+	{% block content %}{% endblock %}
   </body>
 </body>
 </html>
