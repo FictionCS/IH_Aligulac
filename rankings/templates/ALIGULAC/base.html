@@ -1,6 +1,11 @@
 {% load static %}
 <!DOCTYPE html>
 <html>
+<style> 
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+</style>
 <head>
 	<!-- Required meta tags -->
     <meta charset="utf-8">
@@ -37,7 +42,7 @@
 	    				letter-spacing: 0.1em;
 	    				text-align: center;
 	    				padding-bottom: : 15px;">
-			<div class="Button Group" style="list-style-type: none;
+			<div class="btn-group" style="list-style-type: none;
 					margin: 0;
 					padding: 0;
 					overflow: hidden;    
