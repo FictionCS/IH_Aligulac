@@ -518,5 +518,5 @@ def home(request):
 	return render(request, 'ALIGULAC/home.html', context)
 
 def about(request):
-	return HttpResponse('<h1>FAQ</h1>')
+	return render(request, 'ALIGULAC/about.html')
 
