@@ -14,7 +14,7 @@ players = [
 	},
 	{
 	'rank':'2',
-	'player':'aicad',
+	'player':'Aicad',
 	'rating':'1723',
 	'winrate':'68.89%',
 	'wins':'31',
