@@ -1,0 +1,51 @@
+body > div {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4em;
+    font-weight: normal;
+}
+h1#title {
+    color: #000000;
+    font-family: 'Marcellus SC', Times, serif;
+    font-size: 60px;
+    letter-spacing: 0.6em;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 0.7em;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+h2 {
+  padding-top: 50px;
+  font-size:25px;
+  font-weight: 400;
+  border-style: none none solid none;
+  border-width: 0.05em;
+  border-color: #e7e7e7;
+  font-variant: small-cap
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+
+tr {
+  display: table-row;
+
+
+}
+
+}
+
+.topBar {
+}
+
+.subheading{
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+
+.text-muted {
+  color: #999;
+}
+
