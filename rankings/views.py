@@ -511,10 +511,13 @@ players = [
 	},
 ]
 def matches(request):
+	context = {
+		'players':fullList
+	}
 	return render(request, 'ALIGULAC/matches.html', context)
 
 def predictions(request):
-	return render(request, 'ALIGULAC/predictions.html', context)
+	return render(request, 'ALIGULAC/predictions.html')
 
 def full(request):
 	context = {
