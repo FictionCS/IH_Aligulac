@@ -510,6 +510,11 @@ players = [
 	'rd':'188'
 	},
 ]
+def matches(request):
+	return render(request, 'ALIGULAC/matches.html', context)
+
+def predictions(request):
+	return render(request, 'ALIGULAC/predictions.html', context)
 
 def full(request):
 	context = {
