@@ -515,7 +515,7 @@ def full(request):
 	context = {
 		'players':players
 	}
-	return render(request, 'ALIGULAC/full.html', fullList)
+	return render(request, 'ALIGULAC/full.html', context)
 
 def home(request):
 	context = {
