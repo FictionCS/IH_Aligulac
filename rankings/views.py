@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 # Create your views here.
 
-from fullData import fullList
+from fullData
 
 players = [
 	{
