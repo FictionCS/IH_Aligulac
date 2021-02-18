@@ -2,6 +2,8 @@ from django.shortcuts import render
 from django.http import HttpResponse
 # Create your views here.
 
+from fullData import fullList
+
 players = [
 	{
 	'rank':'1',
@@ -513,7 +515,7 @@ def full(request):
 	context = {
 		'players':players
 	}
-	return render(request, 'ALIGULAC/full.html', context)
+	return render(request, 'ALIGULAC/full.html', fullList)
 
 def home(request):
 	context = {
