@@ -25,10 +25,7 @@ MIDDLEWARE_CLASSES = (
 
 
 
-# Extra places for collectstatic to find static files.
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'static'),
-)
+
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'mek69m-esr52l4bzahzl+f1tron!!tdhwt+1y+pmjv_2#$ougt'
 
@@ -131,3 +128,7 @@ USE_TZ = True
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 
+# Extra places for collectstatic to find static files.
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
