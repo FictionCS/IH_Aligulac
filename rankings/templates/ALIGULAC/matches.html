@@ -1,6 +1,5 @@
 {% extends "ALIGULAC/base.html" %}
 {% block content %}
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<div class="container">
 		<h2 style="padding-top: 20px;
 					  font-size:25px;
@@ -11,11 +10,13 @@
 					  font-variant: small-cap
 					  font-family: 'Roboto', sans-serif;
 					  text-align: left;">Current Rankings</h2>
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<div class="pasteHere">
-	    <p id="fileTextHere"></p>
+	    <p id="fileTextHere">matches</p>
 	</div>
 	<script>
-	    $('#fileTextHere').load("/matches.txt");
+	    $('#fileTextHere').load("matches.txt");
 	</script>	
 	</div>
 {% endblock content %}
