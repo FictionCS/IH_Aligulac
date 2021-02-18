@@ -513,7 +513,7 @@ players = [
 
 def full(request):
 	context = {
-		'players':fullList
+		'players':fullData.fullList
 	}
 	return render(request, 'ALIGULAC/full.html', context)
 
