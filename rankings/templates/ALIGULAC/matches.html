@@ -1288,7 +1288,8 @@ for (i = 0; i < coll.length; i++) {
 window.addEventListener("keydown", function(e) {
   if (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70)) {
     // Store all accordion trigger elements
-    document.getElementById("MyElement").classList.add('active').nextElementSibling.style.maxHeight = content.scrollHeight + "px";
+    document.getElementById("MyElement").classList.add('active');
+    document.getElementById("MyElement").nextElementSibling.style.maxHeight = content.scrollHeight + "px";
   }
 })
 </script>
