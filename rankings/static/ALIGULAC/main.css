@@ -37,6 +37,9 @@ nav {
   margin-bottom: 20px;
   border: 1px solid transparent;
 }
+button {
+  border: 1px;
+}
 
 .collapsible {
   background-color: #e8e8e8;
@@ -44,9 +47,9 @@ nav {
   cursor: pointer;
   padding: 18px;
   width: 100%;
-  border: 1px;
+  border: none;
   text-align: left;
-  outline: 1px;
+  outline: none;
   font-size: 15px;
 }
 
