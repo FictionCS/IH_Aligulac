@@ -65,6 +65,7 @@ nav {
 .active, .collapsible:hover {
   background-color: #d1d1d1;
   border: none;
+  outline:none;
 }
 
 .collapsible:after {
@@ -80,6 +81,7 @@ nav {
 
 .active:after {
   border: none;
+  outline:none;
   content: "\2212";
 }
 
