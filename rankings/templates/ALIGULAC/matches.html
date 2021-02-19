@@ -1287,88 +1287,25 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 <script>
-(function() {
-  var d = document,
-    accordionToggles = d.querySelectorAll('.js-accordionTrigger'),
-    setAria,
-    setAccordionAria,
-    switchAccordion,
-    touchSupported = ('ontouchstart' in window),
-    pointerSupported = ('pointerdown' in window);
-  skipClickDelay = function(e) {
-    e.preventDefault();
-    e.target.click();
-  }
-
-  setAriaAttr = function(el, ariaType, newProperty) {
-    el.setAttribute(ariaType, newProperty);
-  };
-
-  setAccordionAria = function(el1, el2, expanded) {
-    switch (expanded) {
-      case "true":
-        setAriaAttr(el1, 'aria-expanded', 'true');
-        setAriaAttr(el2, 'aria-hidden', 'false');
-        break;
-      case "false":
-        setAriaAttr(el1, 'aria-expanded', 'false');
-        setAriaAttr(el2, 'aria-hidden', 'true');
-        break;
-      default:
-        break;
-    }
-  };
-
-  switchAccordion = function(e) {
-    console.log("triggered");
-    e.preventDefault();
-    var thisAnswer = e.target.parentNode.nextElementSibling;
-    var thisQuestion = e.target;
-    if (thisAnswer.classList.contains('is-collapsed')) {
-      setAccordionAria(thisQuestion, thisAnswer, 'true');
-    } else {
-      setAccordionAria(thisQuestion, thisAnswer, 'false');
-    }
-    thisQuestion.classList.toggle('is-collapsed');
-    thisQuestion.classList.toggle('is-expanded');
-    thisAnswer.classList.toggle('is-collapsed');
-    thisAnswer.classList.toggle('is-expanded');
-    thisAnswer.classList.toggle('animateIn');
-  };
-
-  expandAccordion = function(target) {
-    console.log("triggered");
-    var thisAnswer = target.parentNode.nextElementSibling;
-    var thisQuestion = target;
-    if (thisAnswer.classList.contains('is-collapsed')) {
-      setAccordionAria(thisQuestion, thisAnswer, 'true');
-      thisQuestion.classList.toggle('is-collapsed');
-      thisQuestion.classList.toggle('is-expanded');
-      thisAnswer.classList.toggle('is-collapsed');
-      thisAnswer.classList.toggle('is-expanded');
-      thisAnswer.classList.toggle('animateIn');
-    }
-  };
-
-  for (var i = 0, len = accordionToggles.length; i < len; i++) {
-    if (touchSupported) {
-      accordionToggles[i].addEventListener('touchstart', skipClickDelay, false);
-    }
-    if (pointerSupported) {
-      accordionToggles[i].addEventListener('pointerdown', skipClickDelay, false);
-    }
-    accordionToggles[i].addEventListener('click', switchAccordion, false);
-  }
-})();
-
 window.addEventListener("keydown", function(e) {
   if (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70)) {
-    //document.getElementById('accordion1').click();
-    //alert("Expand all collapsed sections for search");
-    //would like to make all accordians expand when Ctrl+F is pressed so that content can be searched
-    var accordionToggles = document.querySelectorAll('.js-accordionTrigger');
+    // Store all accordion trigger elements
+    var d = document,
+    accordionToggles = d.querySelectorAll('.js-accordionTrigger');
+    // loop through all accordion trigger elements
     for (var i = 0, len = accordionToggles.length; i < len; i++) {
-            expandAccordion(accordionToggles[i]);    
+      // store the current iterated accordion tigger element and content
+      var thisAnswer = accordionToggles[i].parentNode.nextElementSibling;
+      var thisQuestion = accordionToggles[i];
+      // check if current iterated accordion content has a class of "is-collapsed".
+      if (thisAnswer.classList.contains('is-collapsed')) {
+        // toggle current iterated accordion trigger and content classes if condition is met
+        thisQuestion.classList.toggle('is-collapsed');
+        thisQuestion.classList.toggle('is-expanded');
+        thisAnswer.classList.toggle('is-collapsed');
+        thisAnswer.classList.toggle('is-expanded');
+        thisAnswer.classList.toggle('animateIn');
+      }
     }
   }
 })
