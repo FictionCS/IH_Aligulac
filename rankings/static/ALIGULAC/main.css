@@ -61,6 +61,10 @@ nav {
   outline: none;
   font-size: 15px;
 }
+.active {
+  outline:none;
+  border: none;
+}
 
 .active, .collapsible:hover {
   background-color: #d1d1d1;
