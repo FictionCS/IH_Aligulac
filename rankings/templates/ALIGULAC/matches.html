@@ -1224,7 +1224,7 @@
 	</div>
 </div>
 <div class="container" style="padding-right: 100px; padding-left: 100px">
-	<button type="button" class="collapsible">The First Battle of Ypres</button>
+	<button id="My Element" type="button" class="collapsible">The First Battle of Ypres</button>
 	<div class="content">
 	<p style="padding-left:5em">
 		        Aicad 2 : 0 No02<br>
@@ -1288,23 +1288,7 @@ for (i = 0; i < coll.length; i++) {
 window.addEventListener("keydown", function(e) {
   if (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70)) {
     // Store all accordion trigger elements
-    var d = document,
-    accordionToggles = d.querySelectorAll('.js-accordionTrigger');
-    // loop through all accordion trigger elements
-    for (var i = 0, len = accordionToggles.length; i < len; i++) {
-      // store the current iterated accordion tigger element and content
-      var thisAnswer = accordionToggles[i].parentNode.nextElementSibling;
-      var thisQuestion = accordionToggles[i];
-      // check if current iterated accordion content has a class of "is-collapsed".
-      if (thisAnswer.classList.contains('is-collapsed')) {
-        // toggle current iterated accordion trigger and content classes if condition is met
-        thisQuestion.classList.toggle('is-collapsed');
-        thisQuestion.classList.toggle('is-expanded');
-        thisAnswer.classList.toggle('is-collapsed');
-        thisAnswer.classList.toggle('is-expanded');
-        thisAnswer.classList.toggle('animateIn');
-      }
-    }
+    document.getElementById("MyElement").classList.add('active');
   }
 })
 </script>
