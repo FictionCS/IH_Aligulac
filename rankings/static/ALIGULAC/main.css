@@ -38,6 +38,10 @@ nav {
   border: 1px solid transparent;
 }
 
+.test {
+  background-color: #42f542;
+}
+
 .collapsible {
   background-color: #ededed;
   color: black;
