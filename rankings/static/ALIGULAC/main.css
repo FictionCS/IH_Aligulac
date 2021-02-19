@@ -66,6 +66,7 @@ nav {
 }
 
 .active:after {
+  border: none;
   content: "\2212";
 }
 
