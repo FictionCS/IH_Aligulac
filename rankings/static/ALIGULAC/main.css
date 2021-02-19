@@ -50,6 +50,10 @@ nav {
   font-size: 15px;
 }
 
+.collapsible:focus {
+    outline: 0 !important;
+}
+
 .collapsible {
   background-color: #ededed;
   color: black;
