@@ -40,7 +40,7 @@ nav {
 
 .collapsible {
   background-color: #ededed;
-  color: black;
+  color: white;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -51,26 +51,13 @@ nav {
 }
 
 .active, .collapsible:hover {
-  background-color: #d1d1d1;
-}
-
-.collapsible:after {
-  content: '\002B';
-  color: white;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
+  background-color: #dbdbdb;
 }
 
 .content {
   padding: 0 18px;
-  max-height: 0;
+  display: none;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
 }
 
