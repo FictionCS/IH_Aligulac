@@ -38,6 +38,19 @@ nav {
   border: 1px solid transparent;
 }
 
+pre {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
 .test {
   background-color: #42f542;
 }
