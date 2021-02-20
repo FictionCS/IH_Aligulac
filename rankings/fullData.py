@@ -11,20 +11,20 @@ fullList = [
 {
 'rank':'2',
 'player':'Aicad',
-'rating':'1723',
-'winrate':'68.89%',
-'wins':'31',
-'losses':'14',
-'rd':'109'
+'rating':'1768',
+'winrate':'71.7%',
+'wins':'38',
+'losses':'15',
+'rd':'104'
 },
 {
 'rank':'3',
 'player':'Noah',
-'rating':'1659',
-'winrate':'74.07%',
-'wins':'20',
-'losses':'7',
-'rd':'105'
+'rating':'1661',
+'winrate':'72.97%',
+'wins':'27',
+'losses':'10',
+'rd':'97'
 },
 {
 'rank':'4',
@@ -46,6 +46,15 @@ fullList = [
 },
 {
 'rank':'6',
+'player':'Lev',
+'rating':'1563',
+'winrate':'50.0%',
+'wins':'2',
+'losses':'2',
+'rd':'263'
+},
+{
+'rank':'7',
 'player':'malgari',
 'rating':'1503',
 'winrate':'66.67%',
@@ -54,7 +63,7 @@ fullList = [
 'rd':'230'
 },
 {
-'rank':'7',
+'rank':'8',
 'player':'Venaqus',
 'rating':'1500',
 'winrate':'78.05%',
@@ -63,7 +72,7 @@ fullList = [
 'rd':'92'
 },
 {
-'rank':'8',
+'rank':'9',
 'player':'Vipasyn',
 'rating':'1499',
 'winrate':'85.71%',
@@ -72,7 +81,7 @@ fullList = [
 'rd':'227'
 },
 {
-'rank':'9',
+'rank':'10',
 'player':'mfvillain',
 'rating':'1446',
 'winrate':'40.0%',
@@ -81,16 +90,16 @@ fullList = [
 'rd':'232'
 },
 {
-'rank':'10',
+'rank':'11',
 'player':'Xyr0N',
-'rating':'1394',
-'winrate':'70.21%',
-'wins':'33',
-'losses':'14',
-'rd':'84'
+'rating':'1405',
+'winrate':'69.81%',
+'wins':'37',
+'losses':'16',
+'rd':'82'
 },
 {
-'rank':'11',
+'rank':'12',
 'player':'Jdanzi',
 'rating':'1381',
 'winrate':'69.57%',
@@ -99,7 +108,7 @@ fullList = [
 'rd':'96'
 },
 {
-'rank':'12',
+'rank':'13',
 'player':'NaumMW',
 'rating':'1373',
 'winrate':'66.67%',
@@ -108,7 +117,7 @@ fullList = [
 'rd':'126'
 },
 {
-'rank':'13',
+'rank':'14',
 'player':'Troyd',
 'rating':'1345',
 'winrate':'65.85%',
@@ -117,7 +126,7 @@ fullList = [
 'rd':'100'
 },
 {
-'rank':'14',
+'rank':'15',
 'player':'Wizard cat',
 'rating':'1335',
 'winrate':'75.0%',
@@ -126,7 +135,7 @@ fullList = [
 'rd':'208'
 },
 {
-'rank':'15',
+'rank':'16',
 'player':'Pyroka',
 'rating':'1306',
 'winrate':'66.67%',
@@ -135,31 +144,22 @@ fullList = [
 'rd':'112'
 },
 {
-'rank':'16',
+'rank':'17',
+'player':'Seemann AIOBE',
+'rating':'1290',
+'winrate':'64.1%',
+'wins':'25',
+'losses':'14',
+'rd':'88'
+},
+{
+'rank':'18',
 'player':'VindicareX',
 'rating':'1288',
 'winrate':'50.0%',
 'wins':'2',
 'losses':'2',
 'rd':'283'
-},
-{
-'rank':'17',
-'player':'Bobito',
-'rating':'1282',
-'winrate':'50.0%',
-'wins':'2',
-'losses':'2',
-'rd':'248'
-},
-{
-'rank':'18',
-'player':'No02',
-'rating':'1281',
-'winrate':'50.0%',
-'wins':'2',
-'losses':'2',
-'rd':'281'
 },
 {
 'rank':'19',
@@ -181,15 +181,6 @@ fullList = [
 },
 {
 'rank':'21',
-'player':'Seemann AIOBE',
-'rating':'1264',
-'winrate':'65.71%',
-'wins':'23',
-'losses':'12',
-'rd':'90'
-},
-{
-'rank':'22',
 'player':'Mixu',
 'rating':'1258',
 'winrate':'64.71%',
@@ -198,7 +189,7 @@ fullList = [
 'rd':'115'
 },
 {
-'rank':'23',
+'rank':'22',
 'player':'Kaos',
 'rating':'1234',
 'winrate':'53.33%',
@@ -207,7 +198,7 @@ fullList = [
 'rd':'122'
 },
 {
-'rank':'24',
+'rank':'23',
 'player':'JudoKris',
 'rating':'1205',
 'winrate':'50.0%',
@@ -216,16 +207,7 @@ fullList = [
 'rd':'196'
 },
 {
-'rank':'25',
-'player':'Fiction',
-'rating':'1199',
-'winrate':'60.98%',
-'wins':'25',
-'losses':'16',
-'rd':'82'
-},
-{
-'rank':'26',
+'rank':'24',
 'player':'Hupsaiya',
 'rating':'1199',
 'winrate':'66.67%',
@@ -234,7 +216,7 @@ fullList = [
 'rd':'227'
 },
 {
-'rank':'27',
+'rank':'25',
 'player':'Deku',
 'rating':'1197',
 'winrate':'57.14%',
@@ -243,7 +225,7 @@ fullList = [
 'rd':'182'
 },
 {
-'rank':'28',
+'rank':'26',
 'player':'Chuzar',
 'rating':'1190',
 'winrate':'50.0%',
@@ -252,7 +234,16 @@ fullList = [
 'rd':'264'
 },
 {
-'rank':'29',
+'rank':'27',
+'player':'Fiction',
+'rating':'1164',
+'winrate':'58.14%',
+'wins':'25',
+'losses':'18',
+'rd':'82'
+},
+{
+'rank':'28',
 'player':'TwitchNaummw',
 'rating':'1163',
 'winrate':'62.5%',
@@ -261,7 +252,7 @@ fullList = [
 'rd':'100'
 },
 {
-'rank':'30',
+'rank':'29',
 'player':'Jacob',
 'rating':'1162',
 'winrate':'58.33%',
@@ -270,7 +261,7 @@ fullList = [
 'rd':'94'
 },
 {
-'rank':'31',
+'rank':'30',
 'player':'Curiousmat',
 'rating':'1162',
 'winrate':'100%',
@@ -279,7 +270,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'32',
+'rank':'31',
 'player':'The Von',
 'rating':'1154',
 'winrate':'58.33%',
@@ -288,16 +279,34 @@ fullList = [
 'rd':'133'
 },
 {
+'rank':'32',
+'player':'LemonPi',
+'rating':'1143',
+'winrate':'33.33%',
+'wins':'3',
+'losses':'6',
+'rd':'212'
+},
+{
 'rank':'33',
-'player':'Claera',
-'rating':'1139',
-'winrate':'49.12%',
-'wins':'28',
-'losses':'29',
-'rd':'77'
+'player':'Bobito',
+'rating':'1115',
+'winrate':'33.33%',
+'wins':'2',
+'losses':'4',
+'rd':'207'
 },
 {
 'rank':'34',
+'player':'Claera',
+'rating':'1090',
+'winrate':'47.46%',
+'wins':'28',
+'losses':'31',
+'rd':'76'
+},
+{
+'rank':'35',
 'player':'Juutilainen',
 'rating':'1065',
 'winrate':'60.0%',
@@ -306,7 +315,7 @@ fullList = [
 'rd':'196'
 },
 {
-'rank':'35',
+'rank':'36',
 'player':'fox40phil',
 'rating':'1056',
 'winrate':'50.0%',
@@ -315,7 +324,7 @@ fullList = [
 'rd':'187'
 },
 {
-'rank':'36',
+'rank':'37',
 'player':'Pluck',
 'rating':'1053',
 'winrate':'37.5%',
@@ -324,7 +333,7 @@ fullList = [
 'rd':'182'
 },
 {
-'rank':'37',
+'rank':'38',
 'player':'Neo Combine',
 'rating':'1051',
 'winrate':'50.0%',
@@ -333,7 +342,7 @@ fullList = [
 'rd':'166'
 },
 {
-'rank':'38',
+'rank':'39',
 'player':'Franky',
 'rating':'1046',
 'winrate':'50.0%',
@@ -342,7 +351,7 @@ fullList = [
 'rd':'127'
 },
 {
-'rank':'39',
+'rank':'40',
 'player':'Mur',
 'rating':'1037',
 'winrate':'45.45%',
@@ -351,7 +360,7 @@ fullList = [
 'rd':'134'
 },
 {
-'rank':'40',
+'rank':'41',
 'player':'PekaMaru',
 'rating':'1036',
 'winrate':'33.33%',
@@ -360,7 +369,7 @@ fullList = [
 'rd':'251'
 },
 {
-'rank':'41',
+'rank':'42',
 'player':'rntpln',
 'rating':'1034',
 'winrate':'50.0%',
@@ -369,7 +378,16 @@ fullList = [
 'rd':'110'
 },
 {
-'rank':'42',
+'rank':'43',
+'player':'Seemann Oome',
+'rating':'1021',
+'winrate':'42.31%',
+'wins':'11',
+'losses':'15',
+'rd':'104'
+},
+{
+'rank':'44',
 'player':'Keorangar',
 'rating':'1014',
 'winrate':'50.0%',
@@ -378,7 +396,7 @@ fullList = [
 'rd':'175'
 },
 {
-'rank':'43',
+'rank':'45',
 'player':'BobBaboushkin',
 'rating':'1002',
 'winrate':'28.57%',
@@ -387,7 +405,7 @@ fullList = [
 'rd':'258'
 },
 {
-'rank':'44',
+'rank':'46',
 'player':'Tiy',
 'rating':'1000',
 'winrate':'50.0%',
@@ -396,7 +414,7 @@ fullList = [
 'rd':'253'
 },
 {
-'rank':'45',
+'rank':'47',
 'player':'Hobbs',
 'rating':'1000',
 'winrate':'50.0%',
@@ -405,7 +423,16 @@ fullList = [
 'rd':'181'
 },
 {
-'rank':'46',
+'rank':'48',
+'player':'No02',
+'rating':'995',
+'winrate':'33.33%',
+'wins':'2',
+'losses':'4',
+'rd':'222'
+},
+{
+'rank':'49',
 'player':'Dixio',
 'rating':'986',
 'winrate':'41.67%',
@@ -414,7 +441,7 @@ fullList = [
 'rd':'120'
 },
 {
-'rank':'47',
+'rank':'50',
 'player':'Olvadi',
 'rating':'975',
 'winrate':'0.0%',
@@ -423,7 +450,7 @@ fullList = [
 'rd':'329'
 },
 {
-'rank':'48',
+'rank':'51',
 'player':'SavaKHV',
 'rating':'971',
 'winrate':'0.0%',
@@ -432,7 +459,7 @@ fullList = [
 'rd':'337'
 },
 {
-'rank':'49',
+'rank':'52',
 'player':'GiftedMachine',
 'rating':'968',
 'winrate':'41.67%',
@@ -441,7 +468,16 @@ fullList = [
 'rd':'124'
 },
 {
-'rank':'50',
+'rank':'53',
+'player':'CurtChan',
+'rating':'967',
+'winrate':'0.0%',
+'wins':'0',
+'losses':'2',
+'rd':'335'
+},
+{
+'rank':'54',
 'player':'Bloodyman',
 'rating':'947',
 'winrate':'37.5%',
@@ -450,7 +486,7 @@ fullList = [
 'rd':'194'
 },
 {
-'rank':'51',
+'rank':'55',
 'player':'PowerK',
 'rating':'941',
 'winrate':'33.33%',
@@ -459,7 +495,7 @@ fullList = [
 'rd':'174'
 },
 {
-'rank':'52',
+'rank':'56',
 'player':'InsaneSaintGamer',
 'rating':'932',
 'winrate':'40.0%',
@@ -468,7 +504,7 @@ fullList = [
 'rd':'186'
 },
 {
-'rank':'53',
+'rank':'57',
 'player':'MrBananaGrabber',
 'rating':'931',
 'winrate':'33.33%',
@@ -477,7 +513,7 @@ fullList = [
 'rd':'185'
 },
 {
-'rank':'54',
+'rank':'58',
 'player':'UpAllNight',
 'rating':'928',
 'winrate':'30.0%',
@@ -486,7 +522,7 @@ fullList = [
 'rd':'175'
 },
 {
-'rank':'55',
+'rank':'59',
 'player':'Shaders...ellipses',
 'rating':'927',
 'winrate':'33.33%',
@@ -495,7 +531,7 @@ fullList = [
 'rd':'152'
 },
 {
-'rank':'56',
+'rank':'60',
 'player':'dr mantis tobaggan',
 'rating':'926',
 'winrate':'33.33%',
@@ -504,16 +540,7 @@ fullList = [
 'rd':'231'
 },
 {
-'rank':'57',
-'player':'Seemann Oome',
-'rating':'917',
-'winrate':'40.91%',
-'wins':'9',
-'losses':'13',
-'rd':'105'
-},
-{
-'rank':'58',
+'rank':'61',
 'player':'Oathmaster',
 'rating':'916',
 'winrate':'33.33%',
@@ -522,7 +549,7 @@ fullList = [
 'rd':'169'
 },
 {
-'rank':'59',
+'rank':'62',
 'player':'Scarecrow',
 'rating':'911',
 'winrate':'41.67%',
@@ -531,7 +558,7 @@ fullList = [
 'rd':'93'
 },
 {
-'rank':'60',
+'rank':'63',
 'player':'St.Akardi',
 'rating':'899',
 'winrate':'33.33%',
@@ -540,7 +567,7 @@ fullList = [
 'rd':'115'
 },
 {
-'rank':'61',
+'rank':'64',
 'player':'MC-spOrk',
 'rating':'892',
 'winrate':'0.0%',
@@ -549,7 +576,7 @@ fullList = [
 'rd':'307'
 },
 {
-'rank':'62',
+'rank':'65',
 'player':'benderivan',
 'rating':'890',
 'winrate':'0.0%',
@@ -558,7 +585,7 @@ fullList = [
 'rd':'270'
 },
 {
-'rank':'63',
+'rank':'66',
 'player':'Seemann FiberOptrix',
 'rating':'883',
 'winrate':'36.36%',
@@ -567,7 +594,7 @@ fullList = [
 'rd':'135'
 },
 {
-'rank':'64',
+'rank':'67',
 'player':'AlkaduR',
 'rating':'880',
 'winrate':'33.33%',
@@ -576,7 +603,7 @@ fullList = [
 'rd':'175'
 },
 {
-'rank':'65',
+'rank':'68',
 'player':'Arisdrotel',
 'rating':'879',
 'winrate':'40.0%',
@@ -585,7 +612,7 @@ fullList = [
 'rd':'203'
 },
 {
-'rank':'66',
+'rank':'69',
 'player':'Fifek',
 'rating':'876',
 'winrate':'40.0%',
@@ -594,7 +621,7 @@ fullList = [
 'rd':'253'
 },
 {
-'rank':'67',
+'rank':'70',
 'player':'Danielosama',
 'rating':'873',
 'winrate':'33.33%',
@@ -603,7 +630,7 @@ fullList = [
 'rd':'181'
 },
 {
-'rank':'68',
+'rank':'71',
 'player':'Hans Kater Gunter',
 'rating':'848',
 'winrate':'0.0%',
@@ -612,7 +639,7 @@ fullList = [
 'rd':'224'
 },
 {
-'rank':'69',
+'rank':'72',
 'player':'ilcati',
 'rating':'837',
 'winrate':'33.33%',
@@ -621,7 +648,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'70',
+'rank':'73',
 'player':'Killuminati',
 'rating':'837',
 'winrate':'25.0%',
@@ -630,7 +657,7 @@ fullList = [
 'rd':'230'
 },
 {
-'rank':'71',
+'rank':'74',
 'player':'Evilbird',
 'rating':'837',
 'winrate':'0.0%',
@@ -639,7 +666,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'72',
+'rank':'75',
 'player':'Patrik',
 'rating':'832',
 'winrate':'0.0%',
@@ -648,7 +675,7 @@ fullList = [
 'rd':'271'
 },
 {
-'rank':'73',
+'rank':'76',
 'player':'LemaEdwin',
 'rating':'825',
 'winrate':'0.0%',
@@ -657,7 +684,7 @@ fullList = [
 'rd':'239'
 },
 {
-'rank':'74',
+'rank':'77',
 'player':'Vermillion_Hawk',
 'rating':'820',
 'winrate':'33.33%',
@@ -666,7 +693,7 @@ fullList = [
 'rd':'183'
 },
 {
-'rank':'75',
+'rank':'78',
 'player':'Flibby Longshanks',
 'rating':'819',
 'winrate':'27.27%',
@@ -675,7 +702,7 @@ fullList = [
 'rd':'144'
 },
 {
-'rank':'76',
+'rank':'79',
 'player':'Nobby',
 'rating':'810',
 'winrate':'0.0%',
@@ -684,7 +711,7 @@ fullList = [
 'rd':'270'
 },
 {
-'rank':'77',
+'rank':'80',
 'player':'HIDZEN',
 'rating':'808',
 'winrate':'28.57%',
@@ -693,7 +720,7 @@ fullList = [
 'rd':'214'
 },
 {
-'rank':'78',
+'rank':'81',
 'player':'dragonborn',
 'rating':'802',
 'winrate':'50.0%',
@@ -702,7 +729,7 @@ fullList = [
 'rd':'260'
 },
 {
-'rank':'79',
+'rank':'82',
 'player':'BorosRedeemed',
 'rating':'789',
 'winrate':'25.0%',
@@ -711,7 +738,7 @@ fullList = [
 'rd':'207'
 },
 {
-'rank':'80',
+'rank':'83',
 'player':'Lord of the Night',
 'rating':'783',
 'winrate':'0.0%',
@@ -720,7 +747,7 @@ fullList = [
 'rd':'280'
 },
 {
-'rank':'81',
+'rank':'84',
 'player':'NOSmarkov',
 'rating':'767',
 'winrate':'25.0%',
@@ -729,7 +756,7 @@ fullList = [
 'rd':'249'
 },
 {
-'rank':'82',
+'rank':'85',
 'player':'Semillon',
 'rating':'767',
 'winrate':'23.53%',
@@ -738,7 +765,7 @@ fullList = [
 'rd':'138'
 },
 {
-'rank':'83',
+'rank':'86',
 'player':'Captain Hellbat',
 'rating':'761',
 'winrate':'20.0%',
@@ -747,7 +774,7 @@ fullList = [
 'rd':'178'
 },
 {
-'rank':'84',
+'rank':'87',
 'player':'Kagor',
 'rating':'751',
 'winrate':'0.0%',
@@ -756,7 +783,7 @@ fullList = [
 'rd':'271'
 },
 {
-'rank':'85',
+'rank':'88',
 'player':'Jonmatrix',
 'rating':'746',
 'winrate':'16.67%',
@@ -765,7 +792,7 @@ fullList = [
 'rd':'181'
 },
 {
-'rank':'86',
+'rank':'89',
 'player':'Bonzo',
 'rating':'744',
 'winrate':'0.0%',
@@ -774,7 +801,7 @@ fullList = [
 'rd':'279'
 },
 {
-'rank':'87',
+'rank':'90',
 'player':'Smeg4brainsuk',
 'rating':'733',
 'winrate':'16.67%',
@@ -783,7 +810,7 @@ fullList = [
 'rd':'164'
 },
 {
-'rank':'88',
+'rank':'91',
 'player':'Musashi',
 'rating':'727',
 'winrate':'18.18%',
@@ -792,7 +819,7 @@ fullList = [
 'rd':'141'
 },
 {
-'rank':'89',
+'rank':'92',
 'player':'MajimaEverywhere',
 'rating':'710',
 'winrate':'25.0%',
@@ -801,7 +828,7 @@ fullList = [
 'rd':'140'
 },
 {
-'rank':'90',
+'rank':'93',
 'player':'Seemann SEGFAULT',
 'rating':'704',
 'winrate':'18.18%',
@@ -810,7 +837,7 @@ fullList = [
 'rd':'113'
 },
 {
-'rank':'91',
+'rank':'94',
 'player':'Orsox',
 'rating':'702',
 'winrate':'15.38%',
@@ -819,7 +846,7 @@ fullList = [
 'rd':'122'
 },
 {
-'rank':'92',
+'rank':'95',
 'player':'Imponderabilium',
 'rating':'692',
 'winrate':'0.0%',
@@ -828,7 +855,7 @@ fullList = [
 'rd':'175'
 },
 {
-'rank':'93',
+'rank':'96',
 'player':'xTiyx',
 'rating':'675',
 'winrate':'0.0%',
@@ -837,7 +864,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'94',
+'rank':'97',
 'player':'Sidon',
 'rating':'675',
 'winrate':'0.0%',
@@ -846,7 +873,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'95',
+'rank':'98',
 'player':'JustPlainSavage',
 'rating':'675',
 'winrate':'0.0%',
@@ -855,7 +882,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'96',
+'rank':'99',
 'player':'Quattroruote',
 'rating':'675',
 'winrate':'0.0%',
@@ -864,7 +891,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'97',
+'rank':'100',
 'player':'KinG_AnTez',
 'rating':'675',
 'winrate':'0.0%',
@@ -873,7 +900,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'98',
+'rank':'101',
 'player':'Crewfinity',
 'rating':'675',
 'winrate':'0.0%',
@@ -882,7 +909,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'99',
+'rank':'102',
 'player':'Erii',
 'rating':'675',
 'winrate':'0.0%',
@@ -891,7 +918,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'100',
+'rank':'103',
 'player':'The Last Knight Of Honor',
 'rating':'675',
 'winrate':'0.0%',
@@ -900,7 +927,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'101',
+'rank':'104',
 'player':'ghostinsky9',
 'rating':'675',
 'winrate':'0.0%',
@@ -909,7 +936,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'102',
+'rank':'105',
 'player':'Widgie',
 'rating':'675',
 'winrate':'0.0%',
@@ -918,7 +945,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'103',
+'rank':'106',
 'player':'Dream',
 'rating':'675',
 'winrate':'0.0%',
@@ -927,7 +954,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'104',
+'rank':'107',
 'player':'Nana',
 'rating':'675',
 'winrate':'0.0%',
@@ -936,7 +963,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'105',
+'rank':'108',
 'player':'Capporetto',
 'rating':'675',
 'winrate':'0.0%',
@@ -945,7 +972,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'106',
+'rank':'109',
 'player':'Garl1tz',
 'rating':'675',
 'winrate':'0.0%',
@@ -954,7 +981,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'107',
+'rank':'110',
 'player':'Burgara122',
 'rating':'675',
 'winrate':'0.0%',
@@ -963,7 +990,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'108',
+'rank':'111',
 'player':'Warmind',
 'rating':'675',
 'winrate':'0.0%',
@@ -972,16 +999,7 @@ fullList = [
 'rd':'290'
 },
 {
-'rank':'109',
-'player':'LemonPi',
-'rating':'675',
-'winrate':'0.0%',
-'wins':'0',
-'losses':'2',
-'rd':'290'
-},
-{
-'rank':'110',
+'rank':'112',
 'player':'richiehimself',
 'rating':'663',
 'winrate':'16.67%',
@@ -990,7 +1008,7 @@ fullList = [
 'rd':'178'
 },
 {
-'rank':'111',
+'rank':'113',
 'player':'ljk274',
 'rating':'659',
 'winrate':'0.0%',
@@ -999,7 +1017,7 @@ fullList = [
 'rd':'275'
 },
 {
-'rank':'112',
+'rank':'114',
 'player':'deadly',
 'rating':'655',
 'winrate':'0.0%',
@@ -1008,7 +1026,7 @@ fullList = [
 'rd':'267'
 },
 {
-'rank':'113',
+'rank':'115',
 'player':'kikin',
 'rating':'651',
 'winrate':'0.0%',
@@ -1017,16 +1035,7 @@ fullList = [
 'rd':'188'
 },
 {
-'rank':'114',
-'player':'Destructosam',
-'rating':'634',
-'winrate':'0.0%',
-'wins':'0',
-'losses':'4',
-'rd':'274'
-},
-{
-'rank':'115',
+'rank':'116',
 'player':'EthosImmortal',
 'rating':'614',
 'winrate':'20.0%',
@@ -1035,7 +1044,7 @@ fullList = [
 'rd':'203'
 },
 {
-'rank':'116',
+'rank':'117',
 'player':'Smoke',
 'rating':'604',
 'winrate':'0.0%',
@@ -1044,7 +1053,7 @@ fullList = [
 'rd':'314'
 },
 {
-'rank':'117',
+'rank':'118',
 'player':'itzEver',
 'rating':'569',
 'winrate':'0.0%',
@@ -1053,7 +1062,16 @@ fullList = [
 'rd':'273'
 },
 {
-'rank':'118',
+'rank':'119',
+'player':'Destructosam',
+'rating':'525',
+'winrate':'0.0%',
+'wins':'0',
+'losses':'5',
+'rd':'237'
+},
+{
+'rank':'120',
 'player':'GingaNinja',
 'rating':'467',
 'winrate':'0.0%',
@@ -1062,7 +1080,7 @@ fullList = [
 'rd':'264'
 },
 {
-'rank':'119',
+'rank':'121',
 'player':'jobnazz',
 'rating':'417',
 'winrate':'0.0%',
@@ -1071,7 +1089,7 @@ fullList = [
 'rd':'263'
 },
 {
-'rank':'120',
+'rank':'122',
 'player':'Librarian',
 'rating':'392',
 'winrate':'0.0%',
@@ -1080,7 +1098,7 @@ fullList = [
 'rd':'297'
 },
 {
-'rank':'121',
+'rank':'123',
 'player':'NinetailedFox',
 'rating':'387',
 'winrate':'0.0%',
@@ -1089,7 +1107,7 @@ fullList = [
 'rd':'300'
 },
 {
-'rank':'122',
+'rank':'124',
 'player':'Slav-matros',
 'rating':'387',
 'winrate':'0.0%',
@@ -1098,7 +1116,7 @@ fullList = [
 'rd':'300'
 },
 {
-'rank':'123',
+'rank':'125',
 'player':'Russian Bear 5000',
 'rating':'387',
 'winrate':'0.0%',
@@ -1107,12 +1125,12 @@ fullList = [
 'rd':'300'
 },
 {
-'rank':'124',
+'rank':'126',
 'player':'Sillix',
 'rating':'280',
 'winrate':'0.0%',
 'wins':'0',
 'losses':'4',
 'rd':'260'
- }
+},
 ]
