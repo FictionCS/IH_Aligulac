@@ -22,7 +22,7 @@ def full(request):
 
 def home(request):
 	context = {
-		'players':fullList	
+		'players':players	
 	}
 	return render(request, 'ALIGULAC/home.html', context)
 
