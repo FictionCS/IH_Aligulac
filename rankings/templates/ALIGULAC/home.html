@@ -11,10 +11,10 @@
 						  font-family: 'Roboto', sans-serif;
 						  text-align: left;">Current "Active" Rankings</h2>
 		<div style="padding-bottom: 10px" id="myBtnContainer">
-		  <button class="btn active" onclick="filterSelection('all')">Default</button>
-		  <button class="btn" onclick="filterSelection('250')"> 250 RD</button>
-		  <button class="btn" onclick="filterSelection('3month')"> 3 Month Inactive</button>
-		  <button class="btn" onclick="filterSelection('Both')"> Both</button>
+		  <button class="btn active" onclick="myFunction('all')">Default</button>
+		  <button class="btn" onclick="myFunction('250')"> 250 RD</button>
+		  <button class="btn" onclick="myFunction('3month')"> 3 Month Inactive</button>
+		  <button class="btn" onclick="myFunction('Both')"> Both</button>
 		</div>
 		<table id="myTable" class="table table-striped table-hover">
 		  	<tr>
@@ -51,7 +51,7 @@
 	  // Loop through all table rows, and hide those who don't match the search query
 	  for (i = 0; i < tr.length; i++) {
 	    td = tr[i].getElementsByTagName("td")[5];
-	      if (td <= 200) {
+	      if (parseInt(td) <= 200) {
 	        tr[i].style.display = "";
 	      } else {
 	        tr[i].style.display = "none";
