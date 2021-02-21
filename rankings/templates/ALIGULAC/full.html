@@ -22,6 +22,8 @@
 			</tr>
 			{% for player in players %}
  				<tr style="text-align: left">
+ 					{% if player.rd <= 200 %}
+ 						{% if player.inactive <= 61 %}
 					<th style="font-size: 18px">{{ player.rank }}</th>
 					<th style="font-weight: normal">{{ player.player }}</th>
 					<th style="font-weight: normal">{{ player.rating }}</th>
@@ -29,6 +31,8 @@
 					<th style="font-weight: normal">{{ player.wins }}</th>
 					<th style="font-weight: normal">{{ player.losses }}</th>
 					<th style="font-weight: normal">{{ player.rd }}</th>
+						{% endif %}
+					{% endif %}
 				</tr>
 			{% endfor %}
 			<tr>
