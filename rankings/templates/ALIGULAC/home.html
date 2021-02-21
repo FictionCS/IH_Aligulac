@@ -21,17 +21,20 @@
 			    <th>RD</th>
 			</tr>
 			{% for player in players %}
- 				<tr class="content" style="text-align: left">
+ 				<tr style="text-align: left">
  					<script>
  					function testSettings() {
- 						var el = document.getElementById('content');
-    					var content;
  						if (player.rd <= 200) {
  							if (player.inactive <= 61) {
- 								content = '<th style="font-size: 18px">{{ player.rank }}</th><th style="font-size: 18px">{{ player.rank }}</th><th style="font-weight: normal">{{ player.player }}</th><th style="font-weight: normal">{{ player.rating }}</th><th style="font-weight: normal">{{ player.winrate }}</th><th style="font-weight: normal">{{ player.wins }}</th><th style="font-weight: normal">{{ player.losses }}</th><th style="font-weight: normal">{{ player.rd }}</th>'
+							$(document.body).append('<th style="font-size: 18px">{{ player.rank }}</th>')
+							$(document.body).append('<th style="font-weight: normal">{{ player.player }}</th>')
+							$(document.body).append('<th style="font-weight: normal">{{ player.rating }}</th>')
+							$(document.body).append('<th style="font-weight: normal">{{ player.winrate }}</th>')
+							$(document.body).append('<th style="font-weight: normal">{{ player.wins }}</th>')
+							$(document.body).append('<th style="font-weight: normal">{{ player.losses }}</th>')
+							$(document.body).append('<th style="font-weight: normal">{{ player.rd }}</th>')
 							}
 						}
-						el.insertAdjacentHTML('afterbegin', content);
 					}
 					</script>
 				</tr>
