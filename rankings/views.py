@@ -2,12 +2,14 @@ from django.shortcuts import render
 from django.http import HttpResponse
 # Create your views here.
 
+from .models import Player
+
 from .fullData import fullList
 from .activeData import players
 
 def matches(request):
 	context = {
-		'players':fullList
+		'players':fullList #Player.object.all()
 	}
 	return render(request, 'ALIGULAC/matches.html', context)
 
