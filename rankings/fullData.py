@@ -1,592 +1,592 @@
 fullList = [
-{
-'rank':'1',
-'player':'Saturas',
-'rating':'1783',
-'winrate':'86.21%',
-'wins':'50',
-'losses':'8',
-'rd':'115',
-'inactive':'73'
-},
-{
-'rank':'2',
-'player':'Aicad',
-'rating':'1767',
-'winrate':'71.7%',
-'wins':'38',
-'losses':'15',
-'rd':'104',
-'inactive':'0'
-},
-{
-'rank':'3',
-'player':'Noah',
-'rating':'1660',
-'winrate':'72.97%',
-'wins':'27',
-'losses':'10',
-'rd':'97',
-'inactive':'0'
-},
-{
-'rank':'4',
-'player':'SenpaiTorpidDow',
-'rating':'1624',
-'winrate':'74.36%',
-'wins':'29',
-'losses':'10',
-'rd':'93',
-'inactive':'73'
-},
-{
-'rank':'5',
-'player':'Venaqus',
-'rating':'1500',
-'winrate':'78.05%',
-'wins':'32',
-'losses':'9',
-'rd':'92',
-'inactive':'80'
-},
-{
-'rank':'6',
-'player':'Xyr0N',
-'rating':'1405',
-'winrate':'69.81%',
-'wins':'37',
-'losses':'16',
-'rd':'81',
-'inactive':'0'
-},
-{
-'rank':'7',
-'player':'Jdanzi',
-'rating':'1381',
-'winrate':'69.57%',
-'wins':'16',
-'losses':'7',
-'rd':'96',
-'inactive':'80'
-},
-{
-'rank':'8',
-'player':'NaumMW',
-'rating':'1373',
-'winrate':'66.67%',
-'wins':'8',
-'losses':'4',
-'rd':'126',
-'inactive':'80'
-},
-{
-'rank':'9',
-'player':'Troyd',
-'rating':'1345',
-'winrate':'65.85%',
-'wins':'27',
-'losses':'14',
-'rd':'100',
-'inactive':'87'
-},
-{
-'rank':'10',
-'player':'Pyroka',
-'rating':'1306',
-'winrate':'66.67%',
-'wins':'12',
-'losses':'6',
-'rd':'112',
-'inactive':'80'
-},
-{
-'rank':'11',
-'player':'Seemann AIOBE',
-'rating':'1289',
-'winrate':'64.1%',
-'wins':'25',
-'losses':'14',
-'rd':'87',
-'inactive':'0'
-},
-{
-'rank':'12',
-'player':'BnHtimmah',
-'rating':'1266',
-'winrate':'60.53%',
-'wins':'23',
-'losses':'15',
-'rd':'92',
-'inactive':'87'
-},
-{
-'rank':'13',
-'player':'Godoksa',
-'rating':'1266',
-'winrate':'64.71%',
-'wins':'11',
-'losses':'6',
-'rd':'109',
-'inactive':'80'
-},
-{
-'rank':'14',
-'player':'Mixu',
-'rating':'1258',
-'winrate':'64.71%',
-'wins':'11',
-'losses':'6',
-'rd':'115',
-'inactive':'87'
-},
-{
-'rank':'15',
-'player':'Kaos',
-'rating':'1234',
-'winrate':'53.33%',
-'wins':'8',
-'losses':'7',
-'rd':'122',
-'inactive':'87'
-},
-{
-'rank':'16',
-'player':'JudoKris',
-'rating':'1205',
-'winrate':'50.0%',
-'wins':'6',
-'losses':'6',
-'rd':'196',
-'inactive':'97'
-},
-{
-'rank':'17',
-'player':'Deku',
-'rating':'1197',
-'winrate':'57.14%',
-'wins':'8',
-'losses':'6',
-'rd':'182',
-'inactive':'135'
-},
-{
-'rank':'18',
-'player':'TwitchNaummw',
-'rating':'1163',
-'winrate':'62.5%',
-'wins':'20',
-'losses':'12',
-'rd':'100',
-'inactive':'93'
-},
-{
-'rank':'19',
-'player':'Fiction',
-'rating':'1163',
-'winrate':'58.14%',
-'wins':'25',
-'losses':'18',
-'rd':'81',
-'inactive':'0'
-},
-{
-'rank':'20',
-'player':'Jacob',
-'rating':'1162',
-'winrate':'58.33%',
-'wins':'14',
-'losses':'10',
-'rd':'94',
-'inactive':'80'
-},
-{
-'rank':'21',
-'player':'The Von',
-'rating':'1154',
-'winrate':'58.33%',
-'wins':'7',
-'losses':'5',
-'rd':'133',
-'inactive':'87'
-},
-{
-'rank':'22',
-'player':'Claera',
-'rating':'1089',
-'winrate':'47.46%',
-'wins':'28',
-'losses':'31',
-'rd':'76',
-'inactive':'0'
-},
-{
-'rank':'23',
-'player':'Juutilainen',
-'rating':'1065',
-'winrate':'60.0%',
-'wins':'6',
-'losses':'4',
-'rd':'196',
-'inactive':'163'
-},
-{
-'rank':'24',
-'player':'fox40phil',
-'rating':'1056',
-'winrate':'50.0%',
-'wins':'3',
-'losses':'3',
-'rd':'187',
-'inactive':'94'
-},
-{
-'rank':'25',
-'player':'Pluck',
-'rating':'1053',
-'winrate':'37.5%',
-'wins':'3',
-'losses':'5',
-'rd':'182',
-'inactive':'80'
-},
-{
-'rank':'26',
-'player':'Neo Combine',
-'rating':'1051',
-'winrate':'50.0%',
-'wins':'3',
-'losses':'3',
-'rd':'166',
-'inactive':'87'
-},
-{
-'rank':'27',
-'player':'Franky',
-'rating':'1046',
-'winrate':'50.0%',
-'wins':'6',
-'losses':'6',
-'rd':'127',
-'inactive':'80'
-},
-{
-'rank':'28',
-'player':'Mur',
-'rating':'1037',
-'winrate':'45.45%',
-'wins':'5',
-'losses':'6',
-'rd':'134',
-'inactive':'87'
-},
-{
-'rank':'29',
-'player':'rntpln',
-'rating':'1034',
-'winrate':'50.0%',
-'wins':'8',
-'losses':'8',
-'rd':'110',
-'inactive':'80'
-},
-{
-'rank':'30',
-'player':'Seemann Oome',
-'rating':'1020',
-'winrate':'42.31%',
-'wins':'11',
-'losses':'15',
-'rd':'103',
-'inactive':'0'
-},
-{
-'rank':'31',
-'player':'Keorangar',
-'rating':'1014',
-'winrate':'50.0%',
-'wins':'6',
-'losses':'6',
-'rd':'175',
-'inactive':'135'
-},
-{
-'rank':'32',
-'player':'Hobbs',
-'rating':'1000',
-'winrate':'50.0%',
-'wins':'3',
-'losses':'3',
-'rd':'181',
-'inactive':'94'
-},
-{
-'rank':'33',
-'player':'Dixio',
-'rating':'986',
-'winrate':'41.67%',
-'wins':'5',
-'losses':'7',
-'rd':'120',
-'inactive':'87'
-},
-{
-'rank':'34',
-'player':'GiftedMachine',
-'rating':'968',
-'winrate':'41.67%',
-'wins':'5',
-'losses':'7',
-'rd':'124',
-'inactive':'80'
-},
-{
-'rank':'35',
-'player':'Bloodyman',
-'rating':'947',
-'winrate':'37.5%',
-'wins':'3',
-'losses':'5',
-'rd':'194',
-'inactive':'94'
-},
-{
-'rank':'36',
-'player':'PowerK',
-'rating':'941',
-'winrate':'33.33%',
-'wins':'2',
-'losses':'4',
-'rd':'174',
-'inactive':'87'
-},
-{
-'rank':'37',
-'player':'InsaneSaintGamer',
-'rating':'932',
-'winrate':'40.0%',
-'wins':'2',
-'losses':'3',
-'rd':'186',
-'inactive':'94'
-},
-{
-'rank':'38',
-'player':'MrBananaGrabber',
-'rating':'931',
-'winrate':'33.33%',
-'wins':'2',
-'losses':'4',
-'rd':'185',
-'inactive':'94'
-},
-{
-'rank':'39',
-'player':'UpAllNight',
-'rating':'928',
-'winrate':'30.0%',
-'wins':'3',
-'losses':'7',
-'rd':'175',
-'inactive':'80'
-},
-{
-'rank':'40',
-'player':'Shaders...ellipses',
-'rating':'927',
-'winrate':'33.33%',
-'wins':'2',
-'losses':'4',
-'rd':'152',
-'inactive':'80'
-},
-{
-'rank':'41',
-'player':'Oathmaster',
-'rating':'916',
-'winrate':'33.33%',
-'wins':'2',
-'losses':'4',
-'rd':'169',
-'inactive':'87'
-},
-{
-'rank':'42',
-'player':'Scarecrow',
-'rating':'911',
-'winrate':'41.67%',
-'wins':'10',
-'losses':'14',
-'rd':'93',
-'inactive':'80'
-},
-{
-'rank':'43',
-'player':'St.Akardi',
-'rating':'899',
-'winrate':'33.33%',
-'wins':'4',
-'losses':'8',
-'rd':'115',
-'inactive':'80'
-},
-{
-'rank':'44',
-'player':'Seemann FiberOptrix',
-'rating':'883',
-'winrate':'36.36%',
-'wins':'4',
-'losses':'7',
-'rd':'135',
-'inactive':'93'
-},
-{
-'rank':'45',
-'player':'AlkaduR',
-'rating':'880',
-'winrate':'33.33%',
-'wins':'2',
-'losses':'4',
-'rd':'175',
-'inactive':'94'
-},
-{
-'rank':'46',
-'player':'Danielosama',
-'rating':'873',
-'winrate':'33.33%',
-'wins':'2',
-'losses':'4',
-'rd':'181',
-'inactive':'94'
-},
-{
-'rank':'47',
-'player':'Vermillion_Hawk',
-'rating':'820',
-'winrate':'33.33%',
-'wins':'2',
-'losses':'4',
-'rd':'183',
-'inactive':'94'
-},
-{
-'rank':'48',
-'player':'Flibby Longshanks',
-'rating':'819',
-'winrate':'27.27%',
-'wins':'3',
-'losses':'8',
-'rd':'144',
-'inactive':'87'
-},
-{
-'rank':'49',
-'player':'Semillon',
-'rating':'767',
-'winrate':'23.53%',
-'wins':'4',
-'losses':'13',
-'rd':'138',
-'inactive':'80'
-},
-{
-'rank':'50',
-'player':'Captain Hellbat',
-'rating':'761',
-'winrate':'20.0%',
-'wins':'1',
-'losses':'4',
-'rd':'178',
-'inactive':'87'
-},
-{
-'rank':'51',
-'player':'Jonmatrix',
-'rating':'746',
-'winrate':'16.67%',
-'wins':'1',
-'losses':'5',
-'rd':'181',
-'inactive':'94'
-},
-{
-'rank':'52',
-'player':'Smeg4brainsuk',
-'rating':'733',
-'winrate':'16.67%',
-'wins':'1',
-'losses':'5',
-'rd':'164',
-'inactive':'87'
-},
-{
-'rank':'53',
-'player':'Musashi',
-'rating':'727',
-'winrate':'18.18%',
-'wins':'2',
-'losses':'9',
-'rd':'141',
-'inactive':'87'
-},
-{
-'rank':'54',
-'player':'MajimaEverywhere',
-'rating':'710',
-'winrate':'25.0%',
-'wins':'3',
-'losses':'9',
-'rd':'140',
-'inactive':'93'
-},
-{
-'rank':'55',
-'player':'Seemann SEGFAULT',
-'rating':'704',
-'winrate':'18.18%',
-'wins':'4',
-'losses':'18',
-'rd':'113',
-'inactive':'80'
-},
-{
-'rank':'56',
-'player':'Orsox',
-'rating':'702',
-'winrate':'15.38%',
-'wins':'2',
-'losses':'11',
-'rd':'122',
-'inactive':'80'
-},
-{
-'rank':'57',
-'player':'Imponderabilium',
-'rating':'692',
-'winrate':'0.0%',
-'wins':'0',
-'losses':'5',
-'rd':'175',
-'inactive':'93'
-},
-{
-'rank':'58',
-'player':'richiehimself',
-'rating':'663',
-'winrate':'16.67%',
-'wins':'1',
-'losses':'5',
-'rd':'178',
-'inactive':'94'
-},
-{
-'rank':'59',
-'player':'kikin',
-'rating':'651',
-'winrate':'0.0%',
-'wins':'0',
-'losses':'5',
-'rd':'188',
-'inactive':'94'
-}
+	{
+	'rank':'1',
+	'player':'Aicad',
+	'rating':'1773',
+	'winrate':'71.7%',
+	'wins':'38',
+	'losses':'15',
+	'rd':'105',
+	'inactive':'0'
+	},
+	{
+	'rank':'2',
+	'player':'Saturas',
+	'rating':'1768',
+	'winrate':'84.75%',
+	'wins':'50',
+	'losses':'9',
+	'rd':'115',
+	'inactive':'73'
+	},
+	{
+	'rank':'3',
+	'player':'Noah',
+	'rating':'1630',
+	'winrate':'72.97%',
+	'wins':'27',
+	'losses':'10',
+	'rd':'99',
+	'inactive':'0'
+	},
+	{
+	'rank':'4',
+	'player':'SenpaiTorpidDow',
+	'rating':'1620',
+	'winrate':'74.36%',
+	'wins':'29',
+	'losses':'10',
+	'rd':'95',
+	'inactive':'73'
+	},
+	{
+	'rank':'5',
+	'player':'Venaqus',
+	'rating':'1510',
+	'winrate':'76.09%',
+	'wins':'35',
+	'losses':'11',
+	'rd':'95',
+	'inactive':'80'
+	},
+	{
+	'rank':'6',
+	'player':'Jdanzi',
+	'rating':'1382',
+	'winrate':'69.57%',
+	'wins':'16',
+	'losses':'7',
+	'rd':'97',
+	'inactive':'80'
+	},
+	{
+	'rank':'7',
+	'player':'Xyr0N',
+	'rating':'1375',
+	'winrate':'68.52%',
+	'wins':'37',
+	'losses':'17',
+	'rd':'82',
+	'inactive':'0'
+	},
+	{
+	'rank':'8',
+	'player':'NaumMW',
+	'rating':'1366',
+	'winrate':'66.67%',
+	'wins':'8',
+	'losses':'4',
+	'rd':'127',
+	'inactive':'80'
+	},
+	{
+	'rank':'9',
+	'player':'Troyd',
+	'rating':'1339',
+	'winrate':'65.85%',
+	'wins':'27',
+	'losses':'14',
+	'rd':'101',
+	'inactive':'87'
+	},
+	{
+	'rank':'10',
+	'player':'Pyroka',
+	'rating':'1297',
+	'winrate':'66.67%',
+	'wins':'12',
+	'losses':'6',
+	'rd':'112',
+	'inactive':'80'
+	},
+	{
+	'rank':'11',
+	'player':'Seemann AIOBE',
+	'rating':'1270',
+	'winrate':'64.1%',
+	'wins':'25',
+	'losses':'14',
+	'rd':'90',
+	'inactive':'0'
+	},
+	{
+	'rank':'12',
+	'player':'BnHtimmah',
+	'rating':'1259',
+	'winrate':'60.53%',
+	'wins':'23',
+	'losses':'15',
+	'rd':'93',
+	'inactive':'87'
+	},
+	{
+	'rank':'13',
+	'player':'Godoksa',
+	'rating':'1254',
+	'winrate':'64.71%',
+	'wins':'11',
+	'losses':'6',
+	'rd':'108',
+	'inactive':'80'
+	},
+	{
+	'rank':'14',
+	'player':'Mixu',
+	'rating':'1250',
+	'winrate':'64.71%',
+	'wins':'11',
+	'losses':'6',
+	'rd':'116',
+	'inactive':'87'
+	},
+	{
+	'rank':'15',
+	'player':'Kaos',
+	'rating':'1231',
+	'winrate':'53.33%',
+	'wins':'8',
+	'losses':'7',
+	'rd':'122',
+	'inactive':'87'
+	},
+	{
+	'rank':'16',
+	'player':'JudoKris',
+	'rating':'1207',
+	'winrate':'50.0%',
+	'wins':'6',
+	'losses':'6',
+	'rd':'197',
+	'inactive':'97'
+	},
+	{
+	'rank':'17',
+	'player':'Deku',
+	'rating':'1198',
+	'winrate':'57.14%',
+	'wins':'8',
+	'losses':'6',
+	'rd':'183',
+	'inactive':'135'
+	},
+	{
+	'rank':'18',
+	'player':'TwitchNaummw',
+	'rating':'1166',
+	'winrate':'62.5%',
+	'wins':'20',
+	'losses':'12',
+	'rd':'101',
+	'inactive':'93'
+	},
+	{
+	'rank':'19',
+	'player':'Fiction',
+	'rating':'1162',
+	'winrate':'58.14%',
+	'wins':'25',
+	'losses':'18',
+	'rd':'83',
+	'inactive':'0'
+	},
+	{
+	'rank':'20',
+	'player':'The Von',
+	'rating':'1157',
+	'winrate':'58.33%',
+	'wins':'7',
+	'losses':'5',
+	'rd':'134',
+	'inactive':'87'
+	},
+	{
+	'rank':'21',
+	'player':'Jacob',
+	'rating':'1156',
+	'winrate':'58.33%',
+	'wins':'14',
+	'losses':'10',
+	'rd':'95',
+	'inactive':'80'
+	},
+	{
+	'rank':'22',
+	'player':'Claera',
+	'rating':'1091',
+	'winrate':'47.46%',
+	'wins':'28',
+	'losses':'31',
+	'rd':'77',
+	'inactive':'0'
+	},
+	{
+	'rank':'23',
+	'player':'Juutilainen',
+	'rating':'1066',
+	'winrate':'60.0%',
+	'wins':'6',
+	'losses':'4',
+	'rd':'197',
+	'inactive':'163'
+	},
+	{
+	'rank':'24',
+	'player':'fox40phil',
+	'rating':'1058',
+	'winrate':'50.0%',
+	'wins':'3',
+	'losses':'3',
+	'rd':'189',
+	'inactive':'94'
+	},
+	{
+	'rank':'25',
+	'player':'Pluck',
+	'rating':'1052',
+	'winrate':'37.5%',
+	'wins':'3',
+	'losses':'5',
+	'rd':'182',
+	'inactive':'80'
+	},
+	{
+	'rank':'26',
+	'player':'Neo Combine',
+	'rating':'1048',
+	'winrate':'50.0%',
+	'wins':'3',
+	'losses':'3',
+	'rd':'165',
+	'inactive':'87'
+	},
+	{
+	'rank':'27',
+	'player':'Franky',
+	'rating':'1043',
+	'winrate':'50.0%',
+	'wins':'6',
+	'losses':'6',
+	'rd':'128',
+	'inactive':'80'
+	},
+	{
+	'rank':'28',
+	'player':'Mur',
+	'rating':'1037',
+	'winrate':'45.45%',
+	'wins':'5',
+	'losses':'6',
+	'rd':'135',
+	'inactive':'87'
+	},
+	{
+	'rank':'29',
+	'player':'rntpln',
+	'rating':'1035',
+	'winrate':'50.0%',
+	'wins':'8',
+	'losses':'8',
+	'rd':'112',
+	'inactive':'80'
+	},
+	{
+	'rank':'30',
+	'player':'Keorangar',
+	'rating':'1015',
+	'winrate':'50.0%',
+	'wins':'6',
+	'losses':'6',
+	'rd':'177',
+	'inactive':'135'
+	},
+	{
+	'rank':'31',
+	'player':'Hobbs',
+	'rating':'1000',
+	'winrate':'50.0%',
+	'wins':'3',
+	'losses':'3',
+	'rd':'181',
+	'inactive':'94'
+	},
+	{
+	'rank':'32',
+	'player':'Seemann Oome',
+	'rating':'988',
+	'winrate':'42.31%',
+	'wins':'11',
+	'losses':'15',
+	'rd':'101',
+	'inactive':'0'
+	},
+	{
+	'rank':'33',
+	'player':'Dixio',
+	'rating':'988',
+	'winrate':'41.67%',
+	'wins':'5',
+	'losses':'7',
+	'rd':'121',
+	'inactive':'87'
+	},
+	{
+	'rank':'34',
+	'player':'GiftedMachine',
+	'rating':'968',
+	'winrate':'41.67%',
+	'wins':'5',
+	'losses':'7',
+	'rd':'125',
+	'inactive':'80'
+	},
+	{
+	'rank':'35',
+	'player':'Bloodyman',
+	'rating':'948',
+	'winrate':'37.5%',
+	'wins':'3',
+	'losses':'5',
+	'rd':'195',
+	'inactive':'94'
+	},
+	{
+	'rank':'36',
+	'player':'PowerK',
+	'rating':'940',
+	'winrate':'33.33%',
+	'wins':'2',
+	'losses':'4',
+	'rd':'174',
+	'inactive':'87'
+	},
+	{
+	'rank':'37',
+	'player':'InsaneSaintGamer',
+	'rating':'933',
+	'winrate':'40.0%',
+	'wins':'2',
+	'losses':'3',
+	'rd':'187',
+	'inactive':'94'
+	},
+	{
+	'rank':'38',
+	'player':'MrBananaGrabber',
+	'rating':'931',
+	'winrate':'33.33%',
+	'wins':'2',
+	'losses':'4',
+	'rd':'186',
+	'inactive':'94'
+	},
+	{
+	'rank':'39',
+	'player':'UpAllNight',
+	'rating':'929',
+	'winrate':'30.0%',
+	'wins':'3',
+	'losses':'7',
+	'rd':'176',
+	'inactive':'80'
+	},
+	{
+	'rank':'40',
+	'player':'Shaders...ellipses',
+	'rating':'926',
+	'winrate':'33.33%',
+	'wins':'2',
+	'losses':'4',
+	'rd':'152',
+	'inactive':'80'
+	},
+	{
+	'rank':'41',
+	'player':'Oathmaster',
+	'rating':'916',
+	'winrate':'33.33%',
+	'wins':'2',
+	'losses':'4',
+	'rd':'169',
+	'inactive':'87'
+	},
+	{
+	'rank':'42',
+	'player':'Scarecrow',
+	'rating':'912',
+	'winrate':'41.67%',
+	'wins':'10',
+	'losses':'14',
+	'rd':'94',
+	'inactive':'80'
+	},
+	{
+	'rank':'43',
+	'player':'St.Akardi',
+	'rating':'900',
+	'winrate':'33.33%',
+	'wins':'4',
+	'losses':'8',
+	'rd':'116',
+	'inactive':'80'
+	},
+	{
+	'rank':'44',
+	'player':'Seemann FiberOptrix',
+	'rating':'884',
+	'winrate':'36.36%',
+	'wins':'4',
+	'losses':'7',
+	'rd':'135',
+	'inactive':'93'
+	},
+	{
+	'rank':'45',
+	'player':'AlkaduR',
+	'rating':'881',
+	'winrate':'33.33%',
+	'wins':'2',
+	'losses':'4',
+	'rd':'176',
+	'inactive':'94'
+	},
+	{
+	'rank':'46',
+	'player':'Danielosama',
+	'rating':'873',
+	'winrate':'33.33%',
+	'wins':'2',
+	'losses':'4',
+	'rd':'181',
+	'inactive':'94'
+	},
+	{
+	'rank':'47',
+	'player':'Vermillion_Hawk',
+	'rating':'821',
+	'winrate':'33.33%',
+	'wins':'2',
+	'losses':'4',
+	'rd':'184',
+	'inactive':'94'
+	},
+	{
+	'rank':'48',
+	'player':'Flibby Longshanks',
+	'rating':'820',
+	'winrate':'27.27%',
+	'wins':'3',
+	'losses':'8',
+	'rd':'145',
+	'inactive':'87'
+	},
+	{
+	'rank':'49',
+	'player':'Semillon',
+	'rating':'768',
+	'winrate':'23.53%',
+	'wins':'4',
+	'losses':'13',
+	'rd':'139',
+	'inactive':'80'
+	},
+	{
+	'rank':'50',
+	'player':'Captain Hellbat',
+	'rating':'762',
+	'winrate':'20.0%',
+	'wins':'1',
+	'losses':'4',
+	'rd':'179',
+	'inactive':'87'
+	},
+	{
+	'rank':'51',
+	'player':'Jonmatrix',
+	'rating':'747',
+	'winrate':'16.67%',
+	'wins':'1',
+	'losses':'5',
+	'rd':'181',
+	'inactive':'94'
+	},
+	{
+	'rank':'52',
+	'player':'Smeg4brainsuk',
+	'rating':'733',
+	'winrate':'16.67%',
+	'wins':'1',
+	'losses':'5',
+	'rd':'164',
+	'inactive':'87'
+	},
+	{
+	'rank':'53',
+	'player':'Musashi',
+	'rating':'728',
+	'winrate':'18.18%',
+	'wins':'2',
+	'losses':'9',
+	'rd':'142',
+	'inactive':'87'
+	},
+	{
+	'rank':'54',
+	'player':'MajimaEverywhere',
+	'rating':'709',
+	'winrate':'25.0%',
+	'wins':'3',
+	'losses':'9',
+	'rd':'140',
+	'inactive':'93'
+	},
+	{
+	'rank':'55',
+	'player':'Orsox',
+	'rating':'702',
+	'winrate':'15.38%',
+	'wins':'2',
+	'losses':'11',
+	'rd':'123',
+	'inactive':'80'
+	},
+	{
+	'rank':'56',
+	'player':'Seemann SEGFAULT',
+	'rating':'702',
+	'winrate':'18.18%',
+	'wins':'4',
+	'losses':'18',
+	'rd':'115',
+	'inactive':'80'
+	},
+	{
+	'rank':'57',
+	'player':'Imponderabilium',
+	'rating':'692',
+	'winrate':'0.0%',
+	'wins':'0',
+	'losses':'5',
+	'rd':'176',
+	'inactive':'93'
+	},
+	{
+	'rank':'58',
+	'player':'richiehimself',
+	'rating':'664',
+	'winrate':'16.67%',
+	'wins':'1',
+	'losses':'5',
+	'rd':'180',
+	'inactive':'94'
+	},
+	{
+	'rank':'59',
+	'player':'kikin',
+	'rating':'652',
+	'winrate':'0.0%',
+	'wins':'0',
+	'losses':'5',
+	'rd':'189',
+	'inactive':'94'
+	}
 ]
