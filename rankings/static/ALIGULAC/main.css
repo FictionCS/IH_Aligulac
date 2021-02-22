@@ -29,7 +29,7 @@ h2 {
 
 /* The "show" class is added to the filtered elements */
 .table td, .table th {
-    padding: .35rem;
+    padding: .25rem;
     vertical-align: top;
     border-top: 1px solid #dee2e6;
 }
