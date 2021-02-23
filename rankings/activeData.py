@@ -2,17 +2,17 @@ players = [
 	{
 	'rank':'1',
 	'player':'Aicad',
-	'rating':'1656',
-	'winrate':'71.19%',
-	'wins':'42',
-	'losses':'17',
-	'rd':'88',
+	'rating':'1602',
+	'winrate':'70.31%',
+	'wins':'45',
+	'losses':'19',
+	'rd':'81',
 	'inactive':'0'
 	},
 	{
 	'rank':'2',
 	'player':'Noah',
-	'rating':'1552',
+	'rating':'1516',
 	'winrate':'72.97%',
 	'wins':'27',
 	'losses':'10',
@@ -22,27 +22,27 @@ players = [
 	{
 	'rank':'3',
 	'player':'Xyr0N',
-	'rating':'1372',
-	'winrate':'71.64%',
-	'wins':'48',
-	'losses':'19',
-	'rd':'71',
+	'rating':'1365',
+	'winrate':'72.6%',
+	'wins':'53',
+	'losses':'20',
+	'rd':'67',
 	'inactive':'0'
 	},
 	{
 	'rank':'4',
 	'player':'Seemann AIOBE',
-	'rating':'1277',
+	'rating':'1272',
 	'winrate':'64.1%',
 	'wins':'25',
 	'losses':'14',
-	'rd':'86',
+	'rd':'85',
 	'inactive':'0'
 	},
 	{
 	'rank':'5',
 	'player':'Fiction',
-	'rating':'1160',
+	'rating':'1150',
 	'winrate':'58.14%',
 	'wins':'25',
 	'losses':'18',
@@ -52,7 +52,7 @@ players = [
 	{
 	'rank':'6',
 	'player':'Claera',
-	'rating':'1093',
+	'rating':'1077',
 	'winrate':'47.46%',
 	'wins':'28',
 	'losses':'31',
@@ -62,11 +62,11 @@ players = [
 	{
 	'rank':'7',
 	'player':'Seemann Oome',
-	'rating':'1005',
+	'rating':'987',
 	'winrate':'42.31%',
 	'wins':'11',
 	'losses':'15',
-	'rd':'98',
+	'rd':'97',
 	'inactive':'0'
 	}
 ]
