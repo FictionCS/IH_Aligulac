@@ -1,6 +1,6 @@
 playerMatches = [
 {
-'player': 'WellplayedTV'
+'player': 'WellplayedTV',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  WellplayedTV 1 : 0 Kaos  (1000)<br>\
   (1000)  WellplayedTV 1 : 0 NOSmarkov  (1000)<br>\
@@ -19,7 +19,7 @@ ESL Pre-Season Final<br>\
 '
 }
 {
-'player': 'Kaos'
+'player': 'Kaos',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Kaos 0 : 1 WellplayedTV  (1000)<br>\
   (1000)  Kaos 1 : 0 Bhjks  (1000)<br>\
@@ -57,7 +57,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'NOSmarkov'
+'player': 'NOSmarkov',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  NOSmarkov 1 : 0 Malice  (1000)<br>\
   (1000)  NOSmarkov 0 : 1 WellplayedTV  (1000)<br>\
@@ -78,7 +78,7 @@ ESL Fall Tournament #1<br>\
 '
 }
 {
-'player': 'SaTiNo'
+'player': 'SaTiNo',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  SaTiNo 1 : 0 elpern  (1000)<br>\
   (1000)  SaTiNo 1 : 0 Lemartes  (1000)<br>\
@@ -90,7 +90,7 @@ ESL Fall Tournament #1<br>\
 '
 }
 {
-'player': 'Orlishe'
+'player': 'Orlishe',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Orlishe 1 : 0 malgari  (1000)<br>\
   (1000)  Orlishe 1 : 0 Captain Hellbat  (1000)<br>\
@@ -105,7 +105,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Mixu'
+'player': 'Mixu',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Mixu 1 : 0 ghostinsky9  (1000)<br>\
   (1000)  Mixu 1 : 0 Sidorovich  (1000)<br>\
@@ -149,7 +149,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Potato Boy'
+'player': 'Potato Boy',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Potato Boy 1 : 0 Bhjks  (1000)<br>\
   (1000)  Potato Boy 1 : 0 f.volinets  (1000)<br>\
@@ -161,7 +161,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Arisdrotel'
+'player': 'Arisdrotel',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Arisdrotel 1 : 0 benderivan  (1000)<br>\
   (1000)  Arisdrotel 1 : 0 Capta1nMarcus  (1000)<br>\
@@ -192,7 +192,7 @@ Community Tournament #2<br>\
 '
 }
 {
-'player': 'benderivan'
+'player': 'benderivan',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  benderivan 0 : 1 Arisdrotel  (1000)<br>\
   (1000)  benderivan 0 : 1 Roger  (1000)<br>\
@@ -209,7 +209,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Capta1nMarcus'
+'player': 'Capta1nMarcus',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Capta1nMarcus 1 : 0 Sterteboker  (1000)<br>\
   (1000)  Capta1nMarcus 0 : 1 Arisdrotel  (1000)<br>\
@@ -224,7 +224,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Mavi'
+'player': 'Mavi',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Mavi 1 : 0 Olvadi  (1000)<br>\
   (1000)  Mavi 1 : 0 legioxroma  (1000)<br>\
@@ -242,7 +242,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'ChipFromSpace'
+'player': 'ChipFromSpace',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  ChipFromSpace 1 : 0 mdtsw  (1000)<br>\
   (1000)  ChipFromSpace 1 : 0 Vambr  (1000)<br>\
@@ -262,7 +262,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'RavenKing'
+'player': 'RavenKing',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  RavenKing 1 : 0 EntropyProhpet  (1000)<br>\
   (1000)  RavenKing 0 : 1 Troyd  (1000)<br>\
@@ -279,7 +279,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Drado'
+'player': 'Drado',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Drado 1 : 0 KillroyIsHere  (1000)<br>\
   (1000)  Drado 1 : 0 Batyushka  (1000)<br>\
@@ -291,7 +291,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'ghostinsky9'
+'player': 'ghostinsky9',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  ghostinsky9 0 : 1 Mixu  (1000)<br>\
   (1000)  ghostinsky9 1 : 0 Genie  (1000)<br>\
@@ -311,7 +311,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'Sidorovich'
+'player': 'Sidorovich',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Sidorovich 1 : 0 Keri  (1000)<br>\
   (1000)  Sidorovich 0 : 1 Mixu  (1000)<br>\
@@ -327,7 +327,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'RealRedCreep'
+'player': 'RealRedCreep',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  RealRedCreep 1 : 0 Tugaelite  (1000)<br>\
   (1000)  RealRedCreep 1 : 0 VanDall  (1000)<br>\
@@ -346,7 +346,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Xyr0N'
+'player': 'Xyr0N',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Xyr0N 1 : 0 Rae  (1000)<br>\
   (1000)  Xyr0N 1 : 0 Konkvas  (1000)<br>\
@@ -422,7 +422,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Rae'
+'player': 'Rae',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Rae 0 : 1 Xyr0N  (1000)<br>\
   (1000)  Rae 1 : 0 Tugaelite  (1000)<br>\
@@ -442,7 +442,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Konkvas'
+'player': 'Konkvas',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Konkvas 1 : 0 Vipasyn  (1000)<br>\
   (1000)  Konkvas 0 : 1 Xyr0N  (1000)<br>\
@@ -454,7 +454,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Troyd'
+'player': 'Troyd',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Troyd 1 : 0 BnHtimmah  (1000)<br>\
   (1000)  Troyd 1 : 0 RavenKing  (1000)<br>\
@@ -511,7 +511,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'AngryJew'
+'player': 'AngryJew',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  AngryJew 1 : 0 Keorangar  (1000)<br>\
   (1000)  AngryJew 1 : 0 Bloodyman  (1000)<br>\
@@ -531,7 +531,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'mdtsw'
+'player': 'mdtsw',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  mdtsw 0 : 1 ChipFromSpace  (1000)<br>\
   (1000)  mdtsw 0 : 1 Seki Barker  (1000)<br>\
@@ -543,7 +543,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Vambr'
+'player': 'Vambr',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Vambr 1 : 0 Mur  (1000)<br>\
   (1000)  Vambr 0 : 1 ChipFromSpace  (1000)<br>\
@@ -560,7 +560,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Nilla'
+'player': 'Nilla',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Nilla 1 : 0 dragonborn  (1000)<br>\
   (1000)  Nilla 1 : 0 BobBaboushkin  (1000)<br>\
@@ -569,7 +569,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'BnHtimmah'
+'player': 'BnHtimmah',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  BnHtimmah 0 : 1 Troyd  (1000)<br>\
   (1000)  BnHtimmah 1 : 0 elpern  (1000)<br>\
@@ -625,7 +625,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Batyushka'
+'player': 'Batyushka',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Batyushka 1 : 0 SawoN  (1000)<br>\
   (1000)  Batyushka 0 : 1 Drado  (1000)<br>\
@@ -645,7 +645,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Bhjks'
+'player': 'Bhjks',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Bhjks 0 : 1 Kaos  (1000)<br>\
   (1000)  Bhjks 0 : 1 Potato Boy  (1000)<br>\
@@ -653,7 +653,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'f.volinets'
+'player': 'f.volinets',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  f.volinets 1 : 0 Seki Barker  (1000)<br>\
   (1000)  f.volinets 0 : 1 Potato Boy  (1000)<br>\
@@ -665,7 +665,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Aicad'
+'player': 'Aicad',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Aicad 1 : 0 Scarecrow  (1000)<br>\
   (1000)  Aicad 1 : 0 Sargon  (1000)<br>\
@@ -722,7 +722,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Keri'
+'player': 'Keri',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Keri 0 : 1 Sidorovich  (1000)<br>\
   (1000)  Keri 1 : 0 Scarecrow  (1000)<br>\
@@ -737,7 +737,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Nehtega'
+'player': 'Nehtega',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Nehtega 0 : 1 legioxroma  (1000)<br>\
   (1000)  Nehtega 1 : 0 WRLD_Piece  (1000)<br>\
@@ -746,7 +746,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Seki Barker'
+'player': 'Seki Barker',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Seki Barker 0 : 1 f.volinets  (1000)<br>\
   (1000)  Seki Barker 1 : 0 mdtsw  (1000)<br>\
@@ -766,7 +766,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'SenpaiTorpidDow'
+'player': 'SenpaiTorpidDow',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  SenpaiTorpidDow 1 : 0 Tamior  (1000)<br>\
   (1000)  SenpaiTorpidDow 0 : 1 Mmeee  (1000)<br>\
@@ -828,7 +828,7 @@ ESL Fall Tournament Final<br>\
 '
 }
 {
-'player': 'elpern'
+'player': 'elpern',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  elpern 0 : 1 SaTiNo  (1000)<br>\
   (1000)  elpern 0 : 1 BnHtimmah  (1000)<br>\
@@ -836,7 +836,7 @@ ESL Fall Tournament Final<br>\
 '
 }
 {
-'player': 'Lemartes'
+'player': 'Lemartes',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Lemartes 1 : 0 LuCKer  (1000)<br>\
   (1000)  Lemartes 0 : 1 SaTiNo  (1000)<br>\
@@ -853,7 +853,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Mmeee'
+'player': 'Mmeee',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Mmeee 1 : 0 Genie  (1000)<br>\
   (1000)  Mmeee 1 : 0 SenpaiTorpidDow  (1000)<br>\
@@ -865,7 +865,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'ArsArmandi'
+'player': 'ArsArmandi',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  ArsArmandi 0 : 1 Rimth  (1000)<br>\
   (1000)  ArsArmandi 1 : 0 EntropyProhpet  (1000)<br>\
@@ -882,7 +882,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Shaders...ellipses'
+'player': 'Shaders...ellipses',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Shaders...ellipses 0 : 1 BobBaboushkin  (1000)<br>\
   (1000)  Shaders...ellipses 0 : 1 SenpaiTorpidDow  (1000)<br>\
@@ -901,7 +901,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Keorangar'
+'player': 'Keorangar',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Keorangar 0 : 1 AngryJew  (1000)<br>\
   (1000)  Keorangar 1 : 0 Sterteboker  (1000)<br>\
@@ -931,7 +931,7 @@ Community Tournament #2<br>\
 '
 }
 {
-'player': 'KillroyIsHere'
+'player': 'KillroyIsHere',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  KillroyIsHere 0 : 1 Drado  (1000)<br>\
 <br>\
@@ -942,7 +942,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Bloodyman'
+'player': 'Bloodyman',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Bloodyman 1 : 0 TrollHoffer  (1000)<br>\
   (1000)  Bloodyman 0 : 1 AngryJew  (1000)<br>\
@@ -971,14 +971,14 @@ ESL Fall Tournament #1<br>\
 '
 }
 {
-'player': 'SawoN'
+'player': 'SawoN',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  SawoN 0 : 1 Batyushka  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'Tamior'
+'player': 'Tamior',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Tamior 0 : 1 SenpaiTorpidDow  (1000)<br>\
   (1000)  Tamior 0 : 1 TrollHoffer  (1000)<br>\
@@ -990,7 +990,7 @@ ESL Fall Tournament #1<br>\
 '
 }
 {
-'player': 'Mur'
+'player': 'Mur',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Mur 0 : 1 Vambr  (1000)<br>\
   (1000)  Mur 0 : 1 The Von  (1000)<br>\
@@ -1017,7 +1017,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Vipasyn'
+'player': 'Vipasyn',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Vipasyn 0 : 1 Konkvas  (1000)<br>\
   (1000)  Vipasyn 1 : 0 LuCKer  (1000)<br>\
@@ -1036,7 +1036,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'LuCKer'
+'player': 'LuCKer',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  LuCKer 0 : 1 Lemartes  (1000)<br>\
   (1000)  LuCKer 0 : 1 Vipasyn  (1000)<br>\
@@ -1047,7 +1047,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'legioxroma'
+'player': 'legioxroma',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  legioxroma 1 : 0 Nehtega  (1000)<br>\
   (1000)  legioxroma 0 : 1 Mavi  (1000)<br>\
@@ -1059,7 +1059,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'Captain Hellbat'
+'player': 'Captain Hellbat',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Captain Hellbat 1 : 0 Da Boss  (1000)<br>\
   (1000)  Captain Hellbat 0 : 1 Orlishe  (1000)<br>\
@@ -1081,14 +1081,14 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Da Boss'
+'player': 'Da Boss',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Da Boss 0 : 1 Captain Hellbat  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'VanDall'
+'player': 'VanDall',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  VanDall 1 : 0 WRLD_Piece  (1000)<br>\
   (1000)  VanDall 0 : 1 RealRedCreep  (1000)<br>\
@@ -1097,7 +1097,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Tugaelite'
+'player': 'Tugaelite',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Tugaelite 0 : 1 RealRedCreep  (1000)<br>\
   (1000)  Tugaelite 0 : 1 Rae  (1000)<br>\
@@ -1117,7 +1117,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Sterteboker'
+'player': 'Sterteboker',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Sterteboker 0 : 1 Capta1nMarcus  (1000)<br>\
   (1000)  Sterteboker 0 : 1 Keorangar  (1000)<br>\
@@ -1125,7 +1125,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Sargon'
+'player': 'Sargon',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Sargon 1 : 0 The Von  (1000)<br>\
   (1000)  Sargon 0 : 1 Aicad  (1000)<br>\
@@ -1140,7 +1140,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'The Von'
+'player': 'The Von',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  The Von 0 : 1 Sargon  (1000)<br>\
   (1000)  The Von 1 : 0 Mur  (1000)<br>\
@@ -1176,7 +1176,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'TrollHoffer'
+'player': 'TrollHoffer',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  TrollHoffer 0 : 1 Bloodyman  (1000)<br>\
   (1000)  TrollHoffer 1 : 0 Tamior  (1000)<br>\
@@ -1185,7 +1185,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Hawkey'
+'player': 'Hawkey',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Hawkey 1 : 0 Roger  (1000)<br>\
   (1000)  Hawkey 1 : 0 Rimth  (1000)<br>\
@@ -1197,7 +1197,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Genie'
+'player': 'Genie',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Genie 0 : 1 Mmeee  (1000)<br>\
   (1000)  Genie 0 : 1 ghostinsky9  (1000)<br>\
@@ -1205,7 +1205,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'EntropyProhpet'
+'player': 'EntropyProhpet',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  EntropyProhpet 0 : 1 RavenKing  (1000)<br>\
   (1000)  EntropyProhpet 0 : 1 ArsArmandi  (1000)<br>\
@@ -1215,7 +1215,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'WRLD_Piece'
+'player': 'WRLD_Piece',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  WRLD_Piece 0 : 1 VanDall  (1000)<br>\
   (1000)  WRLD_Piece 0 : 1 Nehtega  (1000)<br>\
@@ -1227,7 +1227,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'BobBaboushkin'
+'player': 'BobBaboushkin',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  BobBaboushkin 1 : 0 Shaders...ellipses  (1000)<br>\
   (1000)  BobBaboushkin 0 : 1 Nilla  (1000)<br>\
@@ -1251,7 +1251,7 @@ Community Tournament #2<br>\
 '
 }
 {
-'player': 'Olvadi'
+'player': 'Olvadi',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Olvadi 0 : 1 Mavi  (1000)<br>\
   (1000)  Olvadi 1 : 0 dragonborn  (1000)<br>\
@@ -1262,7 +1262,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'Roger'
+'player': 'Roger',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Roger 0 : 1 Hawkey  (1000)<br>\
   (1000)  Roger 1 : 0 benderivan  (1000)<br>\
@@ -1274,7 +1274,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'Scarecrow'
+'player': 'Scarecrow',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Scarecrow 0 : 1 Aicad  (1000)<br>\
   (1000)  Scarecrow 0 : 1 Keri  (1000)<br>\
@@ -1317,7 +1317,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'malgari'
+'player': 'malgari',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  malgari 0 : 1 Orlishe  (1000)<br>\
 <br>\
@@ -1337,7 +1337,7 @@ Community Tournament #2<br>\
 '
 }
 {
-'player': 'Rimth'
+'player': 'Rimth',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Rimth 1 : 0 ArsArmandi  (1000)<br>\
   (1000)  Rimth 0 : 1 Hawkey  (1000)<br>\
@@ -1351,7 +1351,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'dragonborn'
+'player': 'dragonborn',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  dragonborn 0 : 1 Nilla  (1000)<br>\
   (1000)  dragonborn 0 : 1 Olvadi  (1000)<br>\
@@ -1374,7 +1374,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'Malice'
+'player': 'Malice',
 'matches': 'ESL Pre-Season Tournament #3<br>\
   (1000)  Malice 0 : 1 NOSmarkov  (1000)<br>\
 <br>\
@@ -1385,7 +1385,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Leebowyer'
+'player': 'Leebowyer',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Leebowyer 1 : 0 Milenicnikola  (1000)<br>\
   (1000)  Leebowyer 0 : 1 Xyr0N  (1253)<br>\
@@ -1397,7 +1397,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'ScruffyCookie'
+'player': 'ScruffyCookie',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  ScruffyCookie 1 : 0 ConjurusHex  (1000)<br>\
   (1000)  ScruffyCookie 1 : 0 Gwizz  (1000)<br>\
@@ -1407,7 +1407,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'TarNatioN'
+'player': 'TarNatioN',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  TarNatioN 1 : 0 Chrizzel  (1000)<br>\
   (1000)  TarNatioN 1 : 0 Synthsere  (1000)<br>\
@@ -1419,7 +1419,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Chat Noir'
+'player': 'Chat Noir',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Chat Noir 0 : 1 Mixu  (1253)<br>\
   (1000)  Chat Noir 0 : 1 Lamp  (1000)<br>\
@@ -1431,7 +1431,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'MMatter'
+'player': 'MMatter',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  MMatter 1 : 0 Detrom  (1000)<br>\
   (1000)  MMatter 0 : 1 Mixu  (1253)<br>\
@@ -1443,7 +1443,7 @@ ESL Pre-Season Tournament #4<br>\
 '
 }
 {
-'player': 'Venaqus'
+'player': 'Venaqus',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Venaqus 0 : 1 RavenKing  (1072)<br>\
   (1000)  Venaqus 1 : 0 GoRoX  (1000)<br>\
@@ -1494,7 +1494,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'LGFPigeon'
+'player': 'LGFPigeon',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  LGFPigeon 0 : 1 AngryJew  (1126)<br>\
   (1000)  LGFPigeon 1 : 0 Malice  (837)<br>\
@@ -1506,7 +1506,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'SaDdErS'
+'player': 'SaDdErS',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  SaDdErS 1 : 0 ArsArmandi  (873)<br>\
   (1000)  SaDdErS 1 : 0 ObsidianRemix  (1000)<br>\
@@ -1518,7 +1518,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'M62'
+'player': 'M62',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  M62 0 : 1 Keorangar  (1000)<br>\
   (1000)  M62 0 : 1 Strex  (1000)<br>\
@@ -1530,7 +1530,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Cath'
+'player': 'Cath',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Cath 1 : 0 Sepia  (1000)<br>\
   (1000)  Cath 0 : 1 Kaos  (1126)<br>\
@@ -1542,14 +1542,14 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Sepia'
+'player': 'Sepia',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Sepia 0 : 1 Cath  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'Chrizzel'
+'player': 'Chrizzel',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Chrizzel 0 : 1 TarNatioN  (1000)<br>\
   (1000)  Chrizzel 0 : 1 ArsArmandi  (873)<br>\
@@ -1561,7 +1561,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Synthsere'
+'player': 'Synthsere',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Synthsere 1 : 0 Bl3ss3D  (1000)<br>\
   (1000)  Synthsere 0 : 1 TarNatioN  (1000)<br>\
@@ -1573,7 +1573,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Lamp'
+'player': 'Lamp',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Lamp 0 : 1 Kaos  (1126)<br>\
   (1000)  Lamp 1 : 0 Chat Noir  (1000)<br>\
@@ -1585,7 +1585,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Schwi'
+'player': 'Schwi',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Schwi 0 : 1 NOSmarkov  (1000)<br>\
   (1000)  Schwi 1 : 0 dragonborn  (783)<br>\
@@ -1597,7 +1597,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Hupsaiya'
+'player': 'Hupsaiya',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Hupsaiya 0 : 1 SenpaiTorpidDow  (1126)<br>\
   (1000)  Hupsaiya 1 : 0 Hans Kater Gunter  (1000)<br>\
@@ -1614,7 +1614,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'Choko_Bambus'
+'player': 'Choko_Bambus',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Choko_Bambus 1 : 0 Malice  (837)<br>\
   (1000)  Choko_Bambus 0 : 1 SenpaiTorpidDow  (1126)<br>\
@@ -1624,7 +1624,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'Hans Kater Gunter'
+'player': 'Hans Kater Gunter',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Hans Kater Gunter 0 : 1 Bloodyman  (832)<br>\
   (1000)  Hans Kater Gunter 0 : 1 Hupsaiya  (1000)<br>\
@@ -1639,7 +1639,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Firstservant'
+'player': 'Firstservant',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Firstservant 1 : 0 dragonborn  (783)<br>\
   (1000)  Firstservant 0 : 1 Scorpion  (1000)<br>\
@@ -1650,14 +1650,14 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Milenicnikola'
+'player': 'Milenicnikola',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Milenicnikola 0 : 1 Leebowyer  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'LootyLoots'
+'player': 'LootyLoots',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  LootyLoots 0 : 1 Scorpion  (1000)<br>\
   (1000)  LootyLoots 1 : 0 bradonja  (1000)<br>\
@@ -1669,7 +1669,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'RedX'
+'player': 'RedX',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  RedX 1 : 0 MateAlLo  (1000)<br>\
   (1000)  RedX 1 : 0 Quokka  (1000)<br>\
@@ -1681,7 +1681,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Strex'
+'player': 'Strex',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Strex 0 : 1 BnHtimmah  (1072)<br>\
   (1000)  Strex 1 : 0 M62  (1000)<br>\
@@ -1693,7 +1693,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'FyAdGhost'
+'player': 'FyAdGhost',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  FyAdGhost 0 : 1 Vipasyn  (900)<br>\
   (1000)  FyAdGhost 0 : 1 malgari  (837)<br>\
@@ -1705,7 +1705,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Quokka'
+'player': 'Quokka',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Quokka 1 : 0 darkys  (1000)<br>\
   (1000)  Quokka 0 : 1 RedX  (1000)<br>\
@@ -1714,7 +1714,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Detrom'
+'player': 'Detrom',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Detrom 0 : 1 Introvertism  (1000)<br>\
   (1000)  Detrom 0 : 1 MMatter  (1000)<br>\
@@ -1722,7 +1722,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Puncle Gan'
+'player': 'Puncle Gan',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Puncle Gan 0 : 1 Vambr  (873)<br>\
   (1000)  Puncle Gan 1 : 0 MateAlLo  (1000)<br>\
@@ -1731,7 +1731,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Scorpion'
+'player': 'Scorpion',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Scorpion 1 : 0 LootyLoots  (1000)<br>\
   (1000)  Scorpion 1 : 0 Firstservant  (1000)<br>\
@@ -1743,7 +1743,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'ConjurusHex'
+'player': 'ConjurusHex',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  ConjurusHex 0 : 1 ScruffyCookie  (1000)<br>\
   (1000)  ConjurusHex 0 : 1 Sunnyurr  (1000)<br>\
@@ -1755,7 +1755,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'SURE'
+'player': 'SURE',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  SURE 0 : 1 Orlishe  (1167)<br>\
   (1000)  SURE 0 : 1 Seki Barker  (1126)<br>\
@@ -1764,7 +1764,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Bl3ss3D'
+'player': 'Bl3ss3D',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Bl3ss3D 0 : 1 Synthsere  (1000)<br>\
   (1000)  Bl3ss3D 0 : 1 Rimth  (1000)<br>\
@@ -1776,7 +1776,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'KinG_AnTez'
+'player': 'KinG_AnTez',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  KinG_AnTez 0 : 1 Sargon  (900)<br>\
   (1000)  KinG_AnTez 1 : 0 Ranvork F Vartec  (1000)<br>\
@@ -1791,7 +1791,7 @@ German Open<br>\
 '
 }
 {
-'player': 'GoRoX'
+'player': 'GoRoX',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  GoRoX 0 : 1 Arisdrotel  (1282)<br>\
   (1000)  GoRoX 0 : 1 Venaqus  (1000)<br>\
@@ -1802,7 +1802,7 @@ German Open<br>\
 '
 }
 {
-'player': 'Introvertism'
+'player': 'Introvertism',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Introvertism 0 : 1 ObsidianRemix  (1000)<br>\
   (1000)  Introvertism 1 : 0 Detrom  (1000)<br>\
@@ -1812,7 +1812,7 @@ German Open<br>\
 '
 }
 {
-'player': 'Ranvork F Vartec'
+'player': 'Ranvork F Vartec',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Ranvork F Vartec 0 : 1 jbj  (1000)<br>\
   (1000)  Ranvork F Vartec 0 : 1 KinG_AnTez  (1000)<br>\
@@ -1824,7 +1824,7 @@ German Open<br>\
 '
 }
 {
-'player': 'ObsidianRemix'
+'player': 'ObsidianRemix',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  ObsidianRemix 1 : 0 Introvertism  (1000)<br>\
   (1000)  ObsidianRemix 0 : 1 SaDdErS  (1000)<br>\
@@ -1834,7 +1834,7 @@ German Open<br>\
 '
 }
 {
-'player': 'Gwizz'
+'player': 'Gwizz',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Gwizz 1 : 0 Sunnyurr  (1000)<br>\
   (1000)  Gwizz 0 : 1 ScruffyCookie  (1000)<br>\
@@ -1843,7 +1843,7 @@ German Open<br>\
 '
 }
 {
-'player': 'bradonja'
+'player': 'bradonja',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  bradonja 0 : 1 KillroyIsHere  (837)<br>\
   (1000)  bradonja 0 : 1 LootyLoots  (1000)<br>\
@@ -1854,7 +1854,7 @@ German Open<br>\
 '
 }
 {
-'player': 'Sunnyurr'
+'player': 'Sunnyurr',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Sunnyurr 0 : 1 Gwizz  (1000)<br>\
   (1000)  Sunnyurr 1 : 0 ConjurusHex  (1000)<br>\
@@ -1864,7 +1864,7 @@ German Open<br>\
 '
 }
 {
-'player': 'MateAlLo'
+'player': 'MateAlLo',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  MateAlLo 0 : 1 RedX  (1000)<br>\
   (1000)  MateAlLo 0 : 1 Puncle Gan  (1000)<br>\
@@ -1872,7 +1872,7 @@ German Open<br>\
 '
 }
 {
-'player': 'jbj'
+'player': 'jbj',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  jbj 1 : 0 Ranvork F Vartec  (1000)<br>\
   (1000)  jbj 0 : 1 Sargon  (900)<br>\
@@ -1880,25 +1880,25 @@ German Open<br>\
 '
 }
 {
-'player': 'Evil0wl'
+'player': 'Evil0wl',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  Evil0wl 0 : 1 BobBaboushkin  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'darkys'
+'player': 'darkys',
 'matches': 'ESL Pre-Season Tournament #4<br>\
   (1000)  darkys 0 : 1 Quokka  (1000)<br>\
 <br>\
 '
 }
 {
-'player': '1447680'
+'player': '1447680',
 'matches': ''
 }
 {
-'player': 'RotterdaM'
+'player': 'RotterdaM',
 'matches': 'ESL Pre-Season Final<br>\
   (1000)  RotterdaM 0 : 1 WellplayedTV  (1395)<br>\
   (1000)  RotterdaM 0 : 1 DeMusliM  (1000)<br>\
@@ -1906,7 +1906,7 @@ German Open<br>\
 '
 }
 {
-'player': 'Jdanzi'
+'player': 'Jdanzi',
 'matches': 'ESL Pre-Season Final<br>\
   (1000)  Jdanzi 1 : 0 DeMusliM  (1000)<br>\
   (1000)  Jdanzi 0 : 1 WellplayedTV  (1395)<br>\
@@ -1947,7 +1947,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Juutilainen'
+'player': 'Juutilainen',
 'matches': 'ESL Pre-Season Final<br>\
   (1000)  Juutilainen 1 : 0 HeroMarine  (1000)<br>\
   (1000)  Juutilainen 0 : 1 Xyr0N  (1412)<br>\
@@ -1966,7 +1966,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'ToD'
+'player': 'ToD',
 'matches': 'ESL Pre-Season Final<br>\
   (1000)  ToD 0 : 1 Xyr0N  (1412)<br>\
   (1000)  ToD 0 : 1 HeroMarine  (1000)<br>\
@@ -1974,7 +1974,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'HeroMarine'
+'player': 'HeroMarine',
 'matches': 'ESL Pre-Season Final<br>\
   (1000)  HeroMarine 0 : 1 Juutilainen  (1000)<br>\
   (1000)  HeroMarine 1 : 0 ToD  (1000)<br>\
@@ -1983,7 +1983,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'DeMusliM'
+'player': 'DeMusliM',
 'matches': 'ESL Pre-Season Final<br>\
   (1000)  DeMusliM 0 : 1 Jdanzi  (1000)<br>\
   (1000)  DeMusliM 1 : 0 RotterdaM  (1000)<br>\
@@ -1992,7 +1992,7 @@ Community Tournament #1<br>\
 '
 }
 {
-'player': 'Saturas'
+'player': 'Saturas',
 'matches': 'German Open<br>\
   (1000)  Saturas 2 : 0 Arisdrotel  (1107)<br>\
   (1000)  Saturas 2 : 0 Bloodyman  (984)<br>\
@@ -2040,7 +2040,7 @@ ESL Fall Tournament Final<br>\
 '
 }
 {
-'player': 'Fifek'
+'player': 'Fifek',
 'matches': 'German Open<br>\
   (1000)  Fifek 2 : 1 NOSmarkov  (1103)<br>\
   (1000)  Fifek 0 : 2 Saturas  (1000)<br>\
@@ -2048,7 +2048,7 @@ ESL Fall Tournament Final<br>\
 '
 }
 {
-'player': 'Wizard cat'
+'player': 'Wizard cat',
 'matches': 'German Open<br>\
   (1000)  Wizard cat 2 : 0 xTiyx  (1000)<br>\
   (1000)  Wizard cat 2 : 0 Claera  (1000)<br>\
@@ -2058,14 +2058,14 @@ ESL Fall Tournament Final<br>\
 '
 }
 {
-'player': 'xTiyx'
+'player': 'xTiyx',
 'matches': 'German Open<br>\
   (1000)  xTiyx 0 : 2 Wizard cat  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'Claera'
+'player': 'Claera',
 'matches': 'German Open<br>\
   (1000)  Claera 2 : 0 Fiction  (1000)<br>\
   (1000)  Claera 0 : 2 Wizard cat  (1000)<br>\
@@ -2128,21 +2128,21 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Sidon'
+'player': 'Sidon',
 'matches': 'German Open<br>\
   (1000)  Sidon 0 : 2 Venaqus  (1036)<br>\
 <br>\
 '
 }
 {
-'player': 'JustPlainSavage'
+'player': 'JustPlainSavage',
 'matches': 'German Open<br>\
   (1000)  JustPlainSavage 0 : 2 Keorangar  (1218)<br>\
 <br>\
 '
 }
 {
-'player': 'TwitchNaummw'
+'player': 'TwitchNaummw',
 'matches': 'German Open<br>\
   (1000)  TwitchNaummw 2 : 0 KinG_AnTez  (960)<br>\
   (1000)  TwitchNaummw 1 : 2 Keorangar  (1218)<br>\
@@ -2177,14 +2177,14 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'Quattroruote'
+'player': 'Quattroruote',
 'matches': 'German Open<br>\
   (1000)  Quattroruote 0 : 2 Juutilainen  (1315)<br>\
 <br>\
 '
 }
 {
-'player': 'Fiction'
+'player': 'Fiction',
 'matches': 'German Open<br>\
   (1000)  Fiction 0 : 2 Claera  (1000)<br>\
 <br>\
@@ -2239,7 +2239,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'JudoKris'
+'player': 'JudoKris',
 'matches': 'Community Tournament #1<br>\
   (1000)  JudoKris 0 : 2 SenpaiTorpidDow  (1121)<br>\
 <br>\
@@ -2253,7 +2253,7 @@ Thanksgiving Tourney 2020<br>\
 '
 }
 {
-'player': 'Deku'
+'player': 'Deku',
 'matches': 'Community Tournament #1<br>\
   (1000)  Deku 2 : 1 ilcati  (1000)<br>\
   (1000)  Deku 2 : 0 Erii  (1000)<br>\
@@ -2267,7 +2267,7 @@ Community Tournament #2<br>\
 '
 }
 {
-'player': 'UpAllNight'
+'player': 'UpAllNight',
 'matches': 'Community Tournament #1<br>\
   (1000)  UpAllNight 0 : 2 Troyd  (1243)<br>\
 <br>\
@@ -2286,7 +2286,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'PekaMaru'
+'player': 'PekaMaru',
 'matches': 'Community Tournament #1<br>\
   (1000)  PekaMaru 0 : 2 Troyd  (1243)<br>\
 <br>\
@@ -2297,14 +2297,14 @@ Community Tournament #2<br>\
 '
 }
 {
-'player': 'Crewfinity'
+'player': 'Crewfinity',
 'matches': 'Community Tournament #1<br>\
   (1000)  Crewfinity 0 : 2 Xyr0N  (1374)<br>\
 <br>\
 '
 }
 {
-'player': 'Destructosam'
+'player': 'Destructosam',
 'matches': 'Community Tournament #1<br>\
   (1000)  Destructosam 0 : 2 Xyr0N  (1374)<br>\
 <br>\
@@ -2317,7 +2317,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Pluck'
+'player': 'Pluck',
 'matches': 'Community Tournament #1<br>\
   (1000)  Pluck 0 : 2 BnHtimmah  (1241)<br>\
 <br>\
@@ -2332,42 +2332,42 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Bonzo'
+'player': 'Bonzo',
 'matches': 'Community Tournament #1<br>\
   (1000)  Bonzo 0 : 2 TwitchNaummw  (1309)<br>\
 <br>\
 '
 }
 {
-'player': 'ljk274'
+'player': 'ljk274',
 'matches': 'Community Tournament #1<br>\
   (1000)  ljk274 0 : 2 Juutilainen  (1081)<br>\
 <br>\
 '
 }
 {
-'player': 'ilcati'
+'player': 'ilcati',
 'matches': 'Community Tournament #1<br>\
   (1000)  ilcati 1 : 2 Deku  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'Erii'
+'player': 'Erii',
 'matches': 'Community Tournament #1<br>\
   (1000)  Erii 0 : 2 Deku  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'MC-spOrk'
+'player': 'MC-spOrk',
 'matches': 'Community Tournament #1<br>\
   (1000)  MC-spOrk 0 : 2 Venaqus  (1350)<br>\
 <br>\
 '
 }
 {
-'player': 'GingaNinja'
+'player': 'GingaNinja',
 'matches': 'Community Tournament #1<br>\
   (1000)  GingaNinja 0 : 2 Venaqus  (1350)<br>\
 <br>\
@@ -2377,7 +2377,7 @@ Community Tournament #2<br>\
 '
 }
 {
-'player': 'Chuzar'
+'player': 'Chuzar',
 'matches': 'Community Tournament #1<br>\
   (1000)  Chuzar 2 : 0 Nana  (1000)<br>\
   (1000)  Chuzar 0 : 2 Venaqus  (1350)<br>\
@@ -2385,21 +2385,21 @@ Community Tournament #2<br>\
 '
 }
 {
-'player': 'The Last Knight Of Honor'
+'player': 'The Last Knight Of Honor',
 'matches': 'Community Tournament #1<br>\
   (1000)  The Last Knight Of Honor 0 : 2 Kaos  (1128)<br>\
 <br>\
 '
 }
 {
-'player': 'NinetailedFox'
+'player': 'NinetailedFox',
 'matches': 'Community Tournament #1<br>\
   (1000)  NinetailedFox 0 : 2 Fiction  (675)<br>\
 <br>\
 '
 }
 {
-'player': 'Semillon'
+'player': 'Semillon',
 'matches': 'Community Tournament #1<br>\
   (1000)  Semillon 0 : 2 Hupsaiya  (1083)<br>\
 <br>\
@@ -2428,7 +2428,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'HIDZEN'
+'player': 'HIDZEN',
 'matches': 'Community Tournament #1<br>\
   (1000)  HIDZEN 2 : 1 Claera  (1000)<br>\
   (1000)  HIDZEN 0 : 2 Juutilainen  (1081)<br>\
@@ -2439,7 +2439,7 @@ The Battle of Ypres<br>\
 '
 }
 {
-'player': 'mfvillain'
+'player': 'mfvillain',
 'matches': 'Community Tournament #1<br>\
   (1000)  mfvillain 0 : 2 Vipasyn  (867)<br>\
 <br>\
@@ -2452,21 +2452,21 @@ Thanksgiving Tourney 2020<br>\
 '
 }
 {
-'player': 'Widgie'
+'player': 'Widgie',
 'matches': 'Community Tournament #1<br>\
   (1000)  Widgie 0 : 2 Vipasyn  (867)<br>\
 <br>\
 '
 }
 {
-'player': 'Dream'
+'player': 'Dream',
 'matches': 'Community Tournament #1<br>\
   (1000)  Dream 0 : 2 Aicad  (1114)<br>\
 <br>\
 '
 }
 {
-'player': 'Tiy'
+'player': 'Tiy',
 'matches': 'Community Tournament #1<br>\
   (1000)  Tiy 2 : 0 BobBaboushkin  (973)<br>\
   (1000)  Tiy 0 : 2 Aicad  (1114)<br>\
@@ -2474,28 +2474,28 @@ Thanksgiving Tourney 2020<br>\
 '
 }
 {
-'player': 'Nana'
+'player': 'Nana',
 'matches': 'Community Tournament #1<br>\
   (1000)  Nana 0 : 2 Chuzar  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'Slav-matros'
+'player': 'Slav-matros',
 'matches': 'Community Tournament #1<br>\
   (1000)  Slav-matros 0 : 2 Arisdrotel  (1020)<br>\
 <br>\
 '
 }
 {
-'player': 'Capporetto'
+'player': 'Capporetto',
 'matches': 'Community Tournament #1<br>\
   (1000)  Capporetto 0 : 2 dragonborn  (702)<br>\
 <br>\
 '
 }
 {
-'player': 'Chaosbringer'
+'player': 'Chaosbringer',
 'matches': 'Community Tournament #2<br>\
   (1000)  Chaosbringer 2 : 0 Burgara122  (1000)<br>\
   (1000)  Chaosbringer 2 : 0 Arisdrotel  (1039)<br>\
@@ -2504,14 +2504,14 @@ Thanksgiving Tourney 2020<br>\
 '
 }
 {
-'player': 'SavaKHV'
+'player': 'SavaKHV',
 'matches': 'Community Tournament #2<br>\
   (1000)  SavaKHV 0 : 2 Xyr0N  (1410)<br>\
 <br>\
 '
 }
 {
-'player': 'VindicareX'
+'player': 'VindicareX',
 'matches': 'Community Tournament #2<br>\
   (1000)  VindicareX 2 : 0 Warmind  (1000)<br>\
   (1000)  VindicareX 0 : 2 Xyr0N  (1410)<br>\
@@ -2519,14 +2519,14 @@ Thanksgiving Tourney 2020<br>\
 '
 }
 {
-'player': 'Garl1tz'
+'player': 'Garl1tz',
 'matches': 'Community Tournament #2<br>\
   (1000)  Garl1tz 0 : 2 malgari  (1045)<br>\
 <br>\
 '
 }
 {
-'player': 'Seemann Oome'
+'player': 'Seemann Oome',
 'matches': 'Community Tournament #2<br>\
   (1000)  Seemann Oome 0 : 2 Aicad  (1173)<br>\
 <br>\
@@ -2564,49 +2564,49 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Kagor'
+'player': 'Kagor',
 'matches': 'Community Tournament #2<br>\
   (1000)  Kagor 0 : 2 BnHtimmah  (1257)<br>\
 <br>\
 '
 }
 {
-'player': 'Burgara122'
+'player': 'Burgara122',
 'matches': 'Community Tournament #2<br>\
   (1000)  Burgara122 0 : 2 Chaosbringer  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'Russian Bear 5000'
+'player': 'Russian Bear 5000',
 'matches': 'Community Tournament #2<br>\
   (1000)  Russian Bear 5000 0 : 2 BobBaboushkin  (893)<br>\
 <br>\
 '
 }
 {
-'player': 'Lord of the Night'
+'player': 'Lord of the Night',
 'matches': 'Community Tournament #2<br>\
   (1000)  Lord of the Night 0 : 2 Fiction  (1113)<br>\
 <br>\
 '
 }
 {
-'player': 'itzEver'
+'player': 'itzEver',
 'matches': 'Community Tournament #2<br>\
   (1000)  itzEver 0 : 2 Claera  (899)<br>\
 <br>\
 '
 }
 {
-'player': 'Warmind'
+'player': 'Warmind',
 'matches': 'Community Tournament #2<br>\
   (1000)  Warmind 0 : 2 VindicareX  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'BorosRedeemed'
+'player': 'BorosRedeemed',
 'matches': 'Community Tournament #2<br>\
   (1000)  BorosRedeemed 0 : 2 Deku  (1081)<br>\
 <br>\
@@ -2618,14 +2618,14 @@ Thanksgiving Tourney 2020<br>\
 '
 }
 {
-'player': 'deadly'
+'player': 'deadly',
 'matches': 'Community Tournament #2<br>\
   (1000)  deadly 0 : 2 Keorangar  (1108)<br>\
 <br>\
 '
 }
 {
-'player': 'Librarian'
+'player': 'Librarian',
 'matches': 'Thanksgiving Tourney 2020<br>\
   (1000)  Librarian 0 : 2 Saturas  (1677)<br>\
   (1000)  Librarian 0 : 2 JudoKris  (747)<br>\
@@ -2633,7 +2633,7 @@ Thanksgiving Tourney 2020<br>\
 '
 }
 {
-'player': 'jobnazz'
+'player': 'jobnazz',
 'matches': 'Thanksgiving Tourney 2020<br>\
   (1000)  jobnazz 0 : 2 Aicad  (1203)<br>\
   (1000)  jobnazz 0 : 2 JudoKris  (747)<br>\
@@ -2641,7 +2641,7 @@ Thanksgiving Tourney 2020<br>\
 '
 }
 {
-'player': 'Seemann AIOBE'
+'player': 'Seemann AIOBE',
 'matches': 'Thanksgiving Tourney 2020<br>\
   (1000)  Seemann AIOBE 2 : 0 Seemann SEGFAULT  (1000)<br>\
   (1000)  Seemann AIOBE 0 : 2 TwitchNaummw  (1266)<br>\
@@ -2685,7 +2685,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Seemann SEGFAULT'
+'player': 'Seemann SEGFAULT',
 'matches': 'Thanksgiving Tourney 2020<br>\
   (1000)  Seemann SEGFAULT 0 : 2 Seemann AIOBE  (1000)<br>\
   (1000)  Seemann SEGFAULT 2 : 0 BnHtimmah  (1334)<br>\
@@ -2716,7 +2716,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Sillix'
+'player': 'Sillix',
 'matches': 'Thanksgiving Tourney 2020<br>\
   (1000)  Sillix 0 : 2 mfvillain  (520)<br>\
   (1000)  Sillix 0 : 2 dr mantis tobaggan  (1000)<br>\
@@ -2724,7 +2724,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'dr mantis tobaggan'
+'player': 'dr mantis tobaggan',
 'matches': 'Thanksgiving Tourney 2020<br>\
   (1000)  dr mantis tobaggan 0 : 2 BnHtimmah  (1334)<br>\
   (1000)  dr mantis tobaggan 2 : 0 Sillix  (1000)<br>\
@@ -2733,7 +2733,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Pyroka'
+'player': 'Pyroka',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Pyroka 1 : 0 MrBananaGrabber  (1000)<br>\
   (1000)  Pyroka 0 : 1 Xyr0N  (1323)<br>\
@@ -2761,7 +2761,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Godoksa'
+'player': 'Godoksa',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Godoksa 1 : 0 Musashi  (1000)<br>\
   (1000)  Godoksa 1 : 0 Jdanzi  (1104)<br>\
@@ -2790,7 +2790,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Flibby Longshanks'
+'player': 'Flibby Longshanks',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Flibby Longshanks 0 : 1 Saturas  (1648)<br>\
   (1000)  Flibby Longshanks 0 : 1 Vermillion_Hawk  (1000)<br>\
@@ -2809,7 +2809,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Killuminati'
+'player': 'Killuminati',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Killuminati 1 : 0 Bloodyman  (908)<br>\
   (1000)  Killuminati 0 : 1 Saturas  (1648)<br>\
@@ -2819,7 +2819,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Jacob'
+'player': 'Jacob',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Jacob 1 : 0 Seemann Oome  (783)<br>\
   (1000)  Jacob 1 : 0 EthosImmortal  (1000)<br>\
@@ -2855,7 +2855,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Vermillion_Hawk'
+'player': 'Vermillion_Hawk',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Vermillion_Hawk 0 : 1 Mixu  (1338)<br>\
   (1000)  Vermillion_Hawk 1 : 0 Flibby Longshanks  (1000)<br>\
@@ -2867,7 +2867,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Danielosama'
+'player': 'Danielosama',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Danielosama 1 : 0 Jonmatrix  (1000)<br>\
   (1000)  Danielosama 0 : 1 Mixu  (1338)<br>\
@@ -2879,7 +2879,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'rntpln'
+'player': 'rntpln',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  rntpln 1 : 0 MajimaEverywhere  (1000)<br>\
   (1000)  rntpln 0 : 1 Seemann AIOBE  (1118)<br>\
@@ -2907,7 +2907,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Orsox'
+'player': 'Orsox',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Orsox 0 : 1 Fiction  (1025)<br>\
   (1000)  Orsox 0 : 1 Seemann SEGFAULT  (942)<br>\
@@ -2930,7 +2930,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'AlkaduR'
+'player': 'AlkaduR',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  AlkaduR 1 : 0 Scarecrow  (639)<br>\
   (1000)  AlkaduR 0 : 1 Fiction  (1025)<br>\
@@ -2942,7 +2942,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'InsaneSaintGamer'
+'player': 'InsaneSaintGamer',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  InsaneSaintGamer 1 : 0 Hobbs  (1000)<br>\
   (1000)  InsaneSaintGamer 0 : 1 Godoksa  (1000)<br>\
@@ -2953,7 +2953,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'MrBananaGrabber'
+'player': 'MrBananaGrabber',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  MrBananaGrabber 0 : 1 Pyroka  (1000)<br>\
   (1000)  MrBananaGrabber 1 : 0 Patrik  (1000)<br>\
@@ -2965,7 +2965,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'MajimaEverywhere'
+'player': 'MajimaEverywhere',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  MajimaEverywhere 0 : 1 rntpln  (1000)<br>\
   (1000)  MajimaEverywhere 1 : 0 Musashi  (1000)<br>\
@@ -2985,7 +2985,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'Hobbs'
+'player': 'Hobbs',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Hobbs 1 : 0 Seemann FiberOptrix  (1000)<br>\
   (1000)  Hobbs 0 : 1 InsaneSaintGamer  (1000)<br>\
@@ -2997,7 +2997,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'Patrik'
+'player': 'Patrik',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Patrik 0 : 1 Troyd  (1355)<br>\
   (1000)  Patrik 0 : 1 MrBananaGrabber  (1000)<br>\
@@ -3005,7 +3005,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'EthosImmortal'
+'player': 'EthosImmortal',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  EthosImmortal 1 : 0 Mur  (873)<br>\
   (1000)  EthosImmortal 0 : 1 Jacob  (1000)<br>\
@@ -3016,7 +3016,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'Jonmatrix'
+'player': 'Jonmatrix',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Jonmatrix 0 : 1 Danielosama  (1000)<br>\
   (1000)  Jonmatrix 1 : 0 Seemann FiberOptrix  (1000)<br>\
@@ -3028,7 +3028,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'richiehimself'
+'player': 'richiehimself',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  richiehimself 0 : 1 Jdanzi  (1104)<br>\
   (1000)  richiehimself 0 : 1 UpAllNight  (823)<br>\
@@ -3040,7 +3040,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'Seemann FiberOptrix'
+'player': 'Seemann FiberOptrix',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Seemann FiberOptrix 0 : 1 Hobbs  (1000)<br>\
   (1000)  Seemann FiberOptrix 0 : 1 Jonmatrix  (1000)<br>\
@@ -3059,7 +3059,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'kikin'
+'player': 'kikin',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  kikin 0 : 1 Kaos  (1130)<br>\
   (1000)  kikin 0 : 1 The Von  (915)<br>\
@@ -3070,7 +3070,7 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'fox40phil'
+'player': 'fox40phil',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  fox40phil 0 : 1 Venaqus  (1475)<br>\
   (1000)  fox40phil 0 : 1 Scarecrow  (639)<br>\
@@ -3082,14 +3082,14 @@ ESL Fall Tournament #2<br>\
 '
 }
 {
-'player': 'Smoke'
+'player': 'Smoke',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Smoke 0 : 1 Semillon  (627)<br>\
 <br>\
 '
 }
 {
-'player': 'Musashi'
+'player': 'Musashi',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Musashi 0 : 1 Godoksa  (1000)<br>\
   (1000)  Musashi 0 : 1 MajimaEverywhere  (1000)<br>\
@@ -3108,21 +3108,21 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Curiousmat'
+'player': 'Curiousmat',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Curiousmat 1 : 0 Evilbird  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'Evilbird'
+'player': 'Evilbird',
 'matches': 'ESL Fall Tournament #1<br>\
   (1000)  Evilbird 0 : 1 Curiousmat  (1000)<br>\
 <br>\
 '
 }
 {
-'player': 'Noah'
+'player': 'Noah',
 'matches': 'ESL Fall Tournament #2<br>\
   (1000)  Noah 0 : 1 BnHtimmah  (1243)<br>\
   (1000)  Noah 1 : 0 Dixio  (1000)<br>\
@@ -3157,7 +3157,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Dixio'
+'player': 'Dixio',
 'matches': 'ESL Fall Tournament #2<br>\
   (1000)  Dixio 0 : 1 Fiction  (1167)<br>\
   (1000)  Dixio 0 : 1 Noah  (1000)<br>\
@@ -3177,7 +3177,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Imponderabilium'
+'player': 'Imponderabilium',
 'matches': 'ESL Fall Tournament #2<br>\
   (1000)  Imponderabilium 0 : 1 Godoksa  (1243)<br>\
   (1000)  Imponderabilium 0 : 1 Seemann Oome  (887)<br>\
@@ -3188,11 +3188,11 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'Fortune'
+'player': 'Fortune',
 'matches': ''
 }
 {
-'player': 'LemaEdwin'
+'player': 'LemaEdwin',
 'matches': 'ESL Fall Tournament #2<br>\
   (1000)  LemaEdwin 0 : 1 Xyr0N  (1344)<br>\
   (1000)  LemaEdwin 0 : 1 Scarecrow  (833)<br>\
@@ -3200,7 +3200,7 @@ ESL Fall Tournament #3<br>\
 '
 }
 {
-'player': 'NaumMW'
+'player': 'NaumMW',
 'matches': 'ESL Fall Tournament #3<br>\
   (1000)  NaumMW 1 : 0 Captain Hellbat  (1058)<br>\
   (1000)  NaumMW 0 : 1 Venaqus  (1452)<br>\
@@ -3220,7 +3220,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Neo Combine'
+'player': 'Neo Combine',
 'matches': 'ESL Fall Tournament #3<br>\
   (1000)  Neo Combine 1 : 0 Musashi  (873)<br>\
   (1000)  Neo Combine 0 : 1 Jdanzi  (1357)<br>\
@@ -3232,7 +3232,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Smeg4brainsuk'
+'player': 'Smeg4brainsuk',
 'matches': 'ESL Fall Tournament #3<br>\
   (1000)  Smeg4brainsuk 0 : 1 Pyroka  (1174)<br>\
   (1000)  Smeg4brainsuk 0 : 1 Orsox  (869)<br>\
@@ -3244,7 +3244,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Franky'
+'player': 'Franky',
 'matches': 'ESL Fall Tournament #3<br>\
   (1000)  Franky 0 : 1 Fiction  (1199)<br>\
   (1000)  Franky 1 : 0 PowerK  (1000)<br>\
@@ -3264,7 +3264,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'GiftedMachine'
+'player': 'GiftedMachine',
 'matches': 'ESL Fall Tournament #3<br>\
   (1000)  GiftedMachine 0 : 1 Kaos  (1201)<br>\
   (1000)  GiftedMachine 1 : 0 Captain Hellbat  (1058)<br>\
@@ -3284,7 +3284,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'PowerK'
+'player': 'PowerK',
 'matches': 'ESL Fall Tournament #3<br>\
   (1000)  PowerK 0 : 1 BnHtimmah  (1264)<br>\
   (1000)  PowerK 0 : 1 Franky  (1000)<br>\
@@ -3296,7 +3296,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'Oathmaster'
+'player': 'Oathmaster',
 'matches': 'ESL Fall Tournament #3<br>\
   (1000)  Oathmaster 0 : 1 Jdanzi  (1357)<br>\
   (1000)  Oathmaster 1 : 0 Scarecrow  (808)<br>\
@@ -3308,7 +3308,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'St.Akardi'
+'player': 'St.Akardi',
 'matches': 'ESL Fall Tournament #3<br>\
   (1000)  St.Akardi 0 : 1 Mixu  (1381)<br>\
   (1000)  St.Akardi 0 : 1 rntpln  (1071)<br>\
@@ -3328,7 +3328,7 @@ ESL Fall Tournament #4<br>\
 '
 }
 {
-'player': 'No02'
+'player': 'No02',
 'matches': 'The Battle of Ypres<br>\
   (1000)  No02 2 : 0 LemonPi  (1000)<br>\
   (1000)  No02 0 : 2 Aicad  (1478)<br>\
@@ -3339,7 +3339,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Bobito'
+'player': 'Bobito',
 'matches': 'The Battle of Ypres<br>\
   (1000)  Bobito 2 : 0 Seemann Oome  (960)<br>\
   (1000)  Bobito 0 : 2 Noah  (1586)<br>\
@@ -3350,14 +3350,14 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Nobby'
+'player': 'Nobby',
 'matches': 'The Battle of Ypres<br>\
   (1000)  Nobby 0 : 2 Fiction  (1195)<br>\
 <br>\
 '
 }
 {
-'player': 'LemonPi'
+'player': 'LemonPi',
 'matches': 'The Battle of Ypres<br>\
   (1000)  LemonPi 0 : 2 No02  (1000)<br>\
 <br>\
@@ -3370,7 +3370,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'Lev'
+'player': 'Lev',
 'matches': 'The Battle of Tannenberg<br>\
   (1000)  Lev 2 : 0 Fiction  (1182)<br>\
   (1000)  Lev 0 : 2 Aicad  (1547)<br>\
@@ -3378,7 +3378,7 @@ The Battle of Tannenberg<br>\
 '
 }
 {
-'player': 'CurtChan'
+'player': 'CurtChan',
 'matches': 'The Battle of Tannenberg<br>\
   (1000)  CurtChan 0 : 2 Noah  (1526)<br>\
 <br>\
