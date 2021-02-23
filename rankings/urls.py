@@ -11,6 +11,6 @@ urlpatterns = [
     path('about/', views.about, name='rankings-about'),
     path('about/<int:year>/', views.about, name='rankings-about'),
 
-    path('player/', views.player, name='rankings-player')
-    # path('player/<int:year>/', views.players, name='rankings-player')
+    path('player/', views.player, name='rankings-player'),
+    path('player/<str:player>/', views.player, name='rankings-player')
 ]
