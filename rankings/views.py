@@ -37,7 +37,7 @@ def player(request, player=''):
 		'players':playerMatches
 	}
 	for player in range(len(playerMatches)):
-		if playerMatches[player][0] == player:
+		if playerMatches[player]['player'] == player:
 			context = {
 				'players':playerMatches[player]    
 			}
