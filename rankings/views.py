@@ -7,9 +7,6 @@ from .models import Player
 from .fullData import fullList
 from .activeData import players
 
-def player(request, player):
-	return render(request, 'ALIGULAC/player.html', player)
-
 def matches(request):
 	context = {
 		'players':fullList #Player.object.all()
@@ -31,7 +28,11 @@ def home(request):
 	}
 	return render(request, 'ALIGULAC/home.html', context)
 
-def about(request, year=2000):
+def player(request, player='2000'):
+	return render(request, 'ALIGULAC/about.html')
+
+
+def about(request):
 	return render(request, 'ALIGULAC/about.html')
 
 
