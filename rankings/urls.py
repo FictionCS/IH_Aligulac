@@ -1,6 +1,6 @@
 from django.urls import path
 from . import views
-
+import playerMatches
 
 urlpatterns = [
     path('', views.home, name='rankings-home'),
@@ -9,3 +9,6 @@ urlpatterns = [
     path('full/', views.full, name='rankings-full'),
     path('about/', views.about, name='rankings-about')
 ]
+
+for player in playerMatches.playerMatches:
+	urlpatterns += path('matches/'+player.player, views.about, name='test')
