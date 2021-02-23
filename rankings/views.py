@@ -6,6 +6,7 @@ from .models import Player
 
 from .fullData import fullList
 from .activeData import players
+from .playerMatches import playerMatches
 
 def matches(request):
 	context = {
@@ -32,5 +33,8 @@ def about(request):
 	return render(request, 'ALIGULAC/about.html')
 
 def player(request, player='yes'):
-	return render(request, 'ALIGULAC/about.html')
+	context = {
+		'players':playerMatches	
+	}
+	return render(request, 'ALIGULAC/about.html', context)
 
