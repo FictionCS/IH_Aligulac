@@ -7,6 +7,9 @@ from .models import Player
 from .fullData import fullList
 from .activeData import players
 
+def player(request, player):
+	return render(request, 'ALIGULAC/player.html', player)
+
 def matches(request):
 	context = {
 		'players':fullList #Player.object.all()
