@@ -36,5 +36,5 @@ def player(request, player='yes'):
 	context = {
 		'players':playerMatches	
 	}
-	return render(request, 'ALIGULAC/about.html', context)
+	return render(request, 'ALIGULAC/players.html', context)
 
