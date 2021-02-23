@@ -9,5 +9,5 @@ urlpatterns = [
     path('predictions/', views.predictions, name='rankings-predictions'),
     path('full/', views.full, name='rankings-full'),
     path('about/', views.about, name='rankings-about'),
-    path('about/<int:year>/', views.about_special, name='rankings-about')
+    path('about/<int:year>/', views.about, name='rankings-about')
 ]

@@ -33,7 +33,5 @@ def home(request):
 
 def about(request):
 	return render(request, 'ALIGULAC/about.html')
-
-def about_special(request, year)
-	return render(request, 'ALIGULAC/about.html')
+	
 
