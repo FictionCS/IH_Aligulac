@@ -31,7 +31,7 @@ def home(request):
 	}
 	return render(request, 'ALIGULAC/home.html', context)
 
-def about(request):
+def about(request, year=2000):
 	return render(request, 'ALIGULAC/about.html')
-	
+
 
