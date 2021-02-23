@@ -31,6 +31,6 @@ def home(request):
 	}
 	return render(request, 'ALIGULAC/home.html', context)
 
-def about(request):
+def about(request, num = 1):
 	return render(request, 'ALIGULAC/about.html')
 
