@@ -28,7 +28,7 @@ def home(request):
 	}
 	return render(request, 'ALIGULAC/home.html', context)
 
-def about(request, year=2000):
+def about(request):
 	return render(request, 'ALIGULAC/about.html')
 
 def player(request, player='yes'):
