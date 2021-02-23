@@ -9,8 +9,8 @@
 					  border-color: #e7e7e7;
 					  font-variant: small-cap;
 					  font-family: 'Roboto', sans-serif;
-					  text-align: left">About the Site</h2>
-		{% for player in playerMatches %}
+					  text-align: left">Players</h2>
+		{% for player in players %}
 					<p style="font-size: 18px">{{ player.player }}</p>
 					<p style="font-weight: normal">{{ player.matches }}</p>
 		{% endfor %}
