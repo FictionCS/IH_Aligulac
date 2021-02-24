@@ -1,14 +1,14 @@
 playerMatches = [
 {
 'id': '1',
-'WellplayedTV': 'ESL Pre-Season Tournament #3\
-  (1000)  WellplayedTV 1 : 0 Kaos  (1000)\
-  (1000)  WellplayedTV 1 : 0 NOSmarkov  (1000)\
-  (1000)  WellplayedTV 1 : 0 SaTiNo  (1000)\
-  (1000)  WellplayedTV 1 : 0 Orlishe  (1000)\
-  (1000)  WellplayedTV 1 : 0 Mixu  (1000)\
-  (1000)  WellplayedTV 1 : 0 Potato Boy  (1000)\
-  (1000)  WellplayedTV 1 : 0 Arisdrotel  (1000)\
+'WellplayedTV': 'ESL Pre-Season Tournament #3\n\
+  (1000)  WellplayedTV 1 : 0 Kaos  (1000)\n\
+  (1000)  WellplayedTV 1 : 0 NOSmarkov  (1000)\n\
+  (1000)  WellplayedTV 1 : 0 SaTiNo  (1000)\n\
+  (1000)  WellplayedTV 1 : 0 Orlishe  (1000)\n\
+  (1000)  WellplayedTV 1 : 0 Mixu  (1000)\n\
+  (1000)  WellplayedTV 1 : 0 Potato Boy  (1000)\n\
+  (1000)  WellplayedTV 1 : 0 Arisdrotel  (1000)\n\
 \
 ESL Pre-Season Final\
   (1395)  WellplayedTV 1 : 0 RotterdaM  (1000)\
