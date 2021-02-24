@@ -22,7 +22,7 @@
 			</tr>
 			{% for player in players %}
  				<tr style="text-align: left">
-					<th style="font-size: 18px">{{ player.rank }}</th>
+					<th style="font-size: 18px"><a href=playerLink({{ player.rank }})>{{ player.rank }}</a></th>
 					<th style="font-weight: normal">{{ player.player }}</th>
 					<th style="font-weight: normal">{{ player.rating }}</th>
 					<th style="font-weight: normal">{{ player.winrate }}</th>
@@ -34,4 +34,9 @@
 			<tr>
 		</table>
 	</div>
+	<script type="text/javascript">
+		function playerLink(player) {
+		  return "https://ihaligulac.herokuapp.com/player/" + player;
+		}
+	</script>
 {% endblock content %}
