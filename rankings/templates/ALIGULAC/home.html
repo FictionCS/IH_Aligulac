@@ -22,7 +22,7 @@
 			</tr>
 			{% for player in players %}
  				<tr style="text-align: left">
-					<th style="font-weight: normal; font-size: 18px">{{ player.rank }}</th>
+					<th style="padding-left: 5px; text-align: right;font-weight: normal; font-size: 18px">{{ player.rank }}</th>
 					<th style="font-weight: normal"><a style="color:#2a6496" href=player/{{ player.id }}>{{ player.player }}</a></th>
 					<th style="font-weight: normal">{{ player.rating }}</th>
 					<th style="font-weight: normal">{{ player.winrate }}</th>
