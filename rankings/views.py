@@ -33,13 +33,17 @@ def about(request):
 	return render(request, 'ALIGULAC/about.html')
 
 def player(request, player=''):
+	playerIndexs = []
+	for item in playerMatches:
+		playerIndexs.append(item)
+
 	if player == '':
 		context = {
 			'players':playerMatches
 		}
 	else:
 		context = {
-			'players':playerMatches[player]
+			'players':playerMatches[playerIndexs.index(player)]
 		}
 	return render(request, 'ALIGULAC/players.html', context)
 
