@@ -7,7 +7,7 @@ fullList = [
 	'wins':'50',
 	'losses':'9',
 	'rd':'98',
-	'inactive':'73'
+	'inactive':'73',
 	'id':'119'
 	},
 	{
@@ -18,7 +18,7 @@ fullList = [
 	'wins':'45',
 	'losses':'19',
 	'rd':'82',
-	'inactive':'0'
+	'inactive':'0',
 	'id':'30'
 	},
 	{
@@ -29,7 +29,7 @@ fullList = [
 	'wins':'27',
 	'losses':'10',
 	'rd':'96',
-	'inactive':'0'
+	'inactive':'0',
 	'id':'198'
 	},
 	{
@@ -40,7 +40,7 @@ fullList = [
 	'wins':'37',
 	'losses':'14',
 	'rd':'75',
-	'inactive':'73'
+	'inactive':'73',
 	'id':'34'
 	},
 	{
@@ -51,7 +51,7 @@ fullList = [
 	'wins':'13',
 	'losses':'1',
 	'rd':'145',
-	'inactive':'183'
+	'inactive':'183',
 	'id':'1'
 	},
 	{
@@ -62,7 +62,7 @@ fullList = [
 	'wins':'38',
 	'losses':'14',
 	'rd':'80',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'74'
 	},
 	{
@@ -73,7 +73,7 @@ fullList = [
 	'wins':'53',
 	'losses':'20',
 	'rd':'66',
-	'inactive':'0'
+	'inactive':'0',
 	'id':'18'
 	},
 	{
@@ -84,7 +84,7 @@ fullList = [
 	'wins':'18',
 	'losses':'10',
 	'rd':'89',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'114'
 	},
 	{
@@ -95,7 +95,7 @@ fullList = [
 	'wins':'8',
 	'losses':'4',
 	'rd':'120',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'203'
 	},
 	{
@@ -106,7 +106,7 @@ fullList = [
 	'wins':'10',
 	'losses':'2',
 	'rd':'132',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'12'
 	},
 	{
@@ -117,7 +117,7 @@ fullList = [
 	'wins':'22',
 	'losses':'8',
 	'rd':'89',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'6'
 	},
 	{
@@ -128,7 +128,7 @@ fullList = [
 	'wins':'36',
 	'losses':'17',
 	'rd':'76',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'21'
 	},
 	{
@@ -139,7 +139,7 @@ fullList = [
 	'wins':'12',
 	'losses':'6',
 	'rd':'108',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'173'
 	},
 	{
@@ -150,7 +150,7 @@ fullList = [
 	'wins':'25',
 	'losses':'14',
 	'rd':'84',
-	'inactive':'0'
+	'inactive':'0',
 	'id':'169'
 	},
 	{
@@ -161,7 +161,7 @@ fullList = [
 	'wins':'30',
 	'losses':'18',
 	'rd':'76',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'26'
 	},
 	{
@@ -172,7 +172,7 @@ fullList = [
 	'wins':'11',
 	'losses':'6',
 	'rd':'106',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'174'
 	},
 	{
@@ -183,7 +183,7 @@ fullList = [
 	'wins':'5',
 	'losses':'1',
 	'rd':'164',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'78'
 	},
 	{
@@ -194,7 +194,7 @@ fullList = [
 	'wins':'5',
 	'losses':'1',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'7'
 	},
 	{
@@ -205,7 +205,7 @@ fullList = [
 	'wins':'9',
 	'losses':'3',
 	'rd':'127',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'22'
 	},
 	{
@@ -216,7 +216,7 @@ fullList = [
 	'wins':'14',
 	'losses':'10',
 	'rd':'98',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'2'
 	},
 	{
@@ -227,7 +227,7 @@ fullList = [
 	'wins':'8',
 	'losses':'5',
 	'rd':'142',
-	'inactive':'135'
+	'inactive':'135',
 	'id':'65'
 	},
 	{
@@ -238,7 +238,7 @@ fullList = [
 	'wins':'4',
 	'losses':'2',
 	'rd':'164',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'71'
 	},
 	{
@@ -249,7 +249,7 @@ fullList = [
 	'wins':'8',
 	'losses':'4',
 	'rd':'142',
-	'inactive':'163'
+	'inactive':'163',
 	'id':'84'
 	},
 	{
@@ -260,7 +260,7 @@ fullList = [
 	'wins':'6',
 	'losses':'2',
 	'rd':'162',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'16'
 	},
 	{
@@ -271,7 +271,7 @@ fullList = [
 	'wins':'20',
 	'losses':'12',
 	'rd':'96',
-	'inactive':'93'
+	'inactive':'93',
 	'id':'126'
 	},
 	{
@@ -282,7 +282,7 @@ fullList = [
 	'wins':'8',
 	'losses':'5',
 	'rd':'155',
-	'inactive':'163'
+	'inactive':'163',
 	'id':'46'
 	},
 	{
@@ -293,7 +293,7 @@ fullList = [
 	'wins':'4',
 	'losses':'2',
 	'rd':'176',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'69'
 	},
 	{
@@ -304,7 +304,7 @@ fullList = [
 	'wins':'14',
 	'losses':'10',
 	'rd':'91',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'177'
 	},
 	{
@@ -315,7 +315,7 @@ fullList = [
 	'wins':'4',
 	'losses':'2',
 	'rd':'180',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'73'
 	},
 	{
@@ -326,7 +326,7 @@ fullList = [
 	'wins':'25',
 	'losses':'18',
 	'rd':'80',
-	'inactive':'0'
+	'inactive':'0',
 	'id':'128'
 	},
 	{
@@ -337,7 +337,7 @@ fullList = [
 	'wins':'5',
 	'losses':'2',
 	'rd':'169',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'5'
 	},
 	{
@@ -348,7 +348,7 @@ fullList = [
 	'wins':'8',
 	'losses':'6',
 	'rd':'172',
-	'inactive':'135'
+	'inactive':'135',
 	'id':'130'
 	},
 	{
@@ -359,7 +359,7 @@ fullList = [
 	'wins':'8',
 	'losses':'4',
 	'rd':'128',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'27'
 	},
 	{
@@ -370,7 +370,7 @@ fullList = [
 	'wins':'6',
 	'losses':'6',
 	'rd':'183',
-	'inactive':'97'
+	'inactive':'97',
 	'id':'129'
 	},
 	{
@@ -381,7 +381,7 @@ fullList = [
 	'wins':'4',
 	'losses':'2',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'4'
 	},
 	{
@@ -392,7 +392,7 @@ fullList = [
 	'wins':'4',
 	'losses':'2',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'14'
 	},
 	{
@@ -403,7 +403,7 @@ fullList = [
 	'wins':'9',
 	'losses':'7',
 	'rd':'160',
-	'inactive':'163'
+	'inactive':'163',
 	'id':'115'
 	},
 	{
@@ -414,7 +414,7 @@ fullList = [
 	'wins':'14',
 	'losses':'10',
 	'rd':'110',
-	'inactive':'135'
+	'inactive':'135',
 	'id':'40'
 	},
 	{
@@ -425,7 +425,7 @@ fullList = [
 	'wins':'8',
 	'losses':'4',
 	'rd':'138',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'33'
 	},
 	{
@@ -436,7 +436,7 @@ fullList = [
 	'wins':'4',
 	'losses':'2',
 	'rd':'171',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'75'
 	},
 	{
@@ -447,7 +447,7 @@ fullList = [
 	'wins':'6',
 	'losses':'4',
 	'rd':'140',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'11'
 	},
 	{
@@ -458,7 +458,7 @@ fullList = [
 	'wins':'28',
 	'losses':'31',
 	'rd':'75',
-	'inactive':'0'
+	'inactive':'0',
 	'id':'123'
 	},
 	{
@@ -469,7 +469,7 @@ fullList = [
 	'wins':'7',
 	'losses':'5',
 	'rd':'130',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'19'
 	},
 	{
@@ -480,7 +480,7 @@ fullList = [
 	'wins':'3',
 	'losses':'2',
 	'rd':'194',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'47'
 	},
 	{
@@ -491,7 +491,7 @@ fullList = [
 	'wins':'4',
 	'losses':'2',
 	'rd':'176',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'92'
 	},
 	{
@@ -502,7 +502,7 @@ fullList = [
 	'wins':'6',
 	'losses':'6',
 	'rd':'123',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'206'
 	},
 	{
@@ -513,7 +513,7 @@ fullList = [
 	'wins':'5',
 	'losses':'4',
 	'rd':'148',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'13'
 	},
 	{
@@ -524,7 +524,7 @@ fullList = [
 	'wins':'8',
 	'losses':'8',
 	'rd':'108',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'180'
 	},
 	{
@@ -535,7 +535,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'163',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'204'
 	},
 	{
@@ -546,7 +546,7 @@ fullList = [
 	'wins':'12',
 	'losses':'12',
 	'rd':'100',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'55'
 	},
 	{
@@ -557,7 +557,7 @@ fullList = [
 	'wins':'2',
 	'losses':'2',
 	'rd':'198',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'70'
 	},
 	{
@@ -568,7 +568,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'180',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'72'
 	},
 	{
@@ -579,7 +579,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'170',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'96'
 	},
 	{
@@ -590,7 +590,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'171',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'91'
 	},
 	{
@@ -601,7 +601,7 @@ fullList = [
 	'wins':'3',
 	'losses':'5',
 	'rd':'159',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'135'
 	},
 	{
@@ -612,7 +612,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'178',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'89'
 	},
 	{
@@ -623,7 +623,7 @@ fullList = [
 	'wins':'12',
 	'losses':'10',
 	'rd':'121',
-	'inactive':'135'
+	'inactive':'135',
 	'id':'8'
 	},
 	{
@@ -634,7 +634,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'20'
 	},
 	{
@@ -645,7 +645,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'23'
 	},
 	{
@@ -656,7 +656,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'37'
 	},
 	{
@@ -667,7 +667,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'48'
 	},
 	{
@@ -678,7 +678,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'181',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'97'
 	},
 	{
@@ -689,7 +689,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'181',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'186'
 	},
 	{
@@ -700,7 +700,7 @@ fullList = [
 	'wins':'5',
 	'losses':'6',
 	'rd':'135',
-	'inactive':'163'
+	'inactive':'163',
 	'id':'15'
 	},
 	{
@@ -711,7 +711,7 @@ fullList = [
 	'wins':'4',
 	'losses':'5',
 	'rd':'146',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'36'
 	},
 	{
@@ -722,7 +722,7 @@ fullList = [
 	'wins':'5',
 	'losses':'6',
 	'rd':'143',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'3'
 	},
 	{
@@ -733,7 +733,7 @@ fullList = [
 	'wins':'11',
 	'losses':'15',
 	'rd':'97',
-	'inactive':'0'
+	'inactive':'0',
 	'id':'158'
 	},
 	{
@@ -744,7 +744,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'169',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'82'
 	},
 	{
@@ -755,7 +755,7 @@ fullList = [
 	'wins':'2',
 	'losses':'2',
 	'rd':'199',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'85'
 	},
 	{
@@ -766,7 +766,7 @@ fullList = [
 	'wins':'7',
 	'losses':'10',
 	'rd':'116',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'45'
 	},
 	{
@@ -777,7 +777,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'189',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'193'
 	},
 	{
@@ -788,7 +788,7 @@ fullList = [
 	'wins':'5',
 	'losses':'7',
 	'rd':'120',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'207'
 	},
 	{
@@ -799,7 +799,7 @@ fullList = [
 	'wins':'3',
 	'losses':'4',
 	'rd':'170',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'10'
 	},
 	{
@@ -810,7 +810,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'171',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'81'
 	},
 	{
@@ -821,7 +821,7 @@ fullList = [
 	'wins':'3',
 	'losses':'7',
 	'rd':'160',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'131'
 	},
 	{
@@ -832,7 +832,7 @@ fullList = [
 	'wins':'3',
 	'losses':'4',
 	'rd':'168',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'54'
 	},
 	{
@@ -843,7 +843,7 @@ fullList = [
 	'wins':'8',
 	'losses':'10',
 	'rd':'120',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'42'
 	},
 	{
@@ -854,7 +854,7 @@ fullList = [
 	'wins':'3',
 	'losses':'3',
 	'rd':'160',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'83'
 	},
 	{
@@ -865,7 +865,7 @@ fullList = [
 	'wins':'5',
 	'losses':'7',
 	'rd':'120',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'199'
 	},
 	{
@@ -876,7 +876,7 @@ fullList = [
 	'wins':'6',
 	'losses':'10',
 	'rd':'141',
-	'inactive':'135'
+	'inactive':'135',
 	'id':'61'
 	},
 	{
@@ -887,7 +887,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'172',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'208'
 	},
 	{
@@ -898,7 +898,7 @@ fullList = [
 	'wins':'5',
 	'losses':'6',
 	'rd':'135',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'17'
 	},
 	{
@@ -909,7 +909,7 @@ fullList = [
 	'wins':'3',
 	'losses':'4',
 	'rd':'157',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'86'
 	},
 	{
@@ -920,7 +920,7 @@ fullList = [
 	'wins':'4',
 	'losses':'7',
 	'rd':'129',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'39'
 	},
 	{
@@ -931,7 +931,7 @@ fullList = [
 	'wins':'2',
 	'losses':'3',
 	'rd':'184',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'87'
 	},
 	{
@@ -942,7 +942,7 @@ fullList = [
 	'wins':'4',
 	'losses':'8',
 	'rd':'112',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'210'
 	},
 	{
@@ -953,7 +953,7 @@ fullList = [
 	'wins':'5',
 	'losses':'7',
 	'rd':'133',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'49'
 	},
 	{
@@ -964,7 +964,7 @@ fullList = [
 	'wins':'5',
 	'losses':'7',
 	'rd':'132',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'52'
 	},
 	{
@@ -975,7 +975,7 @@ fullList = [
 	'wins':'2',
 	'losses':'3',
 	'rd':'176',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'183'
 	},
 	{
@@ -986,7 +986,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'172',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'99'
 	},
 	{
@@ -997,7 +997,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'175',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'184'
 	},
 	{
@@ -1008,7 +1008,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'168',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'209'
 	},
 	{
@@ -1019,7 +1019,7 @@ fullList = [
 	'wins':'3',
 	'losses':'5',
 	'rd':'155',
-	'inactive':'171'
+	'inactive':'171',
 	'id':'100'
 	},
 	{
@@ -1030,7 +1030,7 @@ fullList = [
 	'wins':'10',
 	'losses':'19',
 	'rd':'92',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'64'
 	},
 	{
@@ -1041,7 +1041,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'164',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'76'
 	},
 	{
@@ -1052,7 +1052,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'44'
 	},
 	{
@@ -1063,7 +1063,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'57'
 	},
 	{
@@ -1074,7 +1074,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'63'
 	},
 	{
@@ -1085,7 +1085,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'181',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'103'
 	},
 	{
@@ -1096,7 +1096,7 @@ fullList = [
 	'wins':'3',
 	'losses':'6',
 	'rd':'153',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'24'
 	},
 	{
@@ -1107,7 +1107,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'170',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'66'
 	},
 	{
@@ -1118,7 +1118,7 @@ fullList = [
 	'wins':'2',
 	'losses':'5',
 	'rd':'165',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'9'
 	},
 	{
@@ -1129,7 +1129,7 @@ fullList = [
 	'wins':'4',
 	'losses':'7',
 	'rd':'134',
-	'inactive':'93'
+	'inactive':'93',
 	'id':'191'
 	},
 	{
@@ -1140,7 +1140,7 @@ fullList = [
 	'wins':'3',
 	'losses':'6',
 	'rd':'157',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'38'
 	},
 	{
@@ -1151,7 +1151,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'184',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'179'
 	},
 	{
@@ -1162,7 +1162,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'176',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'182'
 	},
 	{
@@ -1173,7 +1173,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'172',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'90'
 	},
 	{
@@ -1184,7 +1184,7 @@ fullList = [
 	'wins':'3',
 	'losses':'8',
 	'rd':'134',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'175'
 	},
 	{
@@ -1195,7 +1195,7 @@ fullList = [
 	'wins':'2',
 	'losses':'4',
 	'rd':'183',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'178'
 	},
 	{
@@ -1206,7 +1206,7 @@ fullList = [
 	'wins':'4',
 	'losses':'13',
 	'rd':'130',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'145'
 	},
 	{
@@ -1217,7 +1217,7 @@ fullList = [
 	'wins':'1',
 	'losses':'5',
 	'rd':'174',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'77'
 	},
 	{
@@ -1228,7 +1228,7 @@ fullList = [
 	'wins':'1',
 	'losses':'5',
 	'rd':'181',
-	'inactive':'196'
+	'inactive':'196',
 	'id':'60'
 	},
 	{
@@ -1239,7 +1239,7 @@ fullList = [
 	'wins':'1',
 	'losses':'5',
 	'rd':'173',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'189'
 	},
 	{
@@ -1250,7 +1250,7 @@ fullList = [
 	'wins':'1',
 	'losses':'5',
 	'rd':'163',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'205'
 	},
 	{
@@ -1261,7 +1261,7 @@ fullList = [
 	'wins':'3',
 	'losses':'9',
 	'rd':'130',
-	'inactive':'93'
+	'inactive':'93',
 	'id':'185'
 	},
 	{
@@ -1272,7 +1272,7 @@ fullList = [
 	'wins':'4',
 	'losses':'11',
 	'rd':'135',
-	'inactive':'163'
+	'inactive':'163',
 	'id':'67'
 	},
 	{
@@ -1283,7 +1283,7 @@ fullList = [
 	'wins':'4',
 	'losses':'18',
 	'rd':'110',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'170'
 	},
 	{
@@ -1294,7 +1294,7 @@ fullList = [
 	'wins':'1',
 	'losses':'5',
 	'rd':'173',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'80'
 	},
 	{
@@ -1305,7 +1305,7 @@ fullList = [
 	'wins':'1',
 	'losses':'6',
 	'rd':'169',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'31'
 	},
 	{
@@ -1316,7 +1316,7 @@ fullList = [
 	'wins':'1',
 	'losses':'5',
 	'rd':'171',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'190'
 	},
 	{
@@ -1327,7 +1327,7 @@ fullList = [
 	'wins':'2',
 	'losses':'9',
 	'rd':'141',
-	'inactive':'87'
+	'inactive':'87',
 	'id':'195'
 	},
 	{
@@ -1338,7 +1338,7 @@ fullList = [
 	'wins':'2',
 	'losses':'11',
 	'rd':'117',
-	'inactive':'80'
+	'inactive':'80',
 	'id':'181'
 	},
 	{
@@ -1349,7 +1349,7 @@ fullList = [
 	'wins':'1',
 	'losses':'4',
 	'rd':'189',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'188'
 	},
 	{
@@ -1360,7 +1360,7 @@ fullList = [
 	'wins':'0',
 	'losses':'5',
 	'rd':'193',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'101'
 	},
 	{
@@ -1371,7 +1371,7 @@ fullList = [
 	'wins':'0',
 	'losses':'5',
 	'rd':'176',
-	'inactive':'94'
+	'inactive':'94',
 	'id':'192'
 	},
 	{
@@ -1382,7 +1382,7 @@ fullList = [
 	'wins':'0',
 	'losses':'5',
 	'rd':'178',
-	'inactive':'93'
+	'inactive':'93',
 	'id':'200'
 	},
 	{
@@ -1393,7 +1393,7 @@ fullList = [
 	'wins':'0',
 	'losses':'5',
 	'rd':'183',
-	'inactive':'190'
+	'inactive':'190',
 	'id':'106'
 	}
 ]
