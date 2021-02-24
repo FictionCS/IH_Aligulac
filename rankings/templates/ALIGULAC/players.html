@@ -10,9 +10,9 @@
 					  font-variant: small-cap;
 					  font-family: 'Roboto', sans-serif;
 					  text-align: left">Players</h2>
-		{% for player in players %}
+		{% for player, matches in players.items %}
 					<p style="font-size: 18px">{{ player }}</p>
-					<p style="font-weight: normal">{{ players.player }}</p>
+					<p style="font-weight: normal">{{ matches }}</p>
 		{% endfor %}
 	</div>
 {% endblock content %}
