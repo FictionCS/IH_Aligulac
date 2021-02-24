@@ -12,7 +12,7 @@
 					  text-align: left">Players</h2>
 		{% for player, matches in players.items %}
 					<p style="font-size: 18px">{{ player }}</p>
-					<p style="font-weight: normal">{{ matches }}</p>
+					<pre style="font-weight: normal">{{ matches }}</pre>
 		{% endfor %}
 	</div>
 {% endblock content %}
