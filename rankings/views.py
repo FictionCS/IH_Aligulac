@@ -35,7 +35,7 @@ def about(request):
 def player(request, player=''):
 	playerIndexs = []
 	for item in playerMatches:
-		for player in item
+		for player in item:
 			playerIndexs.append(player)
 
 	if player == '':
