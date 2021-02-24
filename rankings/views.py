@@ -35,7 +35,7 @@ def about(request):
 def player(request, player='default'):
 	playerIndexs = []
 	for item in playerMatches:
-		for player in item:
+		for playerItem in item:
 			playerIndexs.append(player)
 
 	if player == 'default':
@@ -44,7 +44,7 @@ def player(request, player='default'):
 		}
 	else:
 		context = {
-			'players':playerMatches[player]
+			'players':playerMatches[playerIndexs.index(player)]
 		}
 	return render(request, 'ALIGULAC/players.html', context)
 
