@@ -44,7 +44,7 @@ def player(request, player='default'):
 		}
 	else:
 		context = {
-			'players':playerMatches[playerIndexs.index(player)]
+			'players':playerMatches[playerIndexs.index(fgehf)]
 		}
 	return render(request, 'ALIGULAC/players.html', context)
 
