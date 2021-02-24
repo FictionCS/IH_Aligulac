@@ -36,6 +36,7 @@ def player(request, player=''):
 	playerIndexs = []
 	for item in playerMatches:
 		playerIndexs.append(item)
+		print(item)
 
 	if player == '':
 		context = {
