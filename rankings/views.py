@@ -33,10 +33,11 @@ def about(request):
 	return render(request, 'ALIGULAC/about.html')
 
 def player(request, player='default'):
+	player = player.replace(" ", "_")
 	playerIndexs = []
 	for item in playerMatches:
 		for playerItem in item:
-			playerIndexs.append(playerItem)
+			playerIndexs.append(playerItem.replace(" ", "_"))
 
 	if player == 'default':
 		context = {
