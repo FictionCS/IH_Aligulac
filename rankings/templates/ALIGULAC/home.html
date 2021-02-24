@@ -22,7 +22,8 @@
 			</tr>
 			{% for player in players %}
 				<script> 
-			        var val = player.player; 
+			        var val = "{{ player.player }}"; 
+			        
 			    </script> 
  				<tr style="text-align: left">
 					<th style="font-size: 18px">{{ player.rank }}</th>
