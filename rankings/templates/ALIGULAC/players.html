@@ -13,10 +13,16 @@
 					  font-family: 'Roboto', sans-serif;
 					  text-align: left">{{ player }}</h2>
 		{% for tournament, matches in archive.items %}
-			<pre style="font-weight: normal">{{ tournament }}</pre>
-			{% for game in matches %}
-			<p>{{game}}</p>
-			{% endfor %}
+		<table class="table table-striped table-hover">
+			<tr style="font-weight: normal">
+				<th>{{ tournament }}</th>>
+			</tr>
+			<tr>
+				{% for game in matches %}
+				<th>{{game}}</th>
+				{% endfor %}
+			</tr>
+		</table>
 		{% endfor %}
 		{% endif %}
 		{% endfor %}
