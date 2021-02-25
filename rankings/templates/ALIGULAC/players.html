@@ -15,12 +15,13 @@
 		{% for tournament, matches in archive.items %}
 		<table class="table table-striped table-hover">
 			<tr style="font-weight: normal">
-				<th>{{ tournament }}</th>>
+				<th>{{ tournament }}</th>
 			</tr>
 			{% for game in matches %}
 			<tr>
 				{% for item in game %}
-				<th>item</th>
+				<td>item</td>
+				{% endfor %}
 			</tr>
 			{% endfor %}
 		</table>
