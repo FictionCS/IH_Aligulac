@@ -13,7 +13,7 @@
 	</div>
 	<div class="container" style="padding-right: 150px; padding-left: 150px">
 		{% for tournament in players %}	
-		{% for tourney, matches in archive.items %}
+		{% for tourney, matches in tournament.items %}
 		<button id="MyElement" type="button" class="collapsible">{{ tourney }}</button>
 		<div class="content">
 			<table class="table table-striped table-hover matches">
