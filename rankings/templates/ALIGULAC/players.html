@@ -17,11 +17,12 @@
 			<tr style="font-weight: normal">
 				<th>{{ tournament }}</th>>
 			</tr>
+			{% for game in matches %}
 			<tr>
-				{% for game in matches %}
-				<th>{{game}}</th>
-				{% endfor %}
+				{% for item in game %}
+				<th>item</th>
 			</tr>
+			{% endfor %}
 		</table>
 		{% endfor %}
 		{% endif %}
