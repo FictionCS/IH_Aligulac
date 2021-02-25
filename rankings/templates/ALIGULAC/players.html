@@ -1,7 +1,7 @@
 {% extends "ALIGULAC/base.html" %}
 {% block content %}
 	<div class="container" style="padding-right: 150px; padding-left: 150px">
-		{% for player, matches in players.items %}
+		{% for player, archive in players.items %}
 		{% if player != 'id' %}
 		<h2 style="padding-top: 20px;
 					  font-size:35px;
@@ -12,7 +12,12 @@
 					  font-variant: small-cap;
 					  font-family: 'Roboto', sans-serif;
 					  text-align: left">{{ player }}</h2>
-		<pre style="font-weight: normal">{{ matches }}</pre>
+		{% for tournament, matches in archive.items %}
+			<pre style="font-weight: normal">{{ tournament }}</pre>
+			{% for game in matches %}
+			<p>{{game}}</p>
+			{% endfor %}
+		{% endfor %}
 		{% endif %}
 		{% endfor %}
 	</div>
