@@ -34,15 +34,15 @@ h2 {
     border-top: 1px solid #dee2e6;
 }
 
-.matches tbody>tr>:nth-child(1){ 
+.matches, tbody>tr>:nth-child(1){ 
     text-align: right;
 }
 
-.matches tbody>tr>:nth-child(2){ 
+.matches, tbody>tr>:nth-child(2){ 
     text-align: right;
 }
 
-.matches tbody>tr>:nth-child(3){ 
+.matches, tbody>tr>:nth-child(3){ 
     text-align: center;
 }
 
