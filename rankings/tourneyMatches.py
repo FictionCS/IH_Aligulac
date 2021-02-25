@@ -7,7 +7,7 @@ tourneyMatches = [
 [1000, 'WellplayedTV', '1-0', 'Orlishe', 1000],
 [1000, 'WellplayedTV', '1-0', 'Mixu', 1000],
 [1000, 'WellplayedTV', '1-0', 'Potato Boy', 1000],
-[1000, 'WellplayedTV', '1-0', 'Arisdrotel', 1000],
+[1000, 'WellplayedTV', '1-0', 'Arisdrotel', 1000], 
 [1000, 'Arisdrotel', '1-0', 'benderivan', 1000],
 [1000, 'Arisdrotel', '1-0', 'Capta1nMarcus', 1000],
 [1000, 'Arisdrotel', '1-0', 'Mavi', 1000],
