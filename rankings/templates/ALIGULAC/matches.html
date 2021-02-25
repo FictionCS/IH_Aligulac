@@ -9,7 +9,7 @@
 					  border-color: #e7e7e7;
 					  font-variant: small-cap
 					  font-family: 'Roboto', sans-serif;
-					  text-align: left;">Match Archives <h style="font-size:25px">  (ctrl + f = open all)</h></h2>
+					  text-align: left;">Match Archives</h2>
 	</div>
 	<div class="container" style="padding-right: 150px; padding-left: 150px">
 		{% for tournament in players %}	
@@ -28,7 +28,7 @@
 				<th colspan="5" style="text-align: center">{{ tourney }}</th>
 			</tr>
 			{% for game in matches %}
-			<tr>
+			<tr style="padding: 10px">
 				{% for item in game %}
 				<td>{{ item }}</td>
 				{% endfor %}
