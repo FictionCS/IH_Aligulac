@@ -11,7 +11,7 @@ from .tourneyMatches import tourneyMatches
 
 def matches(request):
 	context = {
-		'players':tourneyMatches #Player.object.all()
+		'players':tourneyMatches
 	}
 	return render(request, 'ALIGULAC/matches.html', context)
 
