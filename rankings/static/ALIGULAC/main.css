@@ -58,6 +58,18 @@ pre {
   margin-inline-end: 0px;
 }
 
+.matches>td>:nth-child(1){
+ text-align:right;
+}
+
+.matches>td>:nth-child(2){
+ text-align:right;
+}
+
+.matches>td>:nth-child(3){
+ text-align:center;
+}
+
 .test {
   background-color: #42f542;
 }
