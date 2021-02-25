@@ -7,10 +7,11 @@ from .models import Player
 from .fullData import fullList
 from .activeData import players
 from .playerMatches import playerMatches
+from .tourneyMatches import tourneyMatches
 
 def matches(request):
 	context = {
-		'players':fullList #Player.object.all()
+		'players':tourneyMatches #Player.object.all()
 	}
 	return render(request, 'ALIGULAC/matches.html', context)
 
