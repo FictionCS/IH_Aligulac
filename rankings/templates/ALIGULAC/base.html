@@ -72,19 +72,19 @@
 	    				text-align: center;
 	    				background-color: #f3f3f3;
 	    				border: 2px #e6e6e6">
-			<div class="navbar">
+			<div class="btn-group">
 				<div class="dropdown">
-					<button class="dropbtn">Dropdown
-				      <i class="fa fa-caret-down"></i>
-				    </button>
-				    <div class="dropdown-content">
-					    <li><button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/">Active Rankings</a></button></li>
+					<a href="https://ihaligulac.herokuapp.com/" class="dropdown-toggle" data-toggle="dropdown">
+	                    Rankings <span class="caret"></span>
+	                </a>
+					<ul class="dropdown-menu">
+						<li><button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/">Active Rankings</a></button></li>
 						<li><button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/full">Full Rankings</a></button></li>
-					</div>
+					</ul>
 				</div>
-				<a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/matches">Matches</a>
-				<a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/predictions">Predictions</a>
-				<a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/about">About</a>
+				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/matches">Matches</a></li>
+				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/predictions">Predictions</a></li>
+				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/about">About</a></li>
 					<datalist id="suggestions">
 				        {% for player in playerData %}
 					        {% for name, archive in player.items %}
@@ -96,7 +96,7 @@
 					        {% endfor %}
 				        {% endfor %}
 				    </datalist>
-				<input autoComplete="on" onkeypress="handle(event)" list="suggestions" type="text" id="playerSearch" placeholder="Search..">
+				<button><input autoComplete="on" onkeypress="handle(event)" list="suggestions" type="text" id="playerSearch" placeholder="Search.."></li>
 			</div>
 		</div>
 	<script type="text/javascript">
