@@ -89,7 +89,7 @@
 					        {% endfor %}
 				        {% endfor %}
 				    </datalist>
-				<button><input autoComplete="on" list="suggestions" type="text" id="playerSearch" placeholder="Search.."></li>
+				<button><input autoComplete="on" onkeypress="handle(event)" list="suggestions" type="text" id="playerSearch" placeholder="Search.."></li>
 			    <button onclick="myFunction()">Search</button></li>
 			</div>
 		</div>
@@ -97,6 +97,13 @@
 		function myFunction() {
 		  val = document.getElementById("playerSearch").value
 		  location.href = 'https://ihaligulac.herokuapp.com/player/' + val;
+		}
+		function handle(e){
+		  if(e.keyCode === 13){
+			  val = document.getElementById("playerSearch").value
+			  location.href = 'https://ihaligulac.herokuapp.com/player/' + val;
+		  }
+		  	return false;
 		}
 	</script>
 	{% block content %}{% endblock %}
