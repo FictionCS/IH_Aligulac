@@ -80,9 +80,9 @@
 				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/about">About</a></li>
 					<datalist id="suggestions">
 				        {% for player in playerData %}
-					        {% for player, archive in players.items %}
-						        {% if player != 'id' %}
-									{% if player != 'rating' %}
+					        {% for name, archive in players.items %}
+						        {% if name != 'id' %}
+									{% if name != 'rating' %}
 							        	<option value="{{ player }}">
 							        {% endif %}
 						        {% endif %}
