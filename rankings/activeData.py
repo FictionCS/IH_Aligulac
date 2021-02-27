@@ -2,78 +2,89 @@ players = [
 	{
 	'rank':'1',
 	'player':'Aicad',
-	'rating':'1586',
-	'winrate':'70.31%',
-	'wins':'45',
-	'losses':'19',
-	'rd':'82',
+	'rating':'1549',
+	'winrate':'70.0%',
+	'wins':'49',
+	'losses':'21',
+	'rd':'76',
 	'inactive':'0',
-	'id':'30'
+	'id':'23'
 	},
 	{
 	'rank':'2',
 	'player':'Noah',
-	'rating':'1539',
+	'rating':'1520',
 	'winrate':'72.97%',
 	'wins':'27',
 	'losses':'10',
 	'rd':'96',
 	'inactive':'0',
-	'id':'198'
+	'id':'226'
 	},
 	{
 	'rank':'3',
 	'player':'Xyr0N',
-	'rating':'1366',
+	'rating':'1368',
 	'winrate':'72.6%',
 	'wins':'53',
 	'losses':'20',
-	'rd':'66',
+	'rd':'65',
 	'inactive':'0',
-	'id':'18'
+	'id':'89'
 	},
 	{
 	'rank':'4',
 	'player':'Seemann AIOBE',
-	'rating':'1282',
+	'rating':'1285',
 	'winrate':'64.1%',
 	'wins':'25',
 	'losses':'14',
-	'rd':'84',
+	'rd':'83',
 	'inactive':'0',
-	'id':'169'
+	'id':'197'
 	},
 	{
 	'rank':'5',
 	'player':'Fiction',
-	'rating':'1150',
+	'rating':'1148',
 	'winrate':'58.14%',
 	'wins':'25',
 	'losses':'18',
-	'rd':'80',
+	'rd':'79',
 	'inactive':'0',
-	'id':'128'
+	'id':'157'
 	},
 	{
 	'rank':'6',
 	'player':'Claera',
-	'rating':'1074',
+	'rating':'1081',
 	'winrate':'47.46%',
 	'wins':'28',
 	'losses':'31',
-	'rd':'75',
+	'rd':'72',
 	'inactive':'0',
-	'id':'123'
+	'id':'152'
 	},
 	{
 	'rank':'7',
 	'player':'Seemann Oome',
-	'rating':'990',
+	'rating':'996',
 	'winrate':'42.31%',
 	'wins':'11',
 	'losses':'15',
-	'rd':'97',
+	'rd':'96',
 	'inactive':'0',
-	'id':'158'
+	'id':'186'
+	},
+	{
+	'rank':'8',
+	'player':'Hidzen',
+	'rating':'937',
+	'winrate':'38.46%',
+	'wins':'5',
+	'losses':'8',
+	'rd':'148',
+	'inactive':'38',
+	'id':'28'
 	}
 ]
