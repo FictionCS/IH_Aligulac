@@ -83,7 +83,7 @@
 					        {% for player, archive in players.items %}
 						        {% if player != 'id' %}
 									{% if player != 'rating' %}
-							        	<option>{{ player }}</option>
+							        	<option value="{{ player }}">
 							        {% endif %}
 						        {% endif %}
 					        {% endfor %}
