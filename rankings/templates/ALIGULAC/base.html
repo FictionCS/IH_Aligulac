@@ -79,7 +79,7 @@
 				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/predictions">Predictions</a></li>
 				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/about">About</a></li>
 					<datalist id="suggestions">
-				        {% for player in playerdata %}
+				        {% for player in playerData %}
 					        {% for player, archive in players.items %}
 						        {% if player != 'id' %}
 									{% if player != 'rating' %}
