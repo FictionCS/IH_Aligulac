@@ -35,7 +35,9 @@ def about(request):
 
 def player(request, playerID='default'):
 	if playerID == '' or not isInt(playerID):
-		return render(request, 'ALIGULAC/home.html', context)
+		context = {
+			'players':playerMatches
+		}
 	else:
 		context = {
 			'players':playerMatches[playerID - 1]
