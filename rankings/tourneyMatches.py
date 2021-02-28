@@ -1,6 +1,6 @@
 tourneyMatches = [
 {
-'ESL Pre-Season Tournament #2':[
+'ESL Pre-Season Tournament #1':[
 [1000, 1, 'Jdanzi', '1-0', 'blueyedevil', 2, 1000],
 [1000, 1, 'Jdanzi', '1-0', 'Nicolas', 3, 1000],
 [1000, 1, 'Jdanzi', '1-0', 'PowerOfLuck', 4, 1000],
@@ -263,7 +263,10 @@ tourneyMatches = [
 [1000, 102, 'Imperial Nedcoat', '1-0', 'RedX', 88, 1000],
 [1000, 102, 'Imperial Nedcoat', '0-1', '14476780', 22, 1000],
 [1000, 103, 'MasterCedric', '0-1', 'YurGa', 11, 1000],
-[1000, 103, 'MasterCedric', '0-1', 'Scarecrow', 60, 1000],
+[1000, 103, 'MasterCedric', '0-1', 'Scarecrow', 60, 1000]]
+},
+{
+'ESL Pre-Season Tournament #2':[
 [1126, 16, 'Juutilainen', '1-0', 'UMirinBrah', 104, 1000],
 [1126, 16, 'Juutilainen', '1-0', 'RavenKing', 38, 1126],
 [1126, 16, 'Juutilainen', '1-0', 'benderivan', 105, 1000],
