@@ -27,9 +27,14 @@
 			</tr>
 			{% for game in matches %}
 			<tr>
-				{% for item in game %}
+				<td>{{ game.0 }}</td>>
+				<td><a style="color:#2a6496" href=player/{{ game.1 }}>{{ game.2 }}</a></td>>
+				<td>{{ game.3 }}</td>>
+				<td><a style="color:#2a6496" href=player/{{ game.5 }}>{{ game.4 }}</a></td>>
+				<td>{{ game.6 }}</td>>
+				<!-- {% for item in game %}
 					<td>{{ item }}</td>
-				{% endfor %}
+				{% endfor %} -->
 			</tr>
 			{% endfor %}
 		</table>
