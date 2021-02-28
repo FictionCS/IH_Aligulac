@@ -1,5 +1,5 @@
 players = [
-	{
+{
 'rank':'1',
 'player':'Saturas',
 'rating':'1707',
@@ -265,17 +265,6 @@ players = [
 },
 {
 'rank':'25',
-'player':'Seemann Oome',
-'rating':'1017',
-'winrate':'42.31%',
-'wins':'11',
-'losses':'15',
-'rd':'98',
-'inactive':'0',
-'id':'239'
-},
-{
-'rank':'26',
 'player':'Mur',
 'rating':'1017',
 'winrate':'47.83%',
@@ -286,7 +275,7 @@ players = [
 'id':'124'
 },
 {
-'rank':'27',
+'rank':'26',
 'player':'GiftedMachine',
 'rating':'986',
 'winrate':'41.67%',
@@ -297,7 +286,7 @@ players = [
 'id':'286'
 },
 {
-'rank':'28',
+'rank':'27',
 'player':'UpAllNight',
 'rating':'984',
 'winrate':'30.0%',
@@ -308,7 +297,7 @@ players = [
 'id':'213'
 },
 {
-'rank':'29',
+'rank':'28',
 'player':'Dixio',
 'rating':'970',
 'winrate':'41.67%',
@@ -317,6 +306,17 @@ players = [
 'rd':'119',
 'inactive':'87',
 'id':'280'
+},
+{
+'rank':'29',
+'player':'Seemann Oome',
+'rating':'967',
+'winrate':'42.31%',
+'wins':'11',
+'losses':'15',
+'rd':'98',
+'inactive':'0',
+'id':'239'
 },
 {
 'rank':'30',

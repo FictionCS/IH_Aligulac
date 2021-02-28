@@ -1340,7 +1340,6 @@ tourneyMatches = [
 [1400, 36, 'Xyr0N', '2-0', 'Bobito', 291, 1295],
 [1000, 294, 'Lev', '2-0', 'Fiction', 210, 1205],
 [947, 239, 'Seemann Oome', '2-0', 'Claera', 205, 1152],
-[947, 239, 'Seemann Oome', '0-2', 'Seemann AIOBE', 250, 1315],
 [1315, 250, 'Seemann AIOBE', '2-0', 'n0o2', 290, 1221]]
 }
 ]
