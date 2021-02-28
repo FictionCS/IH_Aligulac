@@ -34,10 +34,13 @@ def about(request):
 	return render(request, 'ALIGULAC/about.html')
 
 def player(request, playerID='default'):
-	if playerID == 'default':
-		context = {
-			'players':playerMatches
-		}
+	try: 
+        int(playerID)
+        isInt = True
+    except ValueError:
+        isInt = False
+	if playerID == 'default' or not isInt:
+		return render(request, 'ALIGULAC/home.html', context)
 	else:
 		context = {
 			'players':playerMatches[playerID - 1]
