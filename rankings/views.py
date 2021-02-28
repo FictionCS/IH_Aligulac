@@ -34,12 +34,7 @@ def about(request):
 	return render(request, 'ALIGULAC/about.html')
 
 def player(request, playerID='default'):
-	try: 
-        int(playerID)
-        isInt = True
-    except ValueError:
-        isInt = False
-	if playerID == 'default' or not isInt:
+	if playerID == 'default' or not isInt(playerID):
 		return render(request, 'ALIGULAC/home.html', context)
 	else:
 		context = {
@@ -47,3 +42,9 @@ def player(request, playerID='default'):
 		}
 	return render(request, 'ALIGULAC/players.html', context)
 
+def isInt(s):
+	try: 
+        int(s)
+        return True
+    except ValueError:
+        return False
