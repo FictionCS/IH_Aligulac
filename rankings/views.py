@@ -43,8 +43,8 @@ def player(request, playerID='default'):
 	return render(request, 'ALIGULAC/players.html', context)
 
 def isInt(s):
-	try: 
-        int(s)
+    try: 
+        x = int(s)
         return True
     except ValueError:
         return False
