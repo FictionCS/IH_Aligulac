@@ -50,7 +50,7 @@
 
 	
 </head>
-<body>
+<body style="padding-bottom: 50px ">
 	<div class="container topBar">
 			<h1 style="color: #000000;
 	   	 	font-family: 'Marcellus SC', Times, serif;
@@ -80,13 +80,7 @@
 				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/about">About</a></li>
 					<datalist id="suggestions">
 				        {% for player in playerData %}
-					        {% for name, archive in player.items %}
-						        {% if name != 'id' %}
-									{% if name != 'rating' %}
-							        	<option value="{{ player.id }}">{{ player.player }}</option>>
-							        {% endif %}
-						        {% endif %}
-					        {% endfor %}
+							<option value="{{ player.id }}">{{ player.player }}</option>>
 				        {% endfor %}
 				    </datalist>
 				<button><input autoComplete="on" onkeypress="handle(event)" list="suggestions" type="text" id="playerSearch" placeholder="Search.."></li>
