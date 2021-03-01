@@ -117,7 +117,7 @@ playerMatches = [
 'rating': '1078',
 'playerData': [166, '57.14%', '4-3', 197],
 'playerAchievements': [],
-'Nidrassil':{'ESL Pre-Season Tournament #1': [[1000, 15, 'Nidrassil', '0-1', 'Troyd', 13, 1000], [1000, 15, 'Nidrassil', '1-0', 'ghostinsky9', 71, 1000], [1000, 15, 'Nidrassil', '0-1', 'Keorangar', 5, 1000], [1000, 15, 'Nidrassil', '1-0', 'f.volinets', 72, 1000], [1000, 15, 'Nidrassil', '1-0', 'JonBonWOW', 67, 1000], [1000, 15, 'Nidrassil', '1-0', 'Cloneornot', 42, 1000]], 'ESL Pre-Season Tournament #2': [[1126, 15, 'Nidrassil', '0-1', 'Mavi', 17, 1253]]}
+'Nidrassil':{'ESL Pre-Season Tournament #1': [[1000, 15, 'Nidrassil', '0-1', 'Troyd', 13, 1000], [1000, 15, 'Nidrassil', '1-0', 'ghostinsky9', 71, 1000], [1000, 15, 'Nidrassil', '0-1', 'Keorangar', 5, 1000], [1000, 15, 'Nidrassil', '1-0', 'f.volinets', 72, 1000], [1000, 15, 'Nidrassil', '1-0', 'JonBonWOW', 67, 1000], [1000, 15, 'Nidrassil', '1-0', 'CloneOrNot', 42, 1000]], 'ESL Pre-Season Tournament #2': [[1126, 15, 'Nidrassil', '0-1', 'Mavi', 17, 1253]]}
 },
 {
 'player': 'Juutilainen',
@@ -141,7 +141,7 @@ playerMatches = [
 'rating': '1267',
 'playerData': [117, '73.33%', '11-4', 93],
 'playerAchievements': [],
-'Olvadi':{'ESL Pre-Season Tournament #1': [[1000, 18, 'Olvadi', '1-0', 'Tugaelite', 40, 1000], [1000, 18, 'Olvadi', '1-0', 'ElSpudero', 41, 1000], [1000, 18, 'Olvadi', '1-0', 'Cloneornot', 42, 1000], [1000, 18, 'Olvadi', '0-1', 'Troyd', 13, 1000], [1000, 18, 'Olvadi', '1-0', 'elpern', 23, 1000], [1000, 18, 'Olvadi', '1-0', 'NOSmarkov', 34, 1000]], 'ESL Pre-Season Tournament #2': [[1253, 18, 'Olvadi', '1-0', 'Tugaelite', 40, 1000], [1253, 18, 'Olvadi', '1-0', 'KillroyIsHere', 28, 1126], [1253, 18, 'Olvadi', '1-0', 'Malgari', 31, 1126], [1253, 18, 'Olvadi', '1-0', 'AngryJew', 110, 1000], [1253, 18, 'Olvadi', '0-1', 'NOSmarkov', 34, 1126], [1253, 18, 'Olvadi', '1-0', 'Vipasyn', 112, 1000]], 'ESL Pre-Season Tournament #3': [[1312, 18, 'Olvadi', '0-1', 'Mavi', 17, 1326], [1312, 18, 'Olvadi', '1-0', 'dragonborn', 162, 1000]], 'ESL Fall Tournament #2': [[1287, 18, 'Olvadi', '0-1', 'SenpaiTorpidDow', 152, 1477]]}
+'Olvadi':{'ESL Pre-Season Tournament #1': [[1000, 18, 'Olvadi', '1-0', 'Tugaelite', 40, 1000], [1000, 18, 'Olvadi', '1-0', 'ElSpudero', 41, 1000], [1000, 18, 'Olvadi', '1-0', 'CloneOrNot', 42, 1000], [1000, 18, 'Olvadi', '0-1', 'Troyd', 13, 1000], [1000, 18, 'Olvadi', '1-0', 'elpern', 23, 1000], [1000, 18, 'Olvadi', '1-0', 'NOSmarkov', 34, 1000]], 'ESL Pre-Season Tournament #2': [[1253, 18, 'Olvadi', '1-0', 'Tugaelite', 40, 1000], [1253, 18, 'Olvadi', '1-0', 'KillroyIsHere', 28, 1126], [1253, 18, 'Olvadi', '1-0', 'Malgari', 31, 1126], [1253, 18, 'Olvadi', '1-0', 'AngryJew', 110, 1000], [1253, 18, 'Olvadi', '0-1', 'NOSmarkov', 34, 1126], [1253, 18, 'Olvadi', '1-0', 'Vipasyn', 112, 1000]], 'ESL Pre-Season Tournament #3': [[1312, 18, 'Olvadi', '0-1', 'Mavi', 17, 1326], [1312, 18, 'Olvadi', '1-0', 'dragonborn', 162, 1000]], 'ESL Fall Tournament #2': [[1287, 18, 'Olvadi', '0-1', 'SenpaiTorpidDow', 152, 1477]]}
 },
 {
 'player': 'Batyushka',
@@ -189,7 +189,7 @@ playerMatches = [
 'rating': '1062',
 'playerData': [104, '52.94%', '9-8', 190],
 'playerAchievements': [],
-'RealRedCreep':{'ESL Pre-Season Tournament #1': [[1000, 24, 'RealRedCreep', '1-0', 'Arteiruz', 76, 1000], [1000, 24, 'RealRedCreep', '1-0', 'Sepia', 77, 1000], [1000, 24, 'RealRedCreep', '0-1', 'TotalPizza', 12, 1000], [1000, 24, 'RealRedCreep', '1-0', 'mks', 21, 1000], [1000, 24, 'RealRedCreep', '1-0', 'Cloneornot', 42, 1000], [1000, 24, 'RealRedCreep', '0-1', 'WellplayedTV', 6, 1000]], 'ESL Pre-Season Tournament #3': [[1126, 24, 'RealRedCreep', '1-0', 'Tugaelite', 40, 940], [1126, 24, 'RealRedCreep', '1-0', 'VanDall', 10, 874], [1126, 24, 'RealRedCreep', '0-1', 'Mixu', 8, 1272], [1126, 24, 'RealRedCreep', '1-0', 'Captain Hellbat', 54, 1000], [1126, 24, 'RealRedCreep', '0-1', 'Xyr0N', 36, 1253], [1126, 24, 'RealRedCreep', '0-1', 'Troyd', 13, 1338]], 'ESL Pre-Season Tournament #4': [[1119, 24, 'RealRedCreep', '1-0', 'The Von', 80, 999], [1119, 24, 'RealRedCreep', '0-1', 'Rae', 127, 1009], [1119, 24, 'RealRedCreep', '0-1', 'Tugaelite', 40, 905], [1119, 24, 'RealRedCreep', '1-0', 'KinG_AnTez', 119, 1178], [1119, 24, 'RealRedCreep', '0-1', 'Venaqus', 168, 1000]]}
+'RealRedCreep':{'ESL Pre-Season Tournament #1': [[1000, 24, 'RealRedCreep', '1-0', 'Arteiruz', 76, 1000], [1000, 24, 'RealRedCreep', '1-0', 'Sepia', 77, 1000], [1000, 24, 'RealRedCreep', '0-1', 'TotalPizza', 12, 1000], [1000, 24, 'RealRedCreep', '1-0', 'mks', 21, 1000], [1000, 24, 'RealRedCreep', '1-0', 'CloneOrNot', 42, 1000], [1000, 24, 'RealRedCreep', '0-1', 'WellplayedTV', 6, 1000]], 'ESL Pre-Season Tournament #3': [[1126, 24, 'RealRedCreep', '1-0', 'Tugaelite', 40, 940], [1126, 24, 'RealRedCreep', '1-0', 'VanDall', 10, 874], [1126, 24, 'RealRedCreep', '0-1', 'Mixu', 8, 1272], [1126, 24, 'RealRedCreep', '1-0', 'Captain Hellbat', 54, 1000], [1126, 24, 'RealRedCreep', '0-1', 'Xyr0N', 36, 1253], [1126, 24, 'RealRedCreep', '0-1', 'Troyd', 13, 1338]], 'ESL Pre-Season Tournament #4': [[1119, 24, 'RealRedCreep', '1-0', 'The Von', 80, 999], [1119, 24, 'RealRedCreep', '0-1', 'Rae', 127, 1009], [1119, 24, 'RealRedCreep', '0-1', 'Tugaelite', 40, 905], [1119, 24, 'RealRedCreep', '1-0', 'KinG_AnTez', 119, 1178], [1119, 24, 'RealRedCreep', '0-1', 'Venaqus', 168, 1000]]}
 },
 {
 'player': 'GnlKennyskywalker',
@@ -328,12 +328,12 @@ playerMatches = [
 'ElSpudero':{'ESL Pre-Season Tournament #1': [[1000, 41, 'ElSpudero', '1-0', 'FynjyKez', 39, 1000], [1000, 41, 'ElSpudero', '0-1', 'Olvadi', 18, 1000], [1000, 41, 'ElSpudero', '0-1', 'The Von', 80, 1000], [1000, 41, 'ElSpudero', '0-1', '14476780', 22, 1000]], 'ESL Pre-Season Tournament #2': [[832, 41, 'ElSpudero', '0-1', 'Ziomek', 20, 1126]]}
 },
 {
-'player': 'Cloneornot',
+'player': 'CloneOrNot',
 'id': '42',
 'rating': '1000',
 'playerData': [181, '50.0%', '3-3', 204],
 'playerAchievements': [],
-'Cloneornot':{'ESL Pre-Season Tournament #1': [[1000, 42, 'Cloneornot', '1-0', 'abeicnr', 62, 1000], [1000, 42, 'Cloneornot', '1-0', 'FyAdGhost', 48, 1000], [1000, 42, 'Cloneornot', '0-1', 'Olvadi', 18, 1000], [1000, 42, 'Cloneornot', '1-0', 'Niveus', 79, 1000], [1000, 42, 'Cloneornot', '0-1', 'RealRedCreep', 24, 1000], [1000, 42, 'Cloneornot', '0-1', 'Nidrassil', 15, 1000]]}
+'CloneOrNot':{'ESL Pre-Season Tournament #1': [[1000, 42, 'CloneOrNot', '1-0', 'abeicnr', 62, 1000], [1000, 42, 'CloneOrNot', '1-0', 'FyAdGhost', 48, 1000], [1000, 42, 'CloneOrNot', '0-1', 'Olvadi', 18, 1000], [1000, 42, 'CloneOrNot', '1-0', 'Niveus', 79, 1000], [1000, 42, 'CloneOrNot', '0-1', 'RealRedCreep', 24, 1000], [1000, 42, 'CloneOrNot', '0-1', 'Nidrassil', 15, 1000]]}
 },
 {
 'player': 'Autizm0',
@@ -381,7 +381,7 @@ playerMatches = [
 'rating': '1052',
 'playerData': [127, '58.33%', '7-5', 190],
 'playerAchievements': [],
-'FyAdGhost':{'ESL Pre-Season Tournament #1': [[1000, 48, 'FyAdGhost', '1-0', 'Powy', 49, 1000], [1000, 48, 'FyAdGhost', '0-1', 'Cloneornot', 42, 1000], [1000, 48, 'FyAdGhost', '0-1', 'Orlishe', 46, 1000], [1000, 48, 'FyAdGhost', '0-1', 'Habudabu', 50, 1000], [1000, 48, 'FyAdGhost', '1-0', 'Renver', 74, 1000], [1000, 48, 'FyAdGhost', '1-0', 'WTFRhapsody', 9, 1000]], 'ESL Pre-Season Tournament #4': [[1000, 48, 'FyAdGhost', '0-1', 'Vipasyn', 112, 1030], [1000, 48, 'FyAdGhost', '0-1', 'Malgari', 31, 1057], [1000, 48, 'FyAdGhost', '1-0', 'ConjurusHex', 135, 939], [1000, 48, 'FyAdGhost', '1-0', 'Chrizzel', 173, 1000], [1000, 48, 'FyAdGhost', '1-0', 'Firstservant', 178, 1000], [1000, 48, 'FyAdGhost', '1-0', 'Scorpion', 183, 1000]]}
+'FyAdGhost':{'ESL Pre-Season Tournament #1': [[1000, 48, 'FyAdGhost', '1-0', 'Powy', 49, 1000], [1000, 48, 'FyAdGhost', '0-1', 'CloneOrNot', 42, 1000], [1000, 48, 'FyAdGhost', '0-1', 'Orlishe', 46, 1000], [1000, 48, 'FyAdGhost', '0-1', 'Habudabu', 50, 1000], [1000, 48, 'FyAdGhost', '1-0', 'Renver', 74, 1000], [1000, 48, 'FyAdGhost', '1-0', 'WTFRhapsody', 9, 1000]], 'ESL Pre-Season Tournament #4': [[1000, 48, 'FyAdGhost', '0-1', 'Vipasyn', 112, 1030], [1000, 48, 'FyAdGhost', '0-1', 'Malgari', 31, 1057], [1000, 48, 'FyAdGhost', '1-0', 'ConjurusHex', 135, 939], [1000, 48, 'FyAdGhost', '1-0', 'Chrizzel', 173, 1000], [1000, 48, 'FyAdGhost', '1-0', 'Firstservant', 178, 1000], [1000, 48, 'FyAdGhost', '1-0', 'Scorpion', 183, 1000]]}
 },
 {
 'player': 'Powy',
@@ -493,7 +493,7 @@ playerMatches = [
 'rating': '1000',
 'playerData': [181, '50.0%', '3-3', 204],
 'playerAchievements': [],
-'abeicnr':{'ESL Pre-Season Tournament #1': [[1000, 62, 'abeicnr', '0-1', 'Cloneornot', 42, 1000], [1000, 62, 'abeicnr', '0-1', 'Seki Barker', 26, 1000], [1000, 62, 'abeicnr', '1-0', 'Vambr', 58, 1000], [1000, 62, 'abeicnr', '0-1', 'Juutilainen', 16, 1000], [1000, 62, 'abeicnr', '1-0', 'f.volinets', 72, 1000], [1000, 62, 'abeicnr', '1-0', 'Esprimo', 64, 1000]]}
+'abeicnr':{'ESL Pre-Season Tournament #1': [[1000, 62, 'abeicnr', '0-1', 'CloneOrNot', 42, 1000], [1000, 62, 'abeicnr', '0-1', 'Seki Barker', 26, 1000], [1000, 62, 'abeicnr', '1-0', 'Vambr', 58, 1000], [1000, 62, 'abeicnr', '0-1', 'Juutilainen', 16, 1000], [1000, 62, 'abeicnr', '1-0', 'f.volinets', 72, 1000], [1000, 62, 'abeicnr', '1-0', 'Esprimo', 64, 1000]]}
 },
 {
 'player': 'MasterStef',
@@ -629,7 +629,7 @@ playerMatches = [
 'rating': '927',
 'playerData': [193, '40.0%', '2-3', 204],
 'playerAchievements': [],
-'Niveus':{'ESL Pre-Season Tournament #1': [[1000, 79, 'Niveus', '1-0', 'Kira', 52, 1000], [1000, 79, 'Niveus', '0-1', 'Batyushka', 19, 1000], [1000, 79, 'Niveus', '1-0', 'MasterStef', 63, 1000], [1000, 79, 'Niveus', '0-1', 'Cloneornot', 42, 1000], [1000, 79, 'Niveus', '0-1', 'Klausde', 70, 1000]]}
+'Niveus':{'ESL Pre-Season Tournament #1': [[1000, 79, 'Niveus', '1-0', 'Kira', 52, 1000], [1000, 79, 'Niveus', '0-1', 'Batyushka', 19, 1000], [1000, 79, 'Niveus', '1-0', 'MasterStef', 63, 1000], [1000, 79, 'Niveus', '0-1', 'CloneOrNot', 42, 1000], [1000, 79, 'Niveus', '0-1', 'Klausde', 70, 1000]]}
 },
 {
 'player': 'The Von',
