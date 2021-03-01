@@ -19,27 +19,30 @@
 						<th colspan="2" style="text-align: center">Player Stats</th>
 					</tr>
 					<tr>
-						<td>RD:</td>
+						<td style="text-align: right">RD:</td>
 						<td>{{ archive.0 }}</td>
 					</tr>
 					<tr>
-						<td>Winrate:</td>
+						<td style="text-align: right">Winrate:</td>
 						<td>{{ archive.1 }}</td>
 					</tr>
 					<tr>
-						<td>Record:</td>
+						<td style="text-align: right">Record:</td>
 						<td>{{ archive.2 }}</td>
 					</tr>
 					<tr>
-						<td>Inactive Days:</td>
+						<td style="text-align: right">Inactive Days:</td>
 						<td>{{ archive.3 }}</td>
 					</tr>
-					<tr style="font-weight: normal">
+				</table>
+				<table class="table table-striped table-hover" style="width: 40%; text-align: left">
+					<tr style="font-weight: normal; background-color: #dee2e6">
 						<th colspan="2" style="text-align: center">Player Achievements</th>
 					</tr>
 					{% for achievement in players.playerAchievements %}
 						<tr style="font-weight: normal">
-							<td colspan="2" style="text-align: left">{{ achievement }}</td>
+							<td style="text-align: left">{{ achievement.0 }}</td>
+							<td style="text-align: left">{{ achievement.1 }}</td>
 						</tr>
 					{% endfor %}
 				</table>
