@@ -46,11 +46,11 @@ fullList = [
 {
 'rank':'5',
 'player':'Venaqus',
-'rating':'1509',
-'winrate':'73.08%',
-'wins':'38',
-'losses':'14',
-'rd':'79',
+'rating':'1502',
+'winrate':'71.15%',
+'wins':'37',
+'losses':'15',
+'rd':'78',
 'inactive':'80',
 'id':'168'
 },
