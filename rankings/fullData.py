@@ -947,7 +947,7 @@ fullList = [
 },
 {
 'rank':'87',
-'player':'Cloneornot',
+'player':'CloneOrNot',
 'rating':'1000',
 'winrate':'50.0%',
 'wins':'3',
