@@ -1266,7 +1266,7 @@ fullList = [
 },
 {
 'rank':'116',
-'player':'Tugaelite',
+'player':'TugaElite',
 'rating':'930',
 'winrate':'41.67%',
 'wins':'10',
