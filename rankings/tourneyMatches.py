@@ -1352,5 +1352,25 @@ tourneyMatches = [
 [1688, 201, 'Saturas', '2-1', 'n0o2', 290, 1023],
 [1124, 291, 'Bobito', '2-0', 'Steel_Legionaire', 296, 1000],
 [1003, 293, 'LemonPi', '2-0', 'Elli', 297, 1000]]
+},
+{
+'Rookie Tournament #1':[
+[1000, 298, 'Xard', '2-0', 'Sniffearesoupe', 299, 1000],
+[1000, 298, 'Xard', '2-0', 'CurtChan', 295, 938],
+[1000, 298, 'Xard', '2-1', 'ArchonSC2', 300, 1000],
+[1000, 298, 'Xard', '2-0', 'Peter', 301, 1000],
+[1000, 301, 'Peter', '2-0', 'Maiki', 302, 1000],
+[1000, 301, 'Peter', '2-1', 'uR0bic', 303, 1000],
+[1000, 301, 'Peter', '2-1', 'Tommy', 304, 1000],
+[1000, 304, 'Tommy', '2-0', 'Civil', 305, 1000],
+[1000, 304, 'Tommy', '2-0', 'Orsox', 262, 712],
+[1000, 300, 'ArchonSC2', '2-0', 'Malicious Genius', 306, 1000],
+[1000, 307, 'Balizk', '2-0', 'Steel_Legionaire', 296, 746],
+[1000, 307, 'Balizk', '0-2', 'ArchonSC2', 300, 1000],
+[938, 295, 'CurtChan', '2-0', 'Tambo', 308, 1000],
+[712, 262, 'Orsox', '2-0', 'KMoore', 309, 1000],
+[1000, 303, 'uR0bic', '2-1', 'KachkoBard', 310, 1000],
+[1000, 302, 'Maiki', '2-0', 'KomberrebmoK', 311, 1000],
+[1000, 299, 'Sniffearesoupe', '2-0', 'Mister Chief', 312, 1000]]
 }
 ]

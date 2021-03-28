@@ -7,7 +7,7 @@ players = [
 'wins':'53',
 'losses':'12',
 'rd':'93',
-'inactive':'0',
+'inactive':'7',
 'id':'201'
 },
 {
@@ -18,7 +18,7 @@ players = [
 'wins':'56',
 'losses':'23',
 'rd':'73',
-'inactive':'0',
+'inactive':'7',
 'id':'114'
 },
 {
@@ -29,7 +29,7 @@ players = [
 'wins':'27',
 'losses':'10',
 'rd':'99',
-'inactive':'28',
+'inactive':'35',
 'id':'279'
 },
 {
@@ -40,7 +40,7 @@ players = [
 'wins':'58',
 'losses':'21',
 'rd':'62',
-'inactive':'28',
+'inactive':'35',
 'id':'36'
 },
 {
@@ -51,7 +51,7 @@ players = [
 'wins':'30',
 'losses':'17',
 'rd':'80',
-'inactive':'0',
+'inactive':'7',
 'id':'250'
 },
 {
@@ -62,7 +62,7 @@ players = [
 'wins':'4',
 'losses':'6',
 'rd':'184',
-'inactive':'0',
+'inactive':'7',
 'id':'291'
 },
 {
@@ -73,7 +73,7 @@ players = [
 'wins':'25',
 'losses':'18',
 'rd':'80',
-'inactive':'28',
+'inactive':'35',
 'id':'210'
 },
 {
@@ -84,7 +84,7 @@ players = [
 'wins':'30',
 'losses':'34',
 'rd':'70',
-'inactive':'0',
+'inactive':'7',
 'id':'205'
 },
 {
@@ -95,7 +95,7 @@ players = [
 'wins':'4',
 'losses':'8',
 'rd':'186',
-'inactive':'0',
+'inactive':'7',
 'id':'293'
 },
 {
@@ -106,7 +106,7 @@ players = [
 'wins':'12',
 'losses':'10',
 'rd':'112',
-'inactive':'0',
+'inactive':'7',
 'id':'112'
 },
 {
@@ -117,7 +117,7 @@ players = [
 'wins':'9',
 'losses':'10',
 'rd':'118',
-'inactive':'66',
+'inactive':'73',
 'id':'84'
 },
 {
@@ -128,7 +128,18 @@ players = [
 'wins':'11',
 'losses':'14',
 'rd':'97',
-'inactive':'28',
+'inactive':'35',
 'id':'239'
+},
+{
+'rank':'13',
+'player':'Orsox',
+'rating':'762',
+'winrate':'23.53%',
+'wins':'4',
+'losses':'13',
+'rd':'113',
+'inactive':'0',
+'id':'262'
 }
 ]
