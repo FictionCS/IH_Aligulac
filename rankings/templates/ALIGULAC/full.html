@@ -28,11 +28,11 @@
 					<th style="font-weight: normal"><a style="color:#2a6496" href=player/{{ player.id }}>{{ player.player }}</a></th>
 					<th style="text-align: right; font-weight: normal">{{ player.rating }}</th>
 					{% if player.change >= 100 %}
-						<th style="font-weight: normal"><img src="{% static 'img/uparrow3.png' %}"  title="{{ player.change }}"/></th>
+						<th style="font-weight: normal"><img src="{% static 'img/uparrow3.png' %}"  title="+{{ player.change }}"/></th>
 					{% elif player.change >= 50 %}
-						<th style="font-weight: normal"><img src="{% static 'img/uparrow2.png' %}"  title="{{ player.change }}"/></th>
+						<th style="font-weight: normal"><img src="{% static 'img/uparrow2.png' %}"  title="+{{ player.change }}"/></th>
 					{% elif player.change > 0 %}
-						<th style="font-weight: normal"><img src="{% static 'img/uparrow1.png' %}"  title="{{ player.change }}"/></th>
+						<th style="font-weight: normal"><img src="{% static 'img/uparrow1.png' %}"  title="+{{ player.change }}"/></th>
 					{% elif player.change == 0 %}
 						<th style="font-weight: normal"></th>
 					{% elif player.change >= -50 %}
