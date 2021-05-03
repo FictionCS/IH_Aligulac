@@ -8,6 +8,7 @@ fullList = [
 'losses':'25',
 'rd':'71',
 'inactive':'7',
+'change':-7,
 'id':'114'
 },
 {
@@ -19,6 +20,7 @@ fullList = [
 'losses':'14',
 'rd':'92',
 'inactive':'7',
+'change':-54,
 'id':'200'
 },
 {
@@ -30,6 +32,7 @@ fullList = [
 'losses':'10',
 'rd':'99',
 'inactive':'63',
+'change':0,
 'id':'276'
 },
 {
@@ -41,6 +44,7 @@ fullList = [
 'losses':'14',
 'rd':'73',
 'inactive':'136',
+'change':0,
 'id':'151'
 },
 {
@@ -52,6 +56,7 @@ fullList = [
 'losses':'4',
 'rd':'90',
 'inactive':'246',
+'change':0,
 'id':'6'
 },
 {
@@ -63,6 +68,7 @@ fullList = [
 'losses':'15',
 'rd':'78',
 'inactive':'143',
+'change':0,
 'id':'167'
 },
 {
@@ -74,6 +80,7 @@ fullList = [
 'losses':'20',
 'rd':'77',
 'inactive':'7',
+'change':65,
 'id':'249'
 },
 {
@@ -85,6 +92,7 @@ fullList = [
 'losses':'21',
 'rd':'62',
 'inactive':'63',
+'change':0,
 'id':'36'
 },
 {
@@ -96,6 +104,7 @@ fullList = [
 'losses':'10',
 'rd':'80',
 'inactive':'143',
+'change':0,
 'id':'1'
 },
 {
@@ -107,6 +116,7 @@ fullList = [
 'losses':'11',
 'rd':'71',
 'inactive':'150',
+'change':0,
 'id':'8'
 },
 {
@@ -118,6 +128,7 @@ fullList = [
 'losses':'19',
 'rd':'67',
 'inactive':'150',
+'change':0,
 'id':'13'
 },
 {
@@ -129,6 +140,7 @@ fullList = [
 'losses':'20',
 'rd':'70',
 'inactive':'150',
+'change':0,
 'id':'123'
 },
 {
@@ -140,6 +152,7 @@ fullList = [
 'losses':'16',
 'rd':'74',
 'inactive':'143',
+'change':0,
 'id':'207'
 },
 {
@@ -151,6 +164,7 @@ fullList = [
 'losses':'5',
 'rd':'97',
 'inactive':'253',
+'change':0,
 'id':'110'
 },
 {
@@ -162,6 +176,7 @@ fullList = [
 'losses':'6',
 'rd':'98',
 'inactive':'253',
+'change':0,
 'id':'17'
 },
 {
@@ -173,6 +188,7 @@ fullList = [
 'losses':'8',
 'rd':'99',
 'inactive':'157',
+'change':0,
 'id':'34'
 },
 {
@@ -184,6 +200,7 @@ fullList = [
 'losses':'12',
 'rd':'87',
 'inactive':'150',
+'change':0,
 'id':'118'
 },
 {
@@ -195,6 +212,7 @@ fullList = [
 'losses':'8',
 'rd':'96',
 'inactive':'253',
+'change':0,
 'id':'19'
 },
 {
@@ -206,6 +224,7 @@ fullList = [
 'losses':'10',
 'rd':'90',
 'inactive':'143',
+'change':0,
 'id':'257'
 },
 {
@@ -217,6 +236,7 @@ fullList = [
 'losses':'10',
 'rd':'95',
 'inactive':'198',
+'change':0,
 'id':'31'
 },
 {
@@ -228,6 +248,7 @@ fullList = [
 'losses':'20',
 'rd':'78',
 'inactive':'7',
+'change':-40,
 'id':'209'
 },
 {
@@ -239,6 +260,7 @@ fullList = [
 'losses':'38',
 'rd':'68',
 'inactive':'7',
+'change':16,
 'id':'204'
 },
 {
@@ -250,6 +272,7 @@ fullList = [
 'losses':'16',
 'rd':'84',
 'inactive':'198',
+'change':0,
 'id':'5'
 },
 {
@@ -261,6 +284,7 @@ fullList = [
 'losses':'12',
 'rd':'98',
 'inactive':'198',
+'change':0,
 'id':'115'
 },
 {
@@ -272,6 +296,7 @@ fullList = [
 'losses':'10',
 'rd':'93',
 'inactive':'253',
+'change':0,
 'id':'26'
 },
 {
@@ -283,6 +308,7 @@ fullList = [
 'losses':'18',
 'rd':'78',
 'inactive':'150',
+'change':0,
 'id':'80'
 },
 {
@@ -294,6 +320,7 @@ fullList = [
 'losses':'12',
 'rd':'95',
 'inactive':'150',
+'change':0,
 'id':'124'
 },
 {
@@ -305,6 +332,7 @@ fullList = [
 'losses':'13',
 'rd':'96',
 'inactive':'157',
+'change':0,
 'id':'109'
 },
 {
@@ -316,6 +344,7 @@ fullList = [
 'losses':'14',
 'rd':'97',
 'inactive':'63',
+'change':0,
 'id':'238'
 },
 {
@@ -327,6 +356,7 @@ fullList = [
 'losses':'14',
 'rd':'92',
 'inactive':'253',
+'change':0,
 'id':'40'
 },
 {
@@ -338,6 +368,7 @@ fullList = [
 'losses':'17',
 'rd':'99',
 'inactive':'198',
+'change':0,
 'id':'65'
 },
 {
@@ -349,6 +380,7 @@ fullList = [
 'losses':'26',
 'rd':'75',
 'inactive':'143',
+'change':0,
 'id':'60'
 }
 ]

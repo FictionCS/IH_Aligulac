@@ -15,6 +15,7 @@
 			    <th style="padding-left: 10px; padding-right: 10px; text-align: center">#</th>
 			    <th>Player</th>
 			    <th>Rating</th>
+			    <th></th>
 			    <th>Winrate</th>
 			    <th>Wins</th>
 			    <th>Losses</th>
@@ -23,8 +24,23 @@
 			{% for player in players %}
  				<tr style="text-align: left">
 					<th style="text-align: center;font-weight: normal; font-size: 18px">{{ player.rank }}</th>
-					<th style="font-weight: normal"><a style="color:#2a6496" href=https://ihaligulac.herokuapp.com/player/{{ player.id }}>{{ player.player }}</a></th>
-					<th style="font-weight: normal">{{ player.rating }}</th>
+					<th style="font-weight: normal"><a style="color:#2a6496" href=player/{{ player.id }}>{{ player.player }}</a></th>
+					<th style="text-align: right; font-weight: normal">{{ player.rating }}</th>
+					{% if player.change >= 100 %}
+						<th style="font-weight: normal"><img src="{% static 'img/uparrow3.png' %}"  title="{{ player.change }}"/></th>
+					{% elif player.change >= 50 %}
+						<th style="font-weight: normal"><img src="{% static 'img/uparrow2.png' %}"  title="{{ player.change }}"/></th>
+					{% elif player.change >= 0 %}
+						<th style="font-weight: normal"><img src="{% static 'img/uparrow1.png' %}"  title="{{ player.change }}"/></th>
+					{% elif player.change == 0 %}
+						<th style="font-weight: normal"></th>
+					{% elif player.change >= -50 %}
+						<th style="font-weight: normal"><img src="{% static 'img/downarrow1.png' %}"  title="{{ player.change }}"/></th>
+					{% elif player.change >= -100 %}
+						<th style="font-weight: normal"><img src="{% static 'img/downarrow2.png' %}"  title="{{ player.change }}"/></th>
+					{% else %}
+						<th style="font-weight: normal"><img src="{% static 'img/downarrow3.png' %}"  title="{{ player.change }}"/></th>
+					{% endif %}
 					<th style="font-weight: normal">{{ player.winrate }}</th>
 					<th style="font-weight: normal">{{ player.wins }}</th>
 					<th style="font-weight: normal">{{ player.losses }}</th>
