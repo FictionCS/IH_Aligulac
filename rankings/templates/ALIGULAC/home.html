@@ -28,19 +28,19 @@
 					<th style="font-weight: normal"><a style="color:#2a6496" href=player/{{ player.id }}>{{ player.player }}</a></th>
 					<th style="text-align: right; font-weight: normal">{{ player.rating }}</th>
 					{% if player.change >= 100 %}
-						<th style="padding-bottom: 5px"><img src="{% static 'img/uparrow3.png' %}"  title="+{{ player.change }}"/></th>
+						<th style="padding-bottom: 10px"><img src="{% static 'img/uparrow3.png' %}"  title="+{{ player.change }}"/></th>
 					{% elif player.change >= 50 %}
-						<th style="padding-bottom: 5px"><img src="{% static 'img/uparrow2.png' %}"  title="+{{ player.change }}"/></th>
+						<th style="padding-bottom: 10px"><img src="{% static 'img/uparrow2.png' %}"  title="+{{ player.change }}"/></th>
 					{% elif player.change > 0 %}
-						<th style="padding-bottom: 5px"><img src="{% static 'img/uparrow1.png' %}"  title="+{{ player.change }}"/></th>
+						<th style="padding-bottom: 10px"><img src="{% static 'img/uparrow1.png' %}"  title="+{{ player.change }}"/></th>
 					{% elif player.change == 0 %}
-						<th style="padding-bottom: 5px"></th>
+						<th style="padding-bottom: 10px"></th>
 					{% elif player.change >= -50 %}
-						<th style="padding-bottom: 5px"><img src="{% static 'img/downarrow1.png' %}"  title="{{ player.change }}"/></th>
+						<th style="padding-bottom: 10px"><img src="{% static 'img/downarrow1.png' %}"  title="{{ player.change }}"/></th>
 					{% elif player.change >= -100 %}
-						<th style="padding-bottom: 5px"><img src="{% static 'img/downarrow2.png' %}"  title="{{ player.change }}"/></th>
+						<th style="padding-bottom: 10px"><img src="{% static 'img/downarrow2.png' %}"  title="{{ player.change }}"/></th>
 					{% else %}
-						<th style="padding-bottom: 5px"><img src="{% static 'img/downarrow3.png' %}"  title="{{ player.change }}"/></th>
+						<th style="padding-bottom: 10px"><img src="{% static 'img/downarrow3.png' %}"  title="{{ player.change }}"/></th>
 					{% endif %}
 					<th style="font-weight: normal">{{ player.winrate }}</th>
 					<th style="font-weight: normal">{{ player.wins }}</th>
