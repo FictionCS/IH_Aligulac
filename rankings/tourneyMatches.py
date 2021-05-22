@@ -1310,7 +1310,7 @@ tourneyMatches = [
 },
 {
 'The Battle of Ypres':[
-[1456, 114, 'Aicad', '2-0', 'n0o2', 287, 1000],
+[1456, 114, 'Aicad', '2-0', 'No02', 287, 1000],
 [1456, 114, 'Aicad', '2-0', 'Seemann Aiobe', 249, 1279],
 [1456, 114, 'Aicad', '3-2', 'Noah', 276, 1608],
 [1608, 276, 'Noah', '2-0', 'Bobito', 288, 1000],
@@ -1321,7 +1321,7 @@ tourneyMatches = [
 [1152, 204, 'Claera', '2-1', 'Fiction', 209, 1216],
 [1000, 288, 'Bobito', '2-0', 'Seemann Oome', 238, 985],
 [1216, 209, 'Fiction', '2-0', 'Nobby', 289, 1000],
-[1000, 287, 'n0o2', '2-0', 'LemonPi', 290, 1000]]
+[1000, 287, 'No02', '2-0', 'LemonPi', 290, 1000]]
 },
 {
 'The Battle of Tannenberg':[
@@ -1337,7 +1337,7 @@ tourneyMatches = [
 [675, 290, 'LemonPi', '1-0', 'Seemann Oome', 238, 946],
 [1000, 291, 'Lev', '2-0', 'Fiction', 209, 1204],
 [946, 238, 'Seemann Oome', '2-0', 'Claera', 204, 1150],
-[1313, 249, 'Seemann Aiobe', '2-0', 'n0o2', 287, 1217]]
+[1313, 249, 'Seemann Aiobe', '2-0', 'No02', 287, 1217]]
 },
 {
 'The Battle of Somme':[
@@ -1347,7 +1347,7 @@ tourneyMatches = [
 [1319, 249, 'Seemann Aiobe', '2-0', 'LemonPi', 290, 1003],
 [1319, 249, 'Seemann Aiobe', '2-0', 'Claera', 204, 1108],
 [1108, 204, 'Claera', '2-1', 'Vipasyn', 112, 1093],
-[1688, 200, 'Saturas', '2-1', 'n0o2', 287, 1023],
+[1688, 200, 'Saturas', '2-1', 'No02', 287, 1023],
 [1124, 288, 'Bobito', '2-0', 'Steel_Legionaire', 293, 1000],
 [1003, 290, 'LemonPi', '2-0', 'Elli', 294, 1000]]
 },
@@ -1377,10 +1377,10 @@ tourneyMatches = [
 [1591, 114, 'Aicad', '2-0', 'Claera', 204, 1107],
 [1591, 114, 'Aicad', '3-2', 'Seemann Aiobe', 249, 1353],
 [1353, 249, 'Seemann Aiobe', '2-0', 'LemonPi', 290, 1079],
-[1353, 249, 'Seemann Aiobe', '2-0', 'n0o2', 287, 1256],
-[1256, 287, 'n0o2', '2-0', 'Maiki', 211, 1080],
-[1256, 287, 'n0o2', '2-1', 'Saturas', 200, 1603],
-[1256, 287, 'n0o2', '2-0', 'Claera', 204, 1107],
+[1353, 249, 'Seemann Aiobe', '2-0', 'No02', 287, 1256],
+[1256, 287, 'No02', '2-0', 'Maiki', 211, 1080],
+[1256, 287, 'No02', '2-1', 'Saturas', 200, 1603],
+[1256, 287, 'No02', '2-0', 'Claera', 204, 1107],
 [1107, 204, 'Claera', '1-0', 'Slav-matros', 232, 754],
 [1107, 204, 'Claera', '2-0', 'Fiction', 209, 1170],
 [1440, 295, 'Xard', '2-0', 'Vipasyn', 112, 1062],
@@ -1397,7 +1397,7 @@ tourneyMatches = [
 [1016, 211, 'Maiki', '2-0', 'ArchonSC2', 297, 1099],
 [1016, 211, 'Maiki', '2-1', 'CurtChan', 292, 817],
 [817, 292, 'CurtChan', '2-0', 'i3lueHornet', 312, 800],
-[817, 292, 'CurtChan', '2-1', 'Steel_Legionaire', 293, 544],
+[817, 292, 'CurtChan', '1-1', 'Steel_Legionaire', 293, 544],
 [1000, 42, 'CloneOrNot', '2-1', 'Tommy', 300, 1070],
 [1000, 42, 'CloneOrNot', '2-0', 'Reaver', 313, 800],
 [1099, 297, 'ArchonSC2', '2-0', 'Argonaut', 314, 800],
@@ -1405,5 +1405,23 @@ tourneyMatches = [
 [800, 313, 'Reaver', '2-0', 'Balizk', 303, 800],
 [544, 293, 'Steel_Legionaire', '2-0', 'Civil', 301, 475],
 [800, 310, 'A Magic Rat', '2-0', 'DadeisVenm', 315, 800]]
+},
+{
+'Operation Albio':[
+[1400, 316, 'Hoshino', '2-0', 'Maiki', 211, 1090],
+[1400, 316, 'Hoshino', '2-0', 'Fiction', 209, 1130],
+[1400, 316, 'Hoshino', '2-1', 'Aicad', 114, 1584],
+[1400, 316, 'Hoshino', '3-2', 'Seemann Aiobe', 249, 1419],
+[1419, 249, 'Seemann Aiobe', '2-0', 'NickFatNite', 317, 1000],
+[1419, 249, 'Seemann Aiobe', '2-0', 'Jiro', 318, 1000],
+[1419, 249, 'Seemann Aiobe', '2-0', 'Noah', 276, 1540],
+[1584, 114, 'Aicad', '2-0', 'i3lueHornet', 312, 472],
+[1584, 114, 'Aicad', '2-0', 'Claera', 204, 1123],
+[1584, 114, 'Aicad', '2-1', 'Noah', 276, 1540],
+[1540, 276, 'Noah', '2-0', 'Bobito', 288, 1191],
+[1540, 276, 'Noah', '2-1', 'No02', 287, 1507],
+[1123, 204, 'Claera', '2-1', 'LemonPi', 290, 1191],
+[1130, 209, 'Fiction', '2-0', 'Xard', 295, 1375],
+[1507, 287, 'No02', '2-0', 'TugaElite', 40, 929]]
 }
 ]
