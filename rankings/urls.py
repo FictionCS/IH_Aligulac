@@ -11,8 +11,8 @@ urlpatterns = [
     path('about/', views.about, name='rankings-about'),
 
     path('player/', views.player, name='rankings-player'),
-    path('player/<int:playerID>/', views.player, name='rankings-player')
+    path('player/<int:playerID>/', views.player, name='rankings-player'),
 
     path('HoF/', views.HoF, name='rankings-Hof'),
-    path('records/', views.Records, name='rankings-records'),
+    path('records/', views.records, name='rankings-records'),
 ]
