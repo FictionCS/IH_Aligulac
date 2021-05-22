@@ -19,8 +19,8 @@ fullList = [
 'wins':'56',
 'losses':'14',
 'rd':'92',
-'inactive':'28',
-'change':-54,
+'inactive':'35',
+'change':0,
 'id':'200'
 },
 {
@@ -31,7 +31,7 @@ fullList = [
 'wins':'37',
 'losses':'14',
 'rd':'73',
-'inactive':'157',
+'inactive':'164',
 'change':0,
 'id':'151'
 },
@@ -43,7 +43,7 @@ fullList = [
 'wins':'22',
 'losses':'4',
 'rd':'90',
-'inactive':'267',
+'inactive':'274',
 'change':0,
 'id':'6'
 },
@@ -55,7 +55,7 @@ fullList = [
 'wins':'37',
 'losses':'15',
 'rd':'78',
-'inactive':'164',
+'inactive':'171',
 'change':0,
 'id':'167'
 },
@@ -91,7 +91,7 @@ fullList = [
 'wins':'58',
 'losses':'21',
 'rd':'62',
-'inactive':'84',
+'inactive':'91',
 'change':0,
 'id':'36'
 },
@@ -103,7 +103,7 @@ fullList = [
 'wins':'25',
 'losses':'10',
 'rd':'80',
-'inactive':'164',
+'inactive':'171',
 'change':0,
 'id':'1'
 },
@@ -115,7 +115,7 @@ fullList = [
 'wins':'32',
 'losses':'11',
 'rd':'71',
-'inactive':'171',
+'inactive':'178',
 'change':0,
 'id':'8'
 },
@@ -127,7 +127,7 @@ fullList = [
 'wins':'46',
 'losses':'19',
 'rd':'67',
-'inactive':'171',
+'inactive':'178',
 'change':0,
 'id':'13'
 },
@@ -139,7 +139,7 @@ fullList = [
 'wins':'33',
 'losses':'20',
 'rd':'70',
-'inactive':'171',
+'inactive':'178',
 'change':0,
 'id':'123'
 },
@@ -151,7 +151,7 @@ fullList = [
 'wins':'28',
 'losses':'16',
 'rd':'74',
-'inactive':'164',
+'inactive':'171',
 'change':0,
 'id':'207'
 },
@@ -163,7 +163,7 @@ fullList = [
 'wins':'13',
 'losses':'5',
 'rd':'97',
-'inactive':'274',
+'inactive':'281',
 'change':0,
 'id':'110'
 },
@@ -175,7 +175,7 @@ fullList = [
 'wins':'16',
 'losses':'6',
 'rd':'98',
-'inactive':'274',
+'inactive':'281',
 'change':0,
 'id':'17'
 },
@@ -187,7 +187,7 @@ fullList = [
 'wins':'15',
 'losses':'8',
 'rd':'99',
-'inactive':'178',
+'inactive':'185',
 'change':0,
 'id':'34'
 },
@@ -199,7 +199,7 @@ fullList = [
 'wins':'17',
 'losses':'12',
 'rd':'87',
-'inactive':'171',
+'inactive':'178',
 'change':0,
 'id':'118'
 },
@@ -211,7 +211,7 @@ fullList = [
 'wins':'13',
 'losses':'8',
 'rd':'96',
-'inactive':'274',
+'inactive':'281',
 'change':0,
 'id':'19'
 },
@@ -223,7 +223,7 @@ fullList = [
 'wins':'14',
 'losses':'10',
 'rd':'90',
-'inactive':'164',
+'inactive':'171',
 'change':0,
 'id':'257'
 },
@@ -247,7 +247,7 @@ fullList = [
 'wins':'15',
 'losses':'10',
 'rd':'95',
-'inactive':'219',
+'inactive':'226',
 'change':0,
 'id':'31'
 },
@@ -271,7 +271,7 @@ fullList = [
 'wins':'20',
 'losses':'16',
 'rd':'84',
-'inactive':'219',
+'inactive':'226',
 'change':0,
 'id':'5'
 },
@@ -283,7 +283,7 @@ fullList = [
 'wins':'16',
 'losses':'12',
 'rd':'98',
-'inactive':'219',
+'inactive':'226',
 'change':0,
 'id':'115'
 },
@@ -295,7 +295,7 @@ fullList = [
 'wins':'14',
 'losses':'10',
 'rd':'93',
-'inactive':'274',
+'inactive':'281',
 'change':0,
 'id':'26'
 },
@@ -307,7 +307,7 @@ fullList = [
 'wins':'18',
 'losses':'18',
 'rd':'78',
-'inactive':'171',
+'inactive':'178',
 'change':0,
 'id':'80'
 },
@@ -319,7 +319,7 @@ fullList = [
 'wins':'11',
 'losses':'12',
 'rd':'95',
-'inactive':'171',
+'inactive':'178',
 'change':0,
 'id':'124'
 },
@@ -331,7 +331,7 @@ fullList = [
 'wins':'11',
 'losses':'13',
 'rd':'96',
-'inactive':'178',
+'inactive':'185',
 'change':0,
 'id':'109'
 },
@@ -343,7 +343,7 @@ fullList = [
 'wins':'11',
 'losses':'14',
 'rd':'97',
-'inactive':'84',
+'inactive':'91',
 'change':0,
 'id':'238'
 },
@@ -367,7 +367,7 @@ fullList = [
 'wins':'11',
 'losses':'17',
 'rd':'99',
-'inactive':'219',
+'inactive':'226',
 'change':0,
 'id':'65'
 },
@@ -379,7 +379,7 @@ fullList = [
 'wins':'15',
 'losses':'26',
 'rd':'75',
-'inactive':'164',
+'inactive':'171',
 'change':0,
 'id':'60'
 }

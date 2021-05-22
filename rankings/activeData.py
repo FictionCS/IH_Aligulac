@@ -31,8 +31,8 @@ players = [
 'wins':'56',
 'losses':'14',
 'rd':'92',
-'inactive':'28',
-'change':-54,
+'inactive':'35',
+'change':0,
 'id':'200'
 },
 {
@@ -139,7 +139,7 @@ players = [
 'wins':'8',
 'losses':'6',
 'rd':'148',
-'inactive':'21',
+'inactive':'28',
 'change':82,
 'id':'42'
 },
@@ -163,8 +163,8 @@ players = [
 'wins':'12',
 'losses':'12',
 'rd':'111',
-'inactive':'28',
-'change':-16,
+'inactive':'35',
+'change':0,
 'id':'112'
 },
 {
@@ -175,7 +175,7 @@ players = [
 'wins':'7',
 'losses':'4',
 'rd':'188',
-'inactive':'21',
+'inactive':'28',
 'change':-157,
 'id':'297'
 },
@@ -187,7 +187,7 @@ players = [
 'wins':'6',
 'losses':'4',
 'rd':'188',
-'inactive':'21',
+'inactive':'28',
 'change':-133,
 'id':'300'
 },
@@ -211,7 +211,7 @@ players = [
 'wins':'6',
 'losses':'7',
 'rd':'185',
-'inactive':'21',
+'inactive':'28',
 'change':79,
 'id':'292'
 },
@@ -223,7 +223,7 @@ players = [
 'wins':'3',
 'losses':'5',
 'rd':'200',
-'inactive':'21',
+'inactive':'28',
 'change':243,
 'id':'293'
 },
@@ -235,7 +235,7 @@ players = [
 'wins':'4',
 'losses':'13',
 'rd':'112',
-'inactive':'49',
+'inactive':'56',
 'change':0,
 'id':'261'
 }
