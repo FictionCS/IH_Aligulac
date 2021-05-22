@@ -12,4 +12,7 @@ urlpatterns = [
 
     path('player/', views.player, name='rankings-player'),
     path('player/<int:playerID>/', views.player, name='rankings-player')
+
+    path('HoF/', views.HoF, name='rankings-Hof'),
+    path('records/', views.Records, name='rankings-records'),
 ]

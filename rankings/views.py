@@ -44,6 +44,18 @@ def player(request, playerID='default'):
 		}
 	return render(request, 'ALIGULAC/players.html', context)
 
+def HoF(request):
+	context = {
+		'players':players	
+	}
+	return render(request, 'ALIGULAC/HoF.html', context)
+
+def records(request):
+	context = {
+		'players':players	
+	}
+	return render(request, 'ALIGULAC/records.html', context)
+
 def isInt(s):
     try: 
         x = int(s)
