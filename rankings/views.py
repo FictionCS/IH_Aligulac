@@ -49,9 +49,7 @@ def HoF(request):
 	return render(request, 'ALIGULAC/HoF.html', context)
 
 def records(request):
-	context = {
-		'players':players	
-	}
+	context = {'players' : [{'rank': 1, 'player': 'Hoshino', 'rating': 1861},{'rank': 2, 'player': 'Saturas', 'rating': 1695},{'rank': 3, 'player': 'Noah', 'rating': 1684},{'rank': 4, 'player': 'Aicad', 'rating': 1591},{'rank': 5, 'player': 'SenpaiTorpidDow', 'rating': 1563},{'rank': 6, 'player': 'Venaqus', 'rating': 1510},{'rank': 7, 'player': 'No02', 'rating': 1507},{'rank': 8, 'player': 'WellplayedTV', 'rating': 1504},{'rank': 9, 'player': 'Xyr0N', 'rating': 1465},{'rank': 10, 'player': 'Seemann Aiobe', 'rating': 1461}]}
 	return render(request, 'ALIGULAC/records.html', context)
 
 def isInt(s):
