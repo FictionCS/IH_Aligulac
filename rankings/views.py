@@ -45,7 +45,7 @@ def player(request, playerID='default'):
 	return render(request, 'ALIGULAC/players.html', context)
 
 def HoF(request):
-	context = {'players' : [{'rank': 1, 'player': 'Hoshino', 'rating': 1861},{'rank': 2, 'player': 'Saturas', 'rating': 1695},{'rank': 3, 'player': 'Noah', 'rating': 1684},{'rank': 4, 'player': 'Aicad', 'rating': 1591},{'rank': 5, 'player': 'SenpaiTorpidDow', 'rating': 1563},{'rank': 6, 'player': 'Venaqus', 'rating': 1510},{'rank': 7, 'player': 'No02', 'rating': 1507},{'rank': 8, 'player': 'WellplayedTV', 'rating': 1504},{'rank': 9, 'player': 'Xyr0N', 'rating': 1465},{'rank': 10, 'player': 'Seemann Aiobe', 'rating': 1461}]}
+	context = {'players' : [{'rank': 1, 'player': 'Saturas', 'points': 9274},{'rank': 2, 'player': 'Xyr0N', 'points': 7237},{'rank': 3, 'player': 'Venaqus', 'points': 5813},{'rank': 4, 'player': 'Aicad', 'points': 5734},{'rank': 5, 'player': 'Noah', 'points': 5730},{'rank': 6, 'player': 'SenpaiTorpidDow', 'points': 5422},{'rank': 7, 'player': 'WellplayedTV', 'points': 4969},{'rank': 8, 'player': 'Mixu', 'points': 3707},{'rank': 9, 'player': 'Wizard cat', 'points': 2161},{'rank': 10, 'player': 'Jdanzi', 'points': 1963}]}
 	return render(request, 'ALIGULAC/HoF.html', context)
 
 def records(request):

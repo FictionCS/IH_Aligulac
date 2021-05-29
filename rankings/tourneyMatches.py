@@ -1423,5 +1423,22 @@ tourneyMatches = [
 [1123, 204, 'Claera', '2-1', 'LemonPi', 290, 1191],
 [1130, 209, 'Fiction', '2-0', 'Xard', 295, 1375],
 [1507, 287, 'No02', '2-0', 'TugaElite', 40, 929]]
+},
+{
+'Rookie Tournament #3':[
+[1063, 211, 'Maiki', '2-0', 'Balizk', 303, 609],
+[1063, 211, 'Maiki', '2-1', 'Sireals', 319, 800],
+[1063, 211, 'Maiki', '3-0', 'CloneOrNot', 42, 1082],
+[1082, 42, 'CloneOrNot', '2-0', 'Steel_Legionaire', 293, 788],
+[1082, 42, 'CloneOrNot', '2-0', 'Reaver', 313, 901],
+[901, 313, 'Reaver', '2-0', 'CurtChan', 292, 897],
+[901, 313, 'Reaver', '2-0', 'Vooldy', 320, 800],
+[901, 313, 'Reaver', '0-2', 'Sireals', 319, 800],
+[800, 319, 'Sireals', '2-0', 'Linch', 321, 800],
+[800, 319, 'Sireals', '2-0', 'Civil', 301, 248],
+[609, 303, 'Balizk', '2-0', 'Jeff', 322, 800],
+[248, 301, 'Civil', '2-1', 'Tempo Decepto', 323, 800],
+[788, 293, 'Steel_Legionaire', '2-0', 'Elliott', 324, 800],
+[800, 320, 'Vooldy', '2-1', 'potop', 325, 800]]
 }
 ]
