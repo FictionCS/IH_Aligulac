@@ -111,20 +111,20 @@
 				<div class="dropdown" style="padding-bottom: 0px;">
 				  <button style="color: #8a8a8a;" class="dropbtn">Rankings</button>
 				  <div id="myDropdown" class="dropdown-content">
-				    <a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/">Active Rankings</a>
-				    <a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/full">All Time Rankings</a>
+				    <a style="text-decoration: none; color: #8a8a8a" href="/">Active Rankings</a>
+				    <a style="text-decoration: none; color: #8a8a8a" href="/full">All Time Rankings</a>
 				  </div>
 				</div>
 				<div class="dropdown" style="padding-bottom: 0px;">
 				  <button style=" color: #8a8a8a;" class="dropbtn">Records</button>
 				  <div id="myDropdown" class="dropdown-content" >
-				    <a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/HoF">Hall of Fame</a>
-				    <a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/records">Alltime Records</a>
+				    <a style="text-decoration: none; color: #8a8a8a" href="/HoF">Hall of Fame</a>
+				    <a style="text-decoration: none; color: #8a8a8a" href="/records">Alltime Records</a>
 				  </div>
 				</div>
-				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/matches">Matches</a></li>
-				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/predictions">Predictions</a></li>
-				<button><a style="text-decoration: none; color: #8a8a8a" href="https://ihaligulac.herokuapp.com/about">About</a></li>
+				<button><a style="text-decoration: none; color: #8a8a8a" href="/matches">Matches</a></li>
+				<button><a style="text-decoration: none; color: #8a8a8a" href="/predictions">Predictions</a></li>
+				<button><a style="text-decoration: none; color: #8a8a8a" href="/about">About</a></li>
 					<datalist id="suggestions">
 				        {% for player in playerData %}
 							<option value="{{ player.id }}">{{ player.player }}</option>>
@@ -136,12 +136,12 @@
 	<script type="text/javascript">
 		function myFunction() {
 		  val = document.getElementById("playerSearch").value
-		  location.href = 'https://ihaligulac.herokuapp.com/player/' + val;
+		  location.href = '/player/' + val;
 		}
 		function handle(e){
 		  if(e.keyCode === 13){
 			  val = document.getElementById("playerSearch").value
-			  location.href = 'https://ihaligulac.herokuapp.com/player/' + val;
+			  location.href = '/player/' + val;
 		  }
 		  	return false;
 		}
